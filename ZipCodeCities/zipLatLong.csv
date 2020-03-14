@@ -1,0 +1,740 @@
+Zip Code,City,County,Latitude,Longitude
+07001,Avenel,Middlesex,40.578996,-74.27987
+07002,Bayonne,Hudson,40.666552,-74.11768000000001
+07003,Bloomfield,Essex,40.803,-74.18895
+07004,Fairfield,Essex,40.879049,-74.29378
+07005,Boonton,Morris,40.912798,-74.41516
+07006,Caldwell,Essex,40.848999,-74.27917
+07007,Caldwell,Essex,40.79185,-74.245241
+07008,Carteret,Middlesex,40.582504,-74.22997
+07009,Cedar Grove,Essex,40.855854,-74.22898
+07010,Cliffside Park,Bergen,40.82154,-73.98949
+07011,Clifton,Passaic,40.879699,-74.14263
+07012,Clifton,Passaic,40.847922,-74.1579
+07013,Clifton,Passaic,40.868699,-74.17102
+07014,Clifton,Passaic,40.834049,-74.13669
+07015,Clifton,Passaic,41.011428,-74.304793
+07016,Cranford,Union,40.656302,-74.30371
+07017,East Orange,Essex,40.770933,-74.20589
+07018,East Orange,Essex,40.75555,-74.21897
+07019,East Orange,Essex,40.79185,-74.245241
+07020,Edgewater,Bergen,40.830733,-73.97334
+07021,Essex Fells,Essex,40.827499,-74.28091
+07022,Fairview,Bergen,40.816737,-74.00082
+07023,Fanwood,Union,40.641852,-74.38533
+07024,Fort Lee,Bergen,40.849879,-73.97501
+07026,Garfield,Bergen,40.879858,-74.10807
+07027,Garwood,Union,40.650802,-74.32351
+07028,Glen Ridge,Essex,40.80495,-74.2047
+07029,Harrison,Hudson,40.745951,-74.15509
+07030,Hoboken,Hudson,40.744851,-74.03294
+07031,North Arlington,Bergen,40.791895,-74.13254
+07032,Kearny,Hudson,40.763051,-74.13718
+07033,Kenilworth,Union,40.674652,-74.2908
+07034,Lake Hiawatha,Morris,40.881149,-74.38112
+07035,Lincoln Park,Morris,40.923233,-74.29376
+07036,Linden,Union,40.633953,-74.25339
+07039,Livingston,Essex,40.788733,-74.32134
+07040,Maplewood,Essex,40.728901,-74.26821
+07041,Millburn,Essex,40.724168,-74.29913
+07042,Montclair,Essex,40.81315,-74.21576
+07043,Montclair,Essex,40.844199,-74.20218
+07044,Verona,Essex,40.832449,-74.24227
+07045,Montville,Morris,40.906152,-74.36742
+07046,Mountain Lakes,Morris,40.892021,-74.44022
+07047,North Bergen,Hudson,40.7946,-74.01963
+07050,Orange,Essex,40.768299999999996,-74.23603
+07051,Orange,Essex,40.79185,-74.245241
+07052,West Orange,Essex,40.78865,-74.25541
+07054,Parsippany,Morris,40.860149,-74.4171
+07055,Passaic,Passaic,40.857384,-74.12899
+07057,Wallington,Bergen,40.852931,-74.10925
+07058,Pine Brook,Morris,40.871299,-74.34331
+07059,Warren,Somerset,40.633652,-74.5008
+07060,Plainfield,Union,40.620102,-74.42481
+07061,Plainfield,Union,40.665651,-74.299692
+07062,Plainfield,Union,40.631252,-74.40383
+07063,Plainfield,Union,40.604252,-74.44612
+07064,Port Reading,Middlesex,40.569504,-74.24774
+07065,Rahway,Union,40.607103,-74.28099
+07066,Clark,Union,40.620336,-74.30934
+07067,Colonia,Middlesex,40.591653,-74.31341
+07068,Roseland,Essex,40.821799,-74.30477
+07069,Watchung,Somerset,40.641207,-74.443695
+07070,Rutherford,Bergen,40.828922,-74.11064
+07071,Lyndhurst,Bergen,40.808416,-74.12111
+07072,Carlstadt,Bergen,40.836555,-74.08466
+07073,East Rutherford,Bergen,40.830158,-74.09707
+07074,Moonachie,Bergen,40.841668,-74.059
+07075,Wood Ridge,Bergen,40.847638,-74.08754
+07076,Scotch Plains,Union,40.637152,-74.37493
+07077,Sewaren,Middlesex,40.553971,-74.25938
+07078,Short Hills,Essex,40.73915,-74.32749
+07079,South Orange,Essex,40.74765,-74.25881
+07080,South Plainfield,Middlesex,40.580703,-74.41401
+07081,Springfield,Union,40.701801,-74.32216
+07082,Towaco,Morris,40.92241,-74.34625
+07083,Union,Union,40.695401,-74.26933
+07086,Weehawken,Hudson,40.769796,-74.022351
+07087,Union City,Hudson,40.767751,-74.0302
+07088,Vauxhall,Union,40.718401,-74.28416
+07090,Westfield,Union,40.649202,-74.34567
+07091,Westfield,Union,40.665651,-74.299692
+07092,Mountainside,Union,40.680301,-74.35601
+07093,West New York,Hudson,40.7895,-74.01223
+07094,Secaucus,Hudson,40.7885,-74.06
+07095,Woodbridge,Middlesex,40.557104,-74.28316
+07096,Secaucus,Hudson,40.73276,-74.075485
+07097,Jersey City,Hudson,40.73276,-74.075485
+07099,Kearny,Hudson,40.73276,-74.075485
+07101,Newark,Essex,40.736101,-74.22509
+07102,Newark,Essex,40.735257,-74.17326
+07103,Newark,Essex,40.738501,-74.19507
+07104,Newark,Essex,40.767702,-74.16831
+07105,Newark,Essex,40.725801,-74.15206
+07106,Newark,Essex,40.742251,-74.23006
+07107,Newark,Essex,40.760667,-74.1879
+07108,Newark,Essex,40.722751,-74.2014
+07109,Belleville,Essex,40.7935,-74.16144
+07110,Nutley,Essex,40.8196,-74.15877
+07111,Irvington,Essex,40.725651,-74.23207
+07112,Newark,Essex,40.711651,-74.21303
+07114,Newark,Essex,40.707553,-74.17883
+07175,Newark,Essex,40.79185,-74.245241
+07182,Newark,Essex,40.79185,-74.245241
+07184,Newark,Essex,40.79185,-74.245241
+07188,Newark,Essex,40.79185,-74.245241
+07189,Newark,Essex,40.79185,-74.245241
+07191,Newark,Essex,40.79185,-74.245241
+07192,Newark,Essex,40.79185,-74.245241
+07193,Newark,Essex,40.79185,-74.245241
+07194,Newark,Essex,40.79185,-74.245241
+07195,Newark,Essex,40.79185,-74.245241
+07198,Newark,Essex,40.79185,-74.245241
+07199,Newark,Essex,40.79185,-74.245241
+07201,Elizabeth,Union,40.669502,-74.19889
+07202,Elizabeth,Union,40.652302,-74.21692
+07203,Roselle,Union,40.653502,-74.26058
+07204,Roselle Park,Union,40.665552,-74.26768
+07205,Hillside,Union,40.695552,-74.22856
+07206,Elizabeth,Union,40.653189,-74.19158
+07207,Elizabeth,Union,40.665651,-74.299692
+07208,Elizabeth,Union,40.673102,-74.22834
+07302,Jersey City,Hudson,40.721602,-74.04703
+07303,Jersey City,Hudson,40.73276,-74.075485
+07304,Jersey City,Hudson,40.716452,-74.07253
+07305,Jersey City,Hudson,40.701302,-74.08843
+07306,Jersey City,Hudson,40.733751,-74.06582
+07307,Jersey City,Hudson,40.748001,-74.04943
+07308,Jersey City,Hudson,40.73276,-74.075485
+07309,Jersey City,Hudson,40.73276,-74.075485
+07310,Jersey City,Hudson,40.731901,-74.0402
+07311,Jersey City,Hudson,40.73235,-74.075391
+07395,Jersey City,Hudson,40.7300,-74.0800
+07399,Jersey City,Hudson,40.73235,-74.075391
+07401,Allendale,Bergen,41.031505,-74.13409
+07403,Bloomingdale,Passaic,41.014497,-74.33021
+07405,Butler,Morris,40.99313,-74.35893
+07407,Elmwood Park,Bergen,40.905639,-74.1199
+07410,Fair Lawn,Bergen,40.933943,-74.11671
+07416,Franklin,Sussex,41.11736,-74.58784
+07417,Franklin Lakes,Bergen,41.010433,-74.20847
+07418,Glenwood,Sussex,41.232344,-74.48688
+07419,Hamburg,Sussex,41.156187,-74.57094
+07420,Haskell,Passaic,41.026747,-74.29742
+07421,Hewitt,Passaic,41.173445,-74.37404
+07422,Highland Lakes,Sussex,41.180137,-74.45489
+07423,Ho Ho Kus,Bergen,41.001695,-74.10239
+07424,Little Falls,Passaic,40.886628,-74.21405
+07428,Mc Afee,Sussex,41.181052,-74.51796
+07430,Mahwah,Bergen,41.077102,-74.16147
+07432,Midland Park,Bergen,40.99312,-74.14286
+07435,Newfoundland,Passaic,41.045897,-74.43677
+07436,Oakland,Bergen,41.028884,-74.23727
+07438,Oak Ridge,Passaic,41.029555,-74.5071
+07439,Ogdensburg,Sussex,41.080066,-74.5972
+07440,Pequannock,Morris,40.946748,-74.29575
+07442,Pompton Lakes,Passaic,40.99948,-74.28807
+07444,Pompton Plains,Morris,40.964548,-74.29813
+07446,Ramsey,Bergen,41.058819,-74.14238
+07450,Ridgewood,Bergen,40.983997,-74.11438
+07451,Ridgewood,Bergen,40.948054,-74.083231
+07452,Glen Rock,Bergen,40.961109,-74.12576
+07456,Ringwood,Passaic,41.096095,-74.26012
+07457,Riverdale,Morris,40.990032,-74.31023
+07458,Saddle River,Bergen,41.054568,-74.09616
+07460,Stockholm,Sussex,41.091254,-74.52081
+07461,Sussex,Sussex,41.229754,-74.60203
+07462,Vernon,Sussex,41.193708,-74.5089
+07463,Waldwick,Bergen,41.013109,-74.12231
+07465,Wanaque,Passaic,41.052958,-74.28236
+07470,Wayne,Passaic,40.943608,-74.25004
+07474,Wayne,Passaic,41.011428,-74.304793
+07477,Wayne,Passaic,41.011428,-74.304793
+07480,West Milford,Passaic,41.102569,-74.37047
+07481,Wyckoff,Bergen,40.998582999999996,-74.1671
+07495,Mahwah,Bergen,40.948054,-74.083231
+07501,Paterson,Passaic,40.912198,-74.16863
+07502,Paterson,Passaic,40.918948,-74.1939
+07503,Paterson,Passaic,40.896798,-74.15731
+07504,Paterson,Passaic,40.912148,-74.14271
+07505,Paterson,Passaic,40.916165,-74.17129
+07506,Hawthorne,Passaic,40.957498,-74.15627
+07507,Hawthorne,Passaic,41.011428,-74.304793
+07508,Haledon,Passaic,40.945198,-74.18286
+07509,Paterson,Passaic,41.011428,-74.304793
+07510,Paterson,Passaic,41.011428,-74.304793
+07511,Totowa,Passaic,41.011428,-74.304793
+07512,Totowa,Passaic,40.903348,-74.21763
+07513,Paterson,Passaic,40.906598,-74.14944
+07514,Paterson,Passaic,40.923648,-74.14321
+07522,Paterson,Passaic,40.925778,-74.17784
+07524,Paterson,Passaic,40.930398,-74.15829
+07533,Paterson,Passaic,41.011428,-74.304793
+07538,Haledon,Passaic,41.011428,-74.304793
+07543,Paterson,Passaic,41.011428,-74.304793
+07544,Paterson,Passaic,41.011428,-74.304793
+07601,Hackensack,Bergen,40.888678,-74.0488
+07602,Hackensack,Bergen,40.948054,-74.083231
+07603,Bogota,Bergen,40.873876,-74.02769
+07604,Hasbrouck Heights,Bergen,40.86289,-74.07506
+07605,Leonia,Bergen,40.862685,-73.98551
+07606,South Hackensack,Bergen,40.863699,-74.04643
+07607,Maywood,Bergen,40.905030000000004,-74.06279
+07608,Teterboro,Bergen,40.853723,-74.05987
+07620,Alpine,Bergen,40.952814,-73.93064
+07621,Bergenfield,Bergen,40.923748,-73.99879
+07624,Closter,Bergen,40.971956,-73.96166
+07626,Cresskill,Bergen,40.942074,-73.96504
+07627,Demarest,Bergen,40.955602999999996,-73.96044
+07628,Dumont,Bergen,40.945173,-73.99342
+07630,Emerson,Bergen,40.97514,-74.02725
+07631,Englewood,Bergen,40.893343,-73.9758
+07632,Englewood Cliffs,Bergen,40.883749,-73.95173
+07640,Harrington Park,Bergen,40.989357,-73.97958
+07641,Haworth,Bergen,40.958573,-73.98659
+07642,Hillsdale,Bergen,41.007389,-74.04247
+07643,Little Ferry,Bergen,40.850621,-74.04112
+07644,Lodi,Bergen,40.877999,-74.08265
+07645,Montvale,Bergen,41.048997,-74.04052
+07646,New Milford,Bergen,40.936211,-74.0188
+07647,Northvale,Bergen,41.009414,-73.94849
+07648,Norwood,Bergen,40.994442,-73.95586
+07649,Oradell,Bergen,40.953126,-74.03379
+07650,Palisades Park,Bergen,40.845742,-73.99479
+07652,Paramus,Bergen,40.947107,-74.07047
+07653,Paramus,Bergen,40.948054,-74.083231
+07656,Park Ridge,Bergen,41.034672,-74.04065
+07657,Ridgefield,Bergen,40.832421,-74.00399
+07660,Ridgefield Park,Bergen,40.856749,-74.02278
+07661,River Edge,Bergen,40.927579,-74.03739
+07662,Rochelle Park,Bergen,40.906553,-74.07797
+07663,Saddle Brook,Bergen,40.904131,-74.09474
+07666,Teaneck,Bergen,40.890964,-74.01115
+07670,Tenafly,Bergen,40.92169,-73.96482
+07675,Westwood,Bergen,40.99904,-74.03291
+07676,Township Of Washington,Bergen,40.989508,-74.061302
+07677,Woodcliff Lake,Bergen,41.025101,-74.059762
+07699,Teterboro,Bergen,40.8533,74.0686
+07701,Red Bank,Monmouth,40.352953,-74.07703
+07702,Shrewsbury,Monmouth,40.329128,-74.06315
+07703,Fort Monmouth,Monmouth,40.309121,-74.0486
+07704,Fair Haven,Monmouth,40.360581,-74.03738
+07709,Red Bank,Monmouth,40.302718,-74.24928
+07710,Adelphia,Monmouth,40.302718,-74.24928
+07711,Allenhurst,Monmouth,40.236916,-74.0069
+07712,Asbury Park,Monmouth,40.232713,-74.03143
+07715,Belmar,Monmouth,40.302718,-74.24928
+07716,Atlantic Highlands,Monmouth,40.407958,-74.03483
+07717,Avon By The Sea,Monmouth,40.191809,-74.01688
+07718,Belford,Monmouth,40.415902,-74.08689
+07719,Belmar,Monmouth,40.175357,-74.04694
+07720,Bradley Beach,Monmouth,40.202113,-74.01353
+07721,Cliffwood,Monmouth,40.435961,-74.23734
+07722,Colts Neck,Monmouth,40.300226,-74.18306
+07723,Deal,Monmouth,40.250104,-74.00153
+07724,Eatontown,Monmouth,40.301979,-74.06889
+07726,Englishtown,Monmouth,40.294244,-74.34213
+07727,Farmingdale,Monmouth,40.205367,-74.15767
+07728,Freehold,Monmouth,40.241036,-74.27629
+07730,Hazlet,Monmouth,40.423298,-74.179
+07731,Howell,Monmouth,40.146597,-74.20815
+07732,Highlands,Monmouth,40.404474,-73.9904
+07733,Holmdel,Monmouth,40.384832,-74.17194
+07734,Keansburg,Monmouth,40.444407,-74.13298
+07735,Keyport,Monmouth,40.439714,-74.19374
+07737,Leonardo,Monmouth,40.416772,-74.06058
+07738,Lincroft,Monmouth,40.337374,-74.12059
+07739,Little Silver,Monmouth,40.33517,-74.04059
+07740,Long Branch,Monmouth,40.297932,-73.99097
+07746,Marlboro,Monmouth,40.316876,-74.26112
+07747,Matawan,Monmouth,40.411102,-74.23767
+07748,Middletown,Monmouth,40.410213,-74.11718
+07750,Monmouth Beach,Monmouth,40.332877,-73.97986
+07751,Morganville,Monmouth,40.361014,-74.26595
+07752,Navesink,Monmouth,40.402277,-74.027285
+07753,Neptune,Monmouth,40.208945,-74.05261
+07754,Neptune,Monmouth,40.302718,-74.24928
+07755,Oakhurst,Monmouth,40.263575,-74.02176
+07756,Ocean Grove,Monmouth,40.211982,-74.00916
+07757,Oceanport,Monmouth,40.318115,-74.01239
+07758,Port Monmouth,Monmouth,40.427561,-74.1069
+07760,Rumson,Monmouth,40.369145,-73.99576
+07762,Spring Lake,Monmouth,40.153024,-74.03372
+07763,Tennent,Monmouth,40.302718,-74.24928
+07764,West Long Branch,Monmouth,40.289985,-74.01671
+07765,Wickatunk,Monmouth,40.302718,-74.24928
+07777,Holmdel,Monmouth,40.302718,-74.24928
+07799,Eatontown,Monmouth,40.302718,-74.24928
+07801,Dover,Morris,40.889166,-74.55462
+07802,Dover,Morris,40.867331,-74.578269
+07803,Mine Hill,Morris,40.878785,-74.60098
+07806,Picatinny Arsenal,Morris,40.867331,-74.578269
+07820,Allamuchy,Warren,40.869648,-74.849661
+07821,Andover,Sussex,40.966308,-74.74298
+07822,Augusta,Sussex,41.139545,-74.6993
+07823,Belvidere,Warren,40.82383,-75.04585
+07825,Blairstown,Warren,40.96035,-74.96243
+07826,Branchville,Sussex,41.177457,-74.75904
+07827,Montague,Sussex,41.300062,-74.76058
+07828,Budd Lake,Morris,40.878198,-74.73875
+07829,Buttzville,Warren,40.84335,-74.985914
+07830,Califon,Hunterdon,40.723778,-74.81866
+07831,Changewater,Warren,40.739382,-74.944756
+07832,Columbia,Warren,40.92976,-75.06193
+07833,Delaware,Warren,40.895451,-75.06752
+07834,Denville,Morris,40.886149,-74.48704
+07836,Flanders,Morris,40.84405,-74.70134
+07837,Glasser,Sussex,41.12831,-74.678956
+07838,Great Meadows,Warren,40.886474,-74.90089
+07839,Greendell,Sussex,41.12831,-74.678956
+07840,Hackettstown,Warren,40.861748,-74.83054
+07842,Hibernia,Morris,40.940301,-74.49617
+07843,Hopatcong,Sussex,40.937206,-74.66147
+07844,Hope,Warren,40.919658,-74.984628
+07845,Ironia,Morris,40.867331,-74.578269
+07846,Johnsonburg,Warren,40.966266,-74.87979
+07847,Kenvil,Morris,40.88038,-74.62009
+07848,Lafayette,Sussex,41.094159,-74.69036
+07849,Lake Hopatcong,Morris,40.963959,-74.61414
+07850,Landing,Morris,40.908198,-74.65749
+07851,Layton,Sussex,41.172968,-74.88301
+07852,Ledgewood,Morris,40.876349,-74.65769
+07853,Long Valley,Morris,40.788599,-74.78295
+07855,Middleville,Sussex,41.12831,-74.678956
+07856,Mount Arlington,Morris,40.919498,-74.63559
+07857,Netcong,Morris,40.897398,-74.70301
+07860,Newton,Sussex,41.0714,-74.80199
+07863,Oxford,Warren,40.815107,-74.96802
+07865,Port Murray,Warren,40.783175,-74.90934
+07866,Rockaway,Morris,40.926798,-74.50624
+07869,Randolph,Morris,40.847649,-74.5748
+07870,Schooleys Mountain,Morris,40.810362,-74.819318
+07871,Sparta,Sussex,41.035384,-74.63557
+07874,Stanhope,Sussex,40.917054,-74.71053
+07875,Stillwater,Sussex,41.043858,-74.871981
+07876,Succasunna,Morris,40.855549,-74.65251
+07877,Swartswood,Sussex,41.10289,-74.850759
+07878,Mount Tabor,Morris,40.872866,-74.47843
+07879,Tranquility,Sussex,40.955934,-74.788108
+07880,Vienna,Warren,40.864844,-74.897002
+07881,Wallpack Center,Sussex,41.125646,-74.917711
+07882,Washington,Warren,40.753753,-74.99617
+07885,Wharton,Morris,40.913298,-74.58246
+07890,Branchville,Sussex,41.12831,-74.678956
+07901,Summit,Union,40.714501,-74.3633
+07902,Summit,Union,40.665651,-74.299692
+07920,Basking Ridge,Somerset,40.6789,-74.57039
+07921,Bedminster,Somerset,40.652301,-74.653
+07922,Berkeley Heights,Union,40.675112,-74.43459
+07924,Bernardsville,Somerset,40.72344,-74.57753
+07926,Brookside,Morris,40.800353,-74.571785
+07927,Cedar Knolls,Morris,40.821149,-74.45121
+07928,Chatham,Morris,40.7332,-74.39736
+07930,Chester,Morris,40.786549,-74.68799
+07931,Far Hills,Somerset,40.696601,-74.63781
+07932,Florham Park,Morris,40.77835,-74.39009
+07933,Gillette,Morris,40.683934,-74.47079
+07934,Gladstone,Somerset,40.72265,-74.67432
+07935,Green Village,Morris,40.739333,-74.45631
+07936,East Hanover,Morris,40.820012,-74.36474
+07938,Liberty Corner,Somerset,40.655399,-74.586151
+07939,Lyons,Somerset,40.566553,-74.599801
+07940,Madison,Morris,40.75875,-74.41609
+07945,Mendham,Morris,40.782767,-74.59529
+07946,Millington,Morris,40.672823,-74.52011
+07950,Greystone Park,Morris,40.842399,-74.48223
+07950,Morris Plains,Morris,40.842399,-74.48223
+07960,Morristown,Morris,40.79215,-74.48559
+07961,Morristown,Morris,40.77975,-74.442797
+07962,Morristown,Morris,40.867331,-74.578269
+07963,Morristown,Morris,40.867331,-74.578269
+07970,Mount Freedom,Morris,40.813281,-74.57267
+07974,New Providence,Union,40.698268,-74.40225
+07976,New Vernon,Morris,40.733739,-74.48851
+07977,Peapack,Somerset,40.707505,-74.65657
+07978,Pluckemin,Somerset,40.642491,-74.639597
+07979,Pottersville,Hunterdon,40.713675,-74.72465
+07980,Stirling,Morris,40.672968,-74.49171
+07981,Whippany,Morris,40.821482,-74.42648
+07983,Whippany,Morris,40.867331,-74.578269
+07999,Whippany,Morris,40.867331,-74.578269
+08001,Alloway,Salem,39.559426,-75.3631
+08002,Cherry Hill,Camden,39.932279,-75.02266
+08003,Cherry Hill,Camden,39.879713,-74.9719
+08004,Atco,Camden,39.769357,-74.87264
+08005,Barnegat,Ocean,39.759581,-74.27398
+08006,Barnegat Light,Ocean,39.75196,-74.11074
+08007,Barrington,Camden,39.868013,-75.05424
+08008,Beach Haven,Ocean,39.614596,-74.2005
+08009,Berlin,Camden,39.779582,-74.9365
+08010,Beverly,Burlington,40.058211,-74.91404
+08011,Birmingham,Burlington,39.978635,-74.71323
+08012,Blackwood,Camden,39.784614,-75.05678
+08014,Bridgeport,Gloucester,39.803646,-75.34421
+08015,Browns Mills,Burlington,39.960596,-74.5606
+08016,Burlington,Burlington,40.06834,-74.84463
+08018,Cedar Brook,Camden,39.80237,-74.938259
+08019,Chatsworth,Burlington,39.777314,-74.5354
+08020,Clarksboro,Gloucester,39.800958,-75.2211
+08021,Clementon,Camden,39.810485,-74.99574
+08022,Columbus,Burlington,40.079952,-74.70684
+08023,Deepwater,Salem,39.683577,-75.48932
+08025,Ewan,Gloucester,39.701526,-75.162903
+08026,Gibbsboro,Camden,39.833847,-74.96899
+08027,Gibbstown,Gloucester,39.824159,-75.28187
+08028,Glassboro,Gloucester,39.700008,-75.11951
+08029,Glendora,Camden,39.840463,-75.0687
+08030,Gloucester City,Camden,39.891113,-75.11836
+08031,Bellmawr,Camden,39.867013,-75.09162
+08032,Grenloch,Gloucester,39.781264,-75.0609
+08033,Haddonfield,Camden,39.895213,-75.04019
+08034,Cherry Hill,Camden,39.908613,-74.99951
+08035,Haddon Heights,Camden,39.87913,-75.06599
+08036,Hainesport,Burlington,39.985662,-74.83044
+08037,Hammonton,Atlantic,39.625291,-74.77705
+08038,Hancocks Bridge,Salem,39.481009,-75.50618
+08039,Harrisonville,Gloucester,39.685445,-75.2669
+08041,Jobstown,Burlington,40.038339,-74.6806
+08042,Juliustown,Burlington,40.018503,-74.66656
+08043,Voorhees,Camden,39.851969,-74.96128
+08045,Lawnside,Camden,39.866513,-75.03197
+08046,Willingboro,Burlington,40.029011,-74.88257
+08048,Lumberton,Burlington,39.967013,-74.80666
+08049,Magnolia,Camden,39.85478,-75.03671
+08050,Manahawkin,Ocean,39.707575,-74.25933
+08051,Mantua,Gloucester,39.785785,-75.17761
+08052,Maple Shade,Burlington,39.952212,-74.99464
+08053,Marlton,Burlington,39.88488,-74.90416
+08054,Mount Laurel,Burlington,39.949446,-74.90342
+08055,Medford,Burlington,39.865272,-74.8185
+08056,Mickleton,Gloucester,39.785219,-75.25304
+08057,Moorestown,Burlington,39.968962,-74.9489
+08059,Mount Ephraim,Camden,39.884263,-75.0923
+08060,Mount Holly,Burlington,39.991562,-74.79747
+08061,Mount Royal,Gloucester,39.807684,-75.20496
+08062,Mullica Hill,Gloucester,39.716938999999996,-75.21987
+08063,National Park,Gloucester,39.867158,-75.1802
+08064,New Lisbon,Burlington,39.961921,-74.63687
+08065,Palmyra,Burlington,40.00278,-75.02626
+08066,Paulsboro,Gloucester,39.833156,-75.23773
+08067,Pedricktown,Salem,39.740353,-75.41262
+08068,Pemberton,Burlington,39.961183,-74.66266
+08069,Penns Grove,Salem,39.712593,-75.46906
+08070,Pennsville,Salem,39.645377,-75.51923
+08071,Pitman,Gloucester,39.730964,-75.13009
+08072,Quinton,Salem,39.546172,-75.41367
+08073,Rancocas,Burlington,40.010461,-74.86762
+08074,Richwood,Gloucester,39.716194,-75.17326
+08075,Riverside,Burlington,40.029361,-74.9541
+08076,Riverton,Burlington,39.862433,-74.725079
+08077,Riverton,Burlington,39.997379,-74.99805
+08078,Runnemede,Camden,39.850013,-75.0767
+08079,Salem,Salem,39.549912,-75.43943
+08080,Sewell,Gloucester,39.74953,-75.10637
+08081,Sicklerville,Camden,39.741385,-74.99035
+08083,Somerdale,Camden,39.842613,-75.02496
+08084,Stratford,Camden,39.829014,-75.01371
+08085,Swedesboro,Gloucester,39.753088,-75.32687
+08086,Thorofare,Gloucester,39.849156,-75.18159
+08087,Tuckerton,Ocean,39.59899,-74.36573
+08088,Vincentown,Burlington,39.871699,-74.70528
+08089,Waterford Works,Camden,39.722622,-74.8503
+08090,Wenonah,Gloucester,39.799347,-75.15202
+08091,West Berlin,Camden,39.807695,-74.93392
+08092,West Creek,Ocean,39.658781,-74.28673
+08093,Westville,Gloucester,39.861413,-75.13284
+08094,Williamstown,Gloucester,39.647598,-74.95927
+08095,Winslow,Camden,39.656976,-74.86043
+08096,Deptford,Gloucester,39.830313,-75.13221
+08096,Woodbury,Gloucester,39.830313,-75.13221
+08097,Woodbury Heights,Gloucester,39.816063,-75.15321
+08098,Woodstown,Salem,39.637838,-75.32396
+08099,Bellmawr,Camden,39.779179,-74.962071
+08101,Camden,Camden,39.80237,-74.938259
+08102,Camden,Camden,39.949579,-75.118
+08103,Camden,Camden,39.936179,-75.11513
+08104,Camden,Camden,39.918663,-75.10976
+08104,Haddon Township,Camden,39.918663,-75.10976
+08105,Camden,Camden,39.949812,-75.08616
+08106,Audubon,Camden,39.892213,-75.07212
+08107,Haddon Township,Camden,39.908163,-75.08618
+08107,Oaklyn,Camden,39.908163,-75.08618
+08108,Collingswood,Camden,39.915263,-75.06401
+08108,Haddon Township,Camden,39.915263,-75.06401
+08109,Merchantville,Camden,39.949979,-75.05024
+08110,Pennsauken,Camden,39.966812,-75.05681
+08201,Absecon,Atlantic,39.457517,-74.50914
+08202,Avalon,Cape May,39.092928,-74.72688
+08203,Brigantine,Atlantic,39.401801,-74.38017
+08204,Cape May,Cape May,38.963652,-74.92319
+08205,Absecon,Atlantic,39.471263,-74.502457
+08210,Cape May Court House,Cape May,39.081754,-74.83658
+08212,Cape May Point,Cape May,38.936896,-74.96526
+08213,Cologne,Atlantic,39.509208,-74.608557
+08214,Dennisville,Cape May,39.056521,-74.816619
+08215,Egg Harbor City,Atlantic,39.548049,-74.62171
+08217,Elwood,Atlantic,39.575273,-74.72103
+08218,Goshen,Cape May,39.056521,-74.816619
+08219,Green Creek,Cape May,39.056521,-74.816619
+08220,Leeds Point,Atlantic,39.509208,-74.608557
+08221,Linwood,Atlantic,39.348616,-74.57387
+08223,Marmora,Cape May,39.264412,-74.64986
+08224,New Gretna,Burlington,39.595957,-74.45628
+08225,Northfield,Atlantic,39.370083,-74.55211
+08226,Ocean City,Cape May,39.265371,-74.59381
+08230,Ocean View,Cape May,39.20877,-74.70438
+08231,Oceanville,Atlantic,39.509208,-74.608557
+08232,Pleasantville,Atlantic,39.394616,-74.52212
+08234,Egg Harbor Township,Atlantic,39.398172,-74.59667
+08240,Pomona,Atlantic,39.487717,-74.554334
+08241,Port Republic,Atlantic,39.527903,-74.4917
+08242,Rio Grande,Cape May,39.017837,-74.87515
+08243,Sea Isle City,Cape May,39.145755,-74.69865
+08244,Somers Point,Atlantic,39.319901,-74.5999
+08245,South Dennis,Cape May,39.176208,-74.81723
+08246,South Seaville,Cape May,39.056521,-74.816619
+08247,Stone Harbor,Cape May,39.051289,-74.76204
+08248,Strathmere,Cape May,39.197394,-74.65699
+08250,Tuckahoe,Cape May,39.056521,-74.816619
+08251,Villas,Cape May,39.022256,-74.93616
+08252,Whitesboro,Cape May,39.037404,-74.85749
+08260,Wildwood,Cape May,38.987556,-74.822
+08270,Woodbine,Cape May,39.275059,-74.80041
+08302,Bridgeton,Cumberland,39.445164,-75.24215
+08310,Buena,Atlantic,39.522686,-74.89684
+08311,Cedarville,Cumberland,39.337205,-75.18577
+08312,Clayton,Gloucester,39.655964,-75.08736
+08313,Deerfield Street,Cumberland,39.530314,-75.22901
+08314,Delmont,Cumberland,39.219301,-74.94016
+08315,Dividing Creek,Cumberland,39.273214,-75.095025
+08316,Dorchester,Cumberland,39.274714,-74.97546
+08317,Dorothy,Atlantic,39.406518,-74.82706
+08318,Elmer,Salem,39.553504,-75.16843
+08319,Estell Manor,Atlantic,39.376098999999996,-74.81456
+08320,Fairton,Cumberland,39.379906,-75.221681
+08321,Fortescue,Cumberland,39.239649,-75.17225
+08322,Franklinville,Gloucester,39.618222,-75.0618
+08323,Greenwich,Cumberland,39.402763,-75.3574
+08324,Heislerville,Cumberland,39.218484,-74.99001
+08326,Landisville,Atlantic,39.524179,-74.9385
+08327,Leesburg,Cumberland,39.254836,-74.97767
+08328,Malaga,Gloucester,39.572449,-75.0543
+08329,Mauricetown,Cumberland,39.285464,-74.99687
+08330,Mays Landing,Atlantic,39.478771,-74.7581
+08332,Millville,Cumberland,39.379382,-75.03923
+08340,Milmay,Atlantic,39.437265,-74.87926
+08341,Minotola,Atlantic,39.517539,-74.94972
+08342,Mizpah,Atlantic,39.50208,-74.833469
+08343,Monroeville,Salem,39.633964,-75.15643
+08344,Newfield,Gloucester,39.562763,-75.00955
+08345,Newport,Cumberland,39.28341,-75.15464
+08346,Newtonville,Atlantic,39.562719,-74.85853
+08347,Norma,Salem,39.499765,-75.082022
+08348,Port Elizabeth,Cumberland,39.314084,-74.97889
+08349,Port Norris,Cumberland,39.25682,-75.06683
+08350,Richland,Atlantic,39.490774,-74.87045
+08352,Rosenhayn,Cumberland,39.475565,-75.12933
+08353,Shiloh,Cumberland,39.458114,-75.29761
+08360,Vineland,Cumberland,39.492265,-75.01887
+08361,Vineland,Cumberland,39.464582,-74.96994
+08362,Vineland,Cumberland,39.271264,-75.027671
+08401,Atlantic City,Atlantic,39.364966,-74.43903
+08402,Margate City,Atlantic,39.329416,-74.50661
+08403,Longport,Atlantic,39.314766,-74.52675
+08404,Atlantic City,Atlantic,39.509208,-74.608557
+08405,Atlantic City,Atlantic,39.509208,-74.608557
+08406,Ventnor City,Atlantic,39.342299,-74.48192
+08501,Allentown,Monmouth,40.164556,-74.57785
+08502,Belle Mead,Somerset,40.460137,-74.63592
+08504,Blawenburg,Somerset,40.425369,-74.668753
+08505,Bordentown,Burlington,40.132784,-74.71778
+08510,Millstone Township,Monmouth,40.18238,-74.42134
+08511,Cookstown,Burlington,40.050128,-74.55611
+08512,Cranbury,Middlesex,40.306286,-74.52627
+08514,Cream Ridge,Monmouth,40.134892,-74.48688
+08515,Chesterfield,Burlington,40.14821,-74.65125
+08518,Florence,Burlington,40.11791,-74.8047
+08520,Hightstown,Mercer,40.262809,-74.53246
+08525,Hopewell,Mercer,40.386902,-74.78112
+08526,Imlaystown,Monmouth,40.162275,-74.475936
+08527,Jackson,Ocean,40.11597,-74.32251
+08528,Kingston,Somerset,40.377173,-74.61538
+08530,Lambertville,Hunterdon,40.375039,-74.93184
+08533,New Egypt,Ocean,40.075185,-74.48433
+08534,Pennington,Mercer,40.32315,-74.78364
+08535,Perrineville,Monmouth,40.228497,-74.45064
+08536,Plainsboro,Middlesex,40.33371,-74.58512
+08540,Princeton,Mercer,40.357439,-74.64922
+08541,Princeton,Mercer,40.280531,-74.712018
+08542,Princeton,Mercer,40.354424,-74.65943
+08543,Princeton,Mercer,40.280531,-74.712018
+08544,Princeton,Mercer,40.349206,-74.652811
+08550,Princeton Junction,Mercer,40.292358,-74.60902
+08551,Ringoes,Hunterdon,40.449171,-74.84979
+08553,Rocky Hill,Somerset,40.400406,-74.63895
+08554,Roebling,Burlington,40.113883,-74.77977
+08555,Roosevelt,Monmouth,40.22142,-74.47378
+08556,Rosemont,Hunterdon,40.419965,-74.988619
+08557,Sergeantsville,Hunterdon,40.563654,-74.949409
+08558,Skillman,Somerset,40.410155,-74.70726
+08559,Stockton,Hunterdon,40.435878,-74.96511
+08560,Titusville,Mercer,40.31049,-74.85947
+08561,Windsor,Mercer,40.242009,-74.58006
+08562,Wrightstown,Burlington,40.062215,-74.58893
+08601,Trenton,Mercer,40.280531,-74.712018
+08602,Trenton,Mercer,40.280531,-74.712018
+08603,Trenton,Mercer,40.280531,-74.712018
+08604,Trenton,Mercer,40.280531,-74.712018
+08605,Trenton,Mercer,40.280531,-74.712018
+08606,Trenton,Mercer,40.280531,-74.712018
+08607,Trenton,Mercer,40.280531,-74.712018
+08608,Trenton,Mercer,40.219158,-74.76481
+08609,Trenton,Mercer,40.224441,-74.7421
+08610,Trenton,Mercer,40.199859,-74.72005
+08611,Trenton,Mercer,40.206959,-74.75136
+08618,Trenton,Mercer,40.238258,-74.7805
+08619,Trenton,Mercer,40.240558,-74.69588
+08620,Trenton,Mercer,40.17296,-74.66915
+08625,Trenton,Mercer,40.206709,-74.75643
+08628,Trenton,Mercer,40.264708,-74.82295
+08629,Trenton,Mercer,40.219358,-74.73334
+08638,Trenton,Mercer,40.249908,-74.75953
+08640,Fort Dix,Burlington,40.003861,-74.61775
+08641,Trenton,Burlington,40.04492,-74.58916
+08645,Trenton,Mercer,40.280531,-74.712018
+08646,Trenton,Mercer,40.280531,-74.712018
+08647,Trenton,Mercer,40.280531,-74.712018
+08648,Trenton,Mercer,40.276782,-74.72951
+08650,Trenton,Mercer,40.280531,-74.712018
+08666,Trenton,Mercer,40.280531,-74.712018
+08677,Trenton,Mercer,40.280531,-74.712018
+08690,Trenton,Mercer,40.225409,-74.65918
+08691,Trenton,Mercer,40.207034,-74.59364
+08695,Trenton,Mercer,40.280531,-74.712018
+08701,Lakewood,Ocean,40.082782,-74.2094
+08720,Allenwood,Monmouth,40.14386,-74.10286
+08721,Bayville,Ocean,39.902851,-74.16037
+08722,Beachwood,Ocean,39.931068,-74.19618
+08723,Brick,Ocean,40.042479,-74.123
+08724,Brick,Ocean,40.087794,-74.10981
+08730,Brielle,Monmouth,40.108433,-74.06226
+08731,Forked River,Ocean,39.848035,-74.21297
+08732,Island Heights,Ocean,39.942616,-74.14689
+08733,Lakehurst,Ocean,40.017117,-74.30491
+08734,Lanoka Harbor,Ocean,39.862864,-74.16624
+08735,Lavallette,Ocean,39.982101,-74.06768
+08736,Manasquan,Monmouth,40.120261,-74.05765
+08738,Mantoloking,Ocean,40.025258,-74.05579
+08739,Normandy Beach,Ocean,40.000759,-74.24928
+08740,Ocean Gate,Ocean,39.925301,-74.13488
+08741,Pine Beach,Ocean,39.934318,-74.16773
+08742,Point Pleasant Beach,Ocean,40.081165,-74.06003
+08750,Sea Girt,Monmouth,40.133754,-74.04123
+08751,Seaside Heights,Ocean,39.948518,-74.0759
+08752,Seaside Park,Ocean,39.920268,-74.07967
+08753,Toms River,Ocean,39.974584,-74.15141
+08754,Toms River,Ocean,40.000759,-74.24928
+08755,Toms River,Ocean,40.010092,-74.23032
+08756,Toms River,Ocean,39.787966,-74.191058
+08757,Toms River,Ocean,39.975967,-74.25296
+08758,Waretown,Ocean,39.784513,-74.22376
+08759,Manchester Township,Ocean,39.943541,-74.36949
+08801,Annandale,Hunterdon,40.624538,-74.89118
+08802,Asbury,Hunterdon,40.661172,-75.0321
+08803,Baptistown,Hunterdon,40.563654,-74.949409
+08804,Bloomsbury,Hunterdon,40.652484,-75.08959
+08805,Bound Brook,Somerset,40.567953,-74.54034
+08807,Bridgewater,Somerset,40.588097,-74.62253
+08808,Broadway,Warren,40.737213,-75.046926
+08809,Clinton,Hunterdon,40.639546,-74.91292
+08810,Dayton,Middlesex,40.372881,-74.51363
+08812,Dunellen,Middlesex,40.594502,-74.47166
+08816,East Brunswick,Middlesex,40.434239,-74.40504
+08817,Edison,Middlesex,40.516104,-74.39754
+08818,Edison,Middlesex,40.430006,-74.417344
+08820,Edison,Middlesex,40.575503,-74.35781
+08821,Flagtown,Somerset,40.518578,-74.68545
+08822,Flemington,Hunterdon,40.515645,-74.85319
+08823,Franklin Park,Somerset,40.439412,-74.55565
+08824,Kendall Park,Middlesex,40.423055,-74.55352
+08825,Frenchtown,Hunterdon,40.509998,-75.03239
+08826,Glen Gardner,Hunterdon,40.716332,-74.91405
+08827,Hampton,Hunterdon,40.677404,-74.96875
+08828,Helmetta,Middlesex,40.37594,-74.41955
+08829,High Bridge,Hunterdon,40.668594,-74.89241
+08830,Iselin,Middlesex,40.571504,-74.3183
+08831,Monroe Township,Middlesex,40.336508,-74.43302
+08832,Keasbey,Middlesex,40.517855,-74.30325
+08833,Lebanon,Hunterdon,40.643314,-74.82345
+08834,Little York,Hunterdon,40.563654,-74.949409
+08835,Manville,Somerset,40.538903,-74.59222
+08836,Martinsville,Somerset,40.595552,-74.55174
+08837,Edison,Middlesex,40.529355,-74.33844
+08840,Metuchen,Middlesex,40.543354,-74.3587
+08844,Hillsborough,Somerset,40.502477,-74.650023
+08846,Middlesex,Middlesex,40.574552,-74.50187
+08848,Milford,Hunterdon,40.587606,-75.10402
+08850,Milltown,Middlesex,40.451105,-74.43938
+08852,Monmouth Junction,Middlesex,40.389428,-74.54329
+08853,Neshanic Station,Somerset,40.51057,-74.72472
+08854,Piscataway,Middlesex,40.555355,-74.46094
+08855,Piscataway,Middlesex,40.430006,-74.417344
+08857,Old Bridge,Middlesex,40.397507,-74.3298
+08858,Oldwick,Hunterdon,40.681694,-74.73624
+08859,Parlin,Middlesex,40.461851,-74.30343
+08861,Perth Amboy,Middlesex,40.520105,-74.27708
+08862,Perth Amboy,Middlesex,40.430006,-74.417344
+08863,Fords,Middlesex,40.535304,-74.31104
+08865,Phillipsburg,Warren,40.689123,-75.17243
+08867,Pittstown,Hunterdon,40.583035,-74.96224
+08868,Quakertown,Hunterdon,40.565493000000004,-74.938931
+08869,Raritan,Somerset,40.571302,-74.6374
+08870,Readington,Hunterdon,40.563654,-74.949409
+08871,Sayreville,Middlesex,40.430006,-74.417344
+08872,Sayreville,Middlesex,40.461605,-74.3474
+08873,Somerset,Somerset,40.505253,-74.50723
+08875,Somerset,Somerset,40.580918,-74.711731
+08876,Somerville,Somerset,40.545853,-74.63592
+08879,South Amboy,Middlesex,40.469606,-74.27669
+08880,South Bound Brook,Somerset,40.553803,-74.52976
+08882,South River,Middlesex,40.445006,-74.38179
+08884,Spotswood,Middlesex,40.39159,-74.39329
+08885,Stanton,Hunterdon,40.576372,-74.831105
+08886,Stewartsville,Warren,40.694938,-75.11181
+08887,Three Bridges,Hunterdon,40.525361,-74.79632
+08888,Whitehouse,Hunterdon,40.619412,-74.740597
+08889,Whitehouse Station,Hunterdon,40.612851,-74.76682
+08890,Zarephath,Somerset,40.536069,-74.578872
+08896,Raritan,Somerset,40.566553,-74.599801
+08899,Edison,Middlesex,40.520254,-74.420545
+08901,New Brunswick,Middlesex,40.488304,-74.44775
+08902,North Brunswick,Middlesex,40.453131,-74.48287
+08903,New Brunswick,Middlesex,40.513854,-74.445098
+08904,Highland Park,Middlesex,40.500254,-74.4257
+08905,New Brunswick,Middlesex,40.430006,-74.417344
+08906,New Brunswick,Middlesex,40.430006,-74.417344
+08922,New Brunswick,Middlesex,40.430006,-74.417344
+08933,New Brunswick,Middlesex,40.430006,-74.417344
+08988,New Brunswick,Middlesex,40.430006,-74.417344
+08989,New Brunswick,Middlesex,40.430006,-74.417344

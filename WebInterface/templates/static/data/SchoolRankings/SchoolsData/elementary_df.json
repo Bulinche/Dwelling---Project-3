@@ -1,0 +1,50 @@
+{"_id":{"$oid":"5e68c76e6143e808a858285e"},"Elementary Ranking":"1","Elementary_name":"School 28","City":"Paterson","Latitude":"40.92359","longitude":"-74.170778"}
+{"_id":{"$oid":"5e68c76e6143e808a858285f"},"Elementary Ranking":"2","Elementary_name":"George Washington School","City":"Mahwah","Latitude":"41.04125","longitude":"-74.175978"}
+{"_id":{"$oid":"5e68c76e6143e808a8582860"},"Elementary Ranking":"3","Elementary_name":"Thomas Edison EnergySmart Charter School","City":"Somerset","Latitude":"40.52833","longitude":"-74.522741"}
+{"_id":{"$oid":"5e68c76e6143e808a8582861"},"Elementary Ranking":"4","Elementary_name":"Sara M. Gilmore Academy","City":"Union City","Latitude":"40.76521","longitude":"-74.040511"}
+{"_id":{"$oid":"5e68c76e6143e808a8582862"},"Elementary Ranking":"5","Elementary_name":"William F. Halloran School No.22","City":"Elizabeth","Latitude":"40.645896","longitude":"-74.208857"}
+{"_id":{"$oid":"5e68c76e6143e808a8582863"},"Elementary Ranking":"6","Elementary_name":"Lincoln-Hubbard Elementary School","City":"Summit","Latitude":"40.720729","longitude":"-74.360815"}
+{"_id":{"$oid":"5e68c76e6143e808a8582864"},"Elementary Ranking":"7","Elementary_name":"Glenwood School","City":"Short Hills","Latitude":"40.725453","longitude":"-74.332203"}
+{"_id":{"$oid":"5e68c76e6143e808a8582865"},"Elementary Ranking":"8","Elementary_name":"Cornelia F. Bradford School","City":"Jersey City","Latitude":"40.714796","longitude":"-74.038204"}
+{"_id":{"$oid":"5e68c76e6143e808a8582866"},"Elementary Ranking":"9","Elementary_name":"Princeton Charter School","City":"Princeton","Latitude":"40.369744","longitude":"-74.657282"}
+{"_id":{"$oid":"5e68c76e6143e808a8582867"},"Elementary Ranking":"10","Elementary_name":"Mendham Township Elementary School","City":"Brookside","Latitude":"40.792299","longitude":"-74.571577"}
+{"_id":{"$oid":"5e68c76e6143e808a8582868"},"Elementary Ranking":"11","Elementary_name":"Upper School","City":"Englewood Cliffs","Latitude":"40.875683","longitude":"-73.956065"}
+{"_id":{"$oid":"5e68c76e6143e808a8582869"},"Elementary Ranking":"12","Elementary_name":"Monmouth Junction Elementary School","City":"Monmouth Junction","Latitude":"40.379083","longitude":"-74.549141"}
+{"_id":{"$oid":"5e68c76e6143e808a858286a"},"Elementary Ranking":"13","Elementary_name":"Henry B. Milnes Elementary School","City":"Fair Lawn","Latitude":"40.93579","longitude":"-74.105051"}
+{"_id":{"$oid":"5e68c76e6143e808a858286b"},"Elementary Ranking":"14","Elementary_name":"Gould/Mountain Elementary School","City":"N Caldwell","Latitude":"40.859107","longitude":"-74.259172"}
+{"_id":{"$oid":"5e68c76e6143e808a858286c"},"Elementary Ranking":"15","Elementary_name":"Orchard Elementary School","City":"Ridgewood","Latitude":"40.973604","longitude":"-74.128147"}
+{"_id":{"$oid":"5e68c76e6143e808a858286d"},"Elementary Ranking":"16","Elementary_name":"Hillside Elementary School","City":"Closter","Latitude":"40.966551","longitude":"-73.949792"}
+{"_id":{"$oid":"5e68c76e6143e808a858286e"},"Elementary Ranking":"17","Elementary_name":"Deane-Porter Elementary School","City":"Rumson","Latitude":"40.371283","longitude":"-74.004866"}
+{"_id":{"$oid":"5e68c76e6143e808a858286f"},"Elementary Ranking":"18","Elementary_name":"Clara E Coleman School","City":"Glen Rock","Latitude":"40.956704","longitude":"-74.115266"}
+{"_id":{"$oid":"5e68c76e6143e808a8582870"},"Elementary Ranking":"19","Elementary_name":"Wyoming School","City":"Millburn","Latitude":"40.727908","longitude":"-74.290794"}
+{"_id":{"$oid":"5e68c76e6143e808a8582871"},"Elementary Ranking":"20","Elementary_name":"South Valley Elementary School","City":"Moorestown","Latitude":"39.96719","longitude":"-74.92899"}
+{"_id":{"$oid":"5e68c76e6143e808a8582872"},"Elementary Ranking":"21","Elementary_name":"Somerville Elementary School","City":"Ridgewood","Latitude":"40.973764","longitude":"-74.099526"}
+{"_id":{"$oid":"5e68c76e6143e808a8582873"},"Elementary Ranking":"22","Elementary_name":"Riverview Elementary School","City":"Denville","Latitude":"40.897191","longitude":"-74.482937"}
+{"_id":{"$oid":"5e68c76e6143e808a8582874"},"Elementary Ranking":"23","Elementary_name":"Hartshorn School","City":"Short Hills","Latitude":"40.73313","longitude":"-74.341637"}
+{"_id":{"$oid":"5e68c76e6143e808a8582875"},"Elementary Ranking":"24","Elementary_name":"George C. Baker Elementary School","City":"Moorestown","Latitude":"39.96916","longitude":"-74.956748"}
+{"_id":{"$oid":"5e68c76e6143e808a8582876"},"Elementary Ranking":"25","Elementary_name":"Mount Prospect Elementary School","City":"Basking Ridge","Latitude":"40.656192","longitude":"-74.622707"}
+{"_id":{"$oid":"5e68c76e6143e808a8582877"},"Elementary Ranking":"26","Elementary_name":"Viola L Sickles School","City":"Fair Haven","Latitude":"40.364404","longitude":"-74.033906"}
+{"_id":{"$oid":"5e68c76e6143e808a8582878"},"Elementary Ranking":"27","Elementary_name":"Sea Girt Elementary School","City":"Sea Girt","Latitude":"40.132811","longitude":"-74.042507"}
+{"_id":{"$oid":"5e68c76e6143e808a8582879"},"Elementary Ranking":"28","Elementary_name":"Hillside Elementary School","City":"Allendale","Latitude":"41.031406","longitude":"-74.140575"}
+{"_id":{"$oid":"5e68c76e6143e808a858287a"},"Elementary Ranking":"29","Elementary_name":"Hawes Elementary School","City":"Ridgewood","Latitude":"40.959265","longitude":"-74.104631"}
+{"_id":{"$oid":"5e68c76e6143e808a858287b"},"Elementary Ranking":"30","Elementary_name":"Washington Elementary School","City":"Westfield","Latitude":"40.660838","longitude":"-74.332243"}
+{"_id":{"$oid":"5e68c76e6143e808a858287c"},"Elementary Ranking":"31","Elementary_name":"Milltown Primary School","City":"Bridgewater","Latitude":"40.598165","longitude":"-74.672791"}
+{"_id":{"$oid":"5e68c76e6143e808a858287d"},"Elementary Ranking":"32","Elementary_name":"Franklin Elementary School","City":"Summit","Latitude":"40.708997","longitude":"-74.375574"}
+{"_id":{"$oid":"5e68c76e6143e808a858287e"},"Elementary Ranking":"33","Elementary_name":"Terence C. Reilly School No 7","City":"Elizabeth","Latitude":"40.654896","longitude":"-74.217682"}
+{"_id":{"$oid":"5e68c76e6143e808a858287f"},"Elementary Ranking":"34","Elementary_name":"Deerfield School","City":"Short Hills","Latitude":"40.750637","longitude":"-74.313379"}
+{"_id":{"$oid":"5e68c76e6143e808a8582880"},"Elementary Ranking":"35","Elementary_name":"Ridge Elementary School","City":"Ridgewood","Latitude":"40.985657","longitude":"-74.131119"}
+{"_id":{"$oid":"5e68c76e6143e808a8582881"},"Elementary Ranking":"36","Elementary_name":"Woodbrook Elementary School","City":"Edison","Latitude":"40.557509","longitude":"-74.377753"}
+{"_id":{"$oid":"5e68c76e6143e808a8582882"},"Elementary Ranking":"37","Elementary_name":"Grandview Elementary School","City":"N Caldwell","Latitude":"40.874092","longitude":"-74.25423"}
+{"_id":{"$oid":"5e68c76e6143e808a8582883"},"Elementary Ranking":"38","Elementary_name":"Cherry Hill School","City":"River Edge","Latitude":"40.92061","longitude":"-74.035902"}
+{"_id":{"$oid":"5e68c76e6143e808a8582884"},"Elementary Ranking":"39","Elementary_name":"Wildwood Elementary School","City":"Mountain Lakes","Latitude":"40.894348","longitude":"-74.43248"}
+{"_id":{"$oid":"5e68c76e6143e808a8582885"},"Elementary Ranking":"40","Elementary_name":"Washington Elementary School","City":"Summit","Latitude":"40.726241","longitude":"-74.372268"}
+{"_id":{"$oid":"5e68c76e6143e808a8582886"},"Elementary Ranking":"41","Elementary_name":"Wandell School","City":"Saddle River","Latitude":"41.031822","longitude":"-74.096141"}
+{"_id":{"$oid":"5e68c76e6143e808a8582887"},"Elementary Ranking":"42","Elementary_name":"Betsy Ross Elementary","City":"Mahwah","Latitude":"41.092865","longitude":"-74.140416"}
+{"_id":{"$oid":"5e68c76e6143e808a8582888"},"Elementary Ranking":"43","Elementary_name":"Walter M. Schirra Elementary School","City":"Old Bridge","Latitude":"40.393317","longitude":"-74.315591"}
+{"_id":{"$oid":"5e68c76e6143e808a8582889"},"Elementary Ranking":"44","Elementary_name":"Essex Fells Elementary School","City":"Essex Fells","Latitude":"40.830065","longitude":"-74.281556"}
+{"_id":{"$oid":"5e68c76e6143e808a858288a"},"Elementary Ranking":"45","Elementary_name":"High Mountain Road School","City":"Franklin Lakes","Latitude":"40.991457","longitude":"-74.210279"}
+{"_id":{"$oid":"5e68c76e6143e808a858288b"},"Elementary Ranking":"46","Elementary_name":"Mountain Park School","City":"Berkeley Hts","Latitude":"40.668134","longitude":"-74.451352"}
+{"_id":{"$oid":"5e68c76e6143e808a858288c"},"Elementary Ranking":"47","Elementary_name":"Edith A. Bogert Elementary School","City":"Upper Saddle River","Latitude":"41.062478","longitude":"-74.100046"}
+{"_id":{"$oid":"5e68c76e6143e808a858288d"},"Elementary Ranking":"48","Elementary_name":"Brookside Place School","City":"Cranford","Latitude":"40.664119","longitude":"-74.317109"}
+{"_id":{"$oid":"5e68c76e6143e808a858288e"},"Elementary Ranking":"49","Elementary_name":"Zane North Elementary School","City":"Collingswood","Latitude":"39.912078","longitude":"-75.066964"}
+{"_id":{"$oid":"5e68c76e6143e808a858288f"},"Elementary Ranking":"50","Elementary_name":"Hillside Elementary School","City":"Livingston","Latitude":"40.790358","longitude":"-74.325313"}
