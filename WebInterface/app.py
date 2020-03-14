@@ -98,8 +98,8 @@ def highSchool():
     
     return jsonify(schools)
 
-@app.route("/re")
-def realty():
+@app.route("/bstop")
+def busStops():
     # Create connection variable
     conn2 = 'mongodb://localhost:27017'
     listings = []
@@ -110,14 +110,11 @@ def realty():
     # Connect to a database. Will create one if not already available.
     db2 = client2.Dwelling_db
     print("---------------------Here------------------")
-    realestate = [doc for doc in db2.realestate_listings.find({}, {'_id':False})]
-
+    busStops = [doc for doc in db2.Bus_stops.find({}, {'_id':False})]
+    print (busStops)
  
     
-    return jsonify(realestate)
-
+    return jsonify(busStops)
 
 if __name__ == "__main__":
-    app.run(debug=True)    
-
-
+    app.run(debug=True)
