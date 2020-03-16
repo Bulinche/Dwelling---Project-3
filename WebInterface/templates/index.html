@@ -23,7 +23,9 @@
   <script src="https://d3js.org/d3.v4.min.js"></script>
   <link rel="stylesheet" href="static/css/style.css" />
   
-
+  <link rel="icon" 
+      type="image/png" 
+      href="./favicon.ico">
   <!-- Bootstrap -->
   <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
     integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous"> -->
@@ -148,6 +150,7 @@
             <fieldset class="form-group">
               <legend>City</legend>
               <select class="form-control-plaintext" id="City">
+                <option value="Reset">Select One</option>
               {% for item in cityNames %}
                 <option value= "{{ item.latlong }}">{{ item.city }}</option>
               {% endfor %}
@@ -204,7 +207,7 @@
             </fieldset>
             <fieldset class="form-group">
               <legend>Walkability</legend>
-              <input type="range" class="custom-range range-secondary" id="Walkability" min=0 max=10 step=1
+              <input type="range" class="custom-range range-secondary" id="Walkability" name="Walkability" value=5 min=0 max=10 step=1
                 style="width:50%;">
             </fieldset>
             <fieldset class="form-group">
