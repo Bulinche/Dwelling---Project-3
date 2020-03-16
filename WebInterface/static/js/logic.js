@@ -13,7 +13,8 @@ var layers = {
   BusStops: new L.LayerGroup(),
   Houses: new L.LayerGroup(),
   Munis: new L.LayerGroup(),
-  WalkHeat: new L.LayerGroup()
+  WalkHeat: new L.LayerGroup(),
+  TravelHeat: new L.LayerGroup()
 };
 
 // Creating map object
@@ -26,7 +27,8 @@ var map = L.map("map", {
     layers.BusStops,
     layers.Houses,
     layers.Munis,
-    layers.WalkHeat
+    layers.WalkHeat,
+    layers.TravelHeat
   ]
 });
 
@@ -170,12 +172,15 @@ function drawMunicipalities() {
 
 // });
 
-
+//***************************************
+//           WALK HEATMAP LAYER
+//***************************************
 function walkHeat(multiplier) {
+  layers.WalkHeat.clearLayers();
+
   d3.json("/walkScore", function (response) {
     // console.log(response);
     console.log(multiplier)
-    layers.WalkHeat.clearLayers();
     if (multiplier != 0) {
       var heatArray = [];
       for (var i = 0; i < response.length; i++) {
@@ -190,47 +195,98 @@ function walkHeat(multiplier) {
         radius: 2 * multiplier,
         blur: 3 * multiplier
       });
-
       heat.addTo(layers.WalkHeat);
-
     }
+  })
+}
+
+//***************************************
+//        TRAVEL HEATMAP LAYER
+//***************************************
+function travelHeat(multiplier) {
+  layers.TravelHeat.clearLayers();
+
+  d3.json("/rr", function (response) {
+
+    if (multiplier != 0) {
+      var heatArray = [];
+      for (var i = 0; i < response.length; i++) {
+        var latitude = parseFloat(response[i].Latitude);
+        var longitude = parseFloat(response[i].Longitude);
+        var intensity = multiplier;
+        if (latitude) {
+          heatArray.push([latitude, longitude, intensity]);
+        }
+      }
+      var heat = L.heatLayer(heatArray, {
+        radius: 2 * multiplier,
+        blur: 3 * multiplier
+      });
+      heat.addTo(layers.TravelHeat);
+    }
+  })
+
+  d3.json("/bstop", function (response) {
+    var heatArray = [];
+    for (var i = 0; i < response.length; i++) {
+      var latitude = parseFloat(response[i].stop_lat);
+      var longitude = parseFloat(response[i].stop_lon);
+      var intensity = multiplier;
+      if (latitude) {
+        heatArray.push([latitude, longitude, intensity]);
+      }
+    }
+    var heat = L.heatLayer(heatArray, {
+      radius: 2 * multiplier,
+      blur: 3 * multiplier
+    });
+    heat.addTo(layers.TravelHeat);
   })
 }
 
 function init() {
       drawMunicipalities();
 
-      CitySelect = d3.select("#City");
-      CitySelect.on("change", function () {
-        console.log(CitySelect.property("value"))
+      walkSlider1 = d3.select("#Walkability")
+      walkHeat(eval(walkSlider1.property('value')))
 
-        var t = CitySelect.property("value");
-        if (t == "Reset") {
-          var coord = {
-            'lat': "40.0583",
-            'lon': "-74.4057"
-          }
-          map.flyTo(coord, 8);
-        }
-        else {
-          var lat = t.split(",")[0];
-          var lon = t.split(",")[1];
-          var coord = {
-            'lat': lat,
-            'lon': lon
-          }
-          map.flyTo(coord, 13);
-
-        }
-      });
-      walkSlider = d3.select("#Walkability")
-      walkHeat(eval(walkSlider.property('value')))
+      travelSlider1 = d3.select("#Transportation")
+      travelHeat(eval(travelSlider1.property('value')))
     }
 
 init();
 
 
-  walkSlider1 = d3.select("#Walkability")
-  walkSlider1.on("change", function () {
+  walkSlider = d3.select("#Walkability")
+  walkSlider.on("change", function () {
     walkHeat(eval(d3.select(this).property('value')))
   })
+
+  travelSlider = d3.select("#Transportation")
+  travelSlider.on("change", function () {
+    travelHeat(eval(d3.select(this).property('value')))
+  })
+
+  CitySelect = d3.select("#City");
+  CitySelect.on("change", function () {
+    console.log(CitySelect.property("text"))
+
+    var t = CitySelect.property("value");
+    if (t == "Reset") {
+      var coord = {
+        'lat': "40.0583",
+        'lon': "-74.4057"
+      }
+      map.flyTo(coord, 8);
+    }
+    else {
+      var lat = t.split(",")[0];
+      var lon = t.split(",")[1];
+      var coord = {
+        'lat': lat,
+        'lon': lon
+      }
+      map.flyTo(coord, 13);
+
+    }
+  });

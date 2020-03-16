@@ -18,14 +18,19 @@
 
 
   <!-- Leaflet JS & CSS -->
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin="" />
-  <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js" integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q==" crossorigin=""></script>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css"
+    integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+    crossorigin="" />
+  <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
+    integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
+    crossorigin=""></script>
   <script src="https://d3js.org/d3.v4.min.js"></script>
   <link rel="stylesheet" href="static/css/style.css" />
-  
-  <link rel="icon" 
-      type="image/png" 
-      href="./favicon.ico">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
   <!-- Bootstrap -->
   <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
     integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous"> -->
@@ -151,9 +156,9 @@
               <legend>City</legend>
               <select class="form-control-plaintext" id="City">
                 <option value="Reset">Select One</option>
-              {% for item in cityNames %}
-                <option value= "{{ item.latlong }}">{{ item.city }}</option>
-              {% endfor %}
+                {% for item in cityNames %}
+                <option value="{{ item.latlong }}">{{ item.city }}</option>
+                {% endfor %}
               </select>
             </fieldset>
             <fieldset class="form-group">
@@ -207,8 +212,8 @@
             </fieldset>
             <fieldset class="form-group">
               <legend>Walkability</legend>
-              <input type="range" class="custom-range range-secondary" id="Walkability" name="Walkability" value=5 min=0 max=10 step=1
-                style="width:50%;">
+              <input type="range" class="custom-range range-secondary" id="Walkability" name="Walkability" value=5 min=0
+                max=10 step=1 style="width:50%;">
             </fieldset>
             <fieldset class="form-group">
               <legend>Safety</legend>
@@ -226,16 +231,16 @@
           <!-- map div -->
           <div id="map"></div>
           <!-- Leaflet heatmap plugin-->
-  <script src="static/js/leaflet.extra-markers.min.js"></script>
-  <script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
+          <script src="static/js/leaflet.extra-markers.min.js"></script>
+          <script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
 
-  <script type="text/javascript" src="static/js/leaflet-heat.js"></script>
+          <script type="text/javascript" src="static/js/leaflet-heat.js"></script>
           <!-- API key -->
           <script type="text/javascript" src="static/js/config.js"></script>
           <!-- JS  -->
           <script type="text/javascript" src="static/js/logic.js"></script>
-          
-  <script src="static/js/leaflet.extra-markers.min.js"></script>
+
+          <script src="static/js/leaflet.extra-markers.min.js"></script>
         </div>
 
         <div class="row">
@@ -385,9 +390,9 @@
     crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.9/validator.min.js"
     integrity="sha256-dHf/YjH1A4tewEsKUSmNnV05DDbfGN3g7NMq86xgGh8=" crossorigin="anonymous"></script>
-  
 
-  </body>
+
+</body>
 
 </body>
 
