@@ -1,6 +1,7 @@
 from flask import Flask, jsonify, render_template
 from bs4 import BeautifulSoup as bs
 import requests
+import operator
 
 import time
 import pandas as pd
@@ -20,13 +21,12 @@ def home():
     # Create connection variable
     conn2 = 'mongodb://localhost:27017'
     city_names = []
-
+    test = []
     # Pass connection to the pymongo instance.
     client2 = pymongo.MongoClient(conn2)
 
     # Connect to a database. Will create one if not already available.
     db2 = client2.Dwelling_db
-    print("---------------------Here------------------")
     cities = db2.city_lat_lon.find()
 
     for x in cities:
@@ -36,7 +36,11 @@ def home():
         }
         city_names.append(temp)
         
-    return render_template('index.html', cityNames = city_names)
+    # test.sort(function (a,b){return a.City < b.City})
+
+    
+    test = sorted(city_names, key = lambda i: i['city'])
+    return render_template('index.html', cityNames = test)
 
 @app.route("/rr")
 def railroad():
@@ -67,8 +71,23 @@ def highSchool():
     db2 = client2.Dwelling_db
     
     schools = [doc for doc in db2.high_school.find({}, {'_id':False})]
+    
+    return jsonify(schools)
 
- 
+
+@app.route("/hsm/<city>")
+def highSchoolMarkers(city):
+    # Create connection variable
+    conn2 = 'mongodb://localhost:27017'
+    schools = []
+
+    # Pass connection to the pymongo instance.
+    client2 = pymongo.MongoClient(conn2)
+
+    # Connect to a database. Will create one if not already available.
+    db2 = client2.Dwelling_db
+    
+    schools = [doc for doc in db2.high_school.find({"City": city}, {'_id':False})]
     
     return jsonify(schools)
 

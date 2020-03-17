@@ -105,32 +105,6 @@ function drawMunicipalities() {
   });
 }
 
-// Rail Stops
-
-// d3.json("/rr", function (response) {
-//   // console.log(response);
-
-//   current_layer = "TrainStop"
-//   var heatArray = [];
-//   for (var i = 0; i < response.length; i++) {
-//     var latitude = parseFloat(response[i].stop_lat);
-//     var longitude = parseFloat(response[i].stop_lon);
-//     if (latitude) {
-//       // heatArray.push([latitude, longitude]);
-//       L.marker([latitude, longitude], { icon: icons[current_layer] }).addTo(layers[current_layer]);
-//     }
-//   }
-//   // var heat = L.heatLayer(heatArray, {
-//   //   radius: 35,
-//   //   blur: 3
-//   // }).addTo(map);
-
-// });
-
-
-// Bus Stops
-// test = d3.json("/bstop")
-// console.log(test)
 function addMarkers(searchCity) {
   layers.TravelHeat.clearLayers();
   layers.WalkHeat.clearLayers();
@@ -161,9 +135,19 @@ function addMarkers(searchCity) {
       }
     }
   });
-}
 
-// });
+  searchURL = `/hsm/${searchCity}`;
+  d3.json(searchURL, function (response) {
+    current_layer = "Schools";
+    for (var i = 0; i < response.length; i++) {
+          var latitude = parseFloat(response[i].Latitude);
+          var longitude = parseFloat(response[i].longitude);
+      if (latitude) {
+        L.marker([latitude, longitude], { icon: icons[current_layer] }).addTo(layers[current_layer]);
+      }
+    }
+  });
+}
 
 
 // High School
