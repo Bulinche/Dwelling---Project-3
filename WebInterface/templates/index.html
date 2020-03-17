@@ -154,16 +154,19 @@
           <form style="text-align:left;font-size:12px">
             <fieldset class="form-group">
               <legend>City</legend>
-              <select class="form-control-plaintext" id="City">
+              <select class="form-control-plaintext dropdown-primary" id="City">
                 <option value="Reset">Select One</option>
                 {% for item in cityNames %}
                 <option value="{{ item.latlong }}">{{ item.city }}</option>
                 {% endfor %}
               </select>
+              <BR />
+              <BR style="line-height:.5" />
+              <span id="zoomOut" class="badge badge-light">Reset</span>
             </fieldset>
             <fieldset class="form-group">
               <legend>Home Type</legend>
-              <select id="homeType" name="homeType" class="custom-select">
+              <select id="homeType" name="homeType" class="custom-select dropdown-primary">
                 <option value="">Select One</option>
                 <option value="Single">Single Family</option>
                 <option value="Multi">Multi-Family</option>
@@ -172,7 +175,7 @@
             </fieldset>
             <fieldset class="form-group">
               <legend>Bedrooms</legend>
-              <select id="bedroomCount" name="bedroomCount">
+              <select id="bedroomCount" name="bedroomCount" class="dropdown-primary">
                 <option value="Studio">Studio</option>
                 <option value="One">1</option>
                 <option value="Two">2</option>
@@ -182,7 +185,7 @@
             </fieldset>
             <fieldset class="form-group">
               <legend>Bathrooms</legend>
-              <select id="bathCount" name="bathCount">
+              <select id="bathCount" name="bathCount" class="dropdown-primary">
                 <option value="One">1</option>
                 <option value="OneandHalf">1.5</option>
                 <option value="Two">2</option>

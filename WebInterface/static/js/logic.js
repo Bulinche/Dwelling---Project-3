@@ -178,8 +178,6 @@ function walkHeat(multiplier) {
   layers.WalkHeat.clearLayers();
 
   d3.json("/walkScore", function (response) {
-    // console.log(response);
-    console.log(multiplier)
     if (multiplier != 0) {
       var heatArray = [];
       for (var i = 0; i < response.length; i++) {
@@ -298,4 +296,23 @@ CitySelect.on("change", function () {
     addMarkers(currentCity);
 
   }
+});
+
+resetPress = d3.select("#zoomOut");
+resetPress.on("click", function () {
+  layers.TrainStop.clearLayers();
+  layers.Schools.clearLayers();
+  layers.BusStops.clearLayers();
+  var coord = {
+    'lat': "40.0583",
+    'lon': "-74.4057"
+  }
+  map.flyTo(coord, 8);
+  var sel = document.getElementById('City');
+  sel.selectedIndex = 0;
+  walkSlider1 = d3.select("#Walkability")
+  walkHeat(eval(walkSlider1.property('value')))
+
+  travelSlider1 = d3.select("#Transportation")
+  travelHeat(eval(travelSlider1.property('value')))
 });

@@ -149,10 +149,7 @@ def walkScores():
 
     # Connect to a database. Will create one if not already available.
     db2 = client2.Dwelling_db
-    print("---------------------Here------------------")
-    walkScores = [doc for doc in db2.WalkScore.find({}, {'_id':False})]
-    print (walkScores)
- 
+    walkScores = [doc for doc in db2.WalkScore.find({}, {'_id':False})] 
     
     return jsonify(walkScores)
 
