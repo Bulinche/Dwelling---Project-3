@@ -105,13 +105,16 @@ function drawMunicipalities() {
   });
 }
 
-function addMarkers(searchCity) {
+function clearHeatMaps(){
   layers.TravelHeat.clearLayers();
   layers.WalkHeat.clearLayers();
-  layers.TrainStop.clearLayers();
-  layers.Schools.clearLayers();
-  layers.BusStops.clearLayers();
-  
+
+}
+
+function addMarkers(searchCity) {
+  clearMarkers();
+  clearHeatMaps()
+
   searchURL = `/bs/${searchCity}`;
   d3.json(searchURL, function (response) {
     current_layer = "BusStops";
@@ -140,8 +143,8 @@ function addMarkers(searchCity) {
   d3.json(searchURL, function (response) {
     current_layer = "Schools";
     for (var i = 0; i < response.length; i++) {
-          var latitude = parseFloat(response[i].Latitude);
-          var longitude = parseFloat(response[i].longitude);
+      var latitude = parseFloat(response[i].Latitude);
+      var longitude = parseFloat(response[i].longitude);
       if (latitude) {
         L.marker([latitude, longitude], { icon: icons[current_layer] }).addTo(layers[current_layer]);
       }
@@ -170,6 +173,16 @@ function addMarkers(searchCity) {
 //   // }).addTo(map);
 
 // });
+
+//***************************************
+//         Clear All Markers
+//***************************************
+function clearMarkers() {
+  layers.TrainStop.clearLayers();
+  layers.Schools.clearLayers();
+  layers.BusStops.clearLayers();
+}
+
 
 //***************************************
 //           WALK HEATMAP LAYER
@@ -241,6 +254,9 @@ function travelHeat(multiplier) {
   })
 }
 
+//***************************************
+//       Initialize Function
+//***************************************
 function init() {
   drawMunicipalities();
 
@@ -254,15 +270,15 @@ function init() {
 init();
 
 
-walkSlider = d3.select("#Walkability")
-walkSlider.on("change", function () {
-  walkHeat(eval(d3.select(this).property('value')))
-})
+d3.select("#Walkability")
+  .on("change", function () {
+    walkHeat(eval(d3.select(this).property('value')))
+  })
 
-travelSlider = d3.select("#Transportation")
-travelSlider.on("change", function () {
-  travelHeat(eval(d3.select(this).property('value')))
-})
+d3.select("#Transportation")
+  .on("change", function () {
+    travelHeat(eval(d3.select(this).property('value')))
+  })
 
 CitySelect = d3.select("#City");
 CitySelect.on("change", function () {
@@ -275,13 +291,11 @@ CitySelect.on("change", function () {
       'lon': "-74.4057"
     }
     map.flyTo(coord, 8);
-    layers.TrainStop.clearLayers();
-    layers.Schools.clearLayers();
-    layers.BusStops.clearLayers();
+    clearMarkers();
 
     walkSlider1 = d3.select("#Walkability")
     walkHeat(eval(walkSlider1.property('value')))
-  
+
     travelSlider1 = d3.select("#Transportation")
     travelHeat(eval(travelSlider1.property('value')))
   }
@@ -300,9 +314,7 @@ CitySelect.on("change", function () {
 
 resetPress = d3.select("#zoomOut");
 resetPress.on("click", function () {
-  layers.TrainStop.clearLayers();
-  layers.Schools.clearLayers();
-  layers.BusStops.clearLayers();
+  clearMarkers();
   var coord = {
     'lat': "40.0583",
     'lon': "-74.4057"
