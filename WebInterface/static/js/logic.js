@@ -131,22 +131,37 @@ function drawMunicipalities() {
 // Bus Stops
 // test = d3.json("/bstop")
 // console.log(test)
-// d3.json("/bstop", function (response) {
-//   console.log(response);
-//   current_layer = "BusStops"
-//   var heatArray = [];
-//   for (var i = 0; i < response.length; i++) {
-//     var latitude = parseFloat(response[i].stop_lat);
-//     var longitude = parseFloat(response[i].stop_lon);
-//     if (latitude) {
-//       L.marker([latitude, longitude], { icon: icons[current_layer] }).addTo(layers[current_layer]);
-//       // heatArray.push([latitude, longitude]);
-//     }
-//   }
-//   // var heat = L.heatLayer(heatArray, {
-//   //   radius: 35,
-//   //   blur: 3
-//   // }).addTo(map);
+function addMarkers(searchCity) {
+  layers.TravelHeat.clearLayers();
+  layers.WalkHeat.clearLayers();
+  layers.TrainStop.clearLayers();
+  layers.Schools.clearLayers();
+  layers.BusStops.clearLayers();
+  
+  searchURL = `/bs/${searchCity}`;
+  d3.json(searchURL, function (response) {
+    current_layer = "BusStops";
+    for (var i = 0; i < response.length; i++) {
+      var latitude = parseFloat(response[i].stop_lat);
+      var longitude = parseFloat(response[i].stop_lon);
+      if (latitude) {
+        L.marker([latitude, longitude], { icon: icons[current_layer] }).addTo(layers[current_layer]);
+      }
+    }
+  });
+
+  searchURL = `/rrs/${searchCity}`;
+  d3.json(searchURL, function (response) {
+    current_layer = "TrainStop";
+    for (var i = 0; i < response.length; i++) {
+      var latitude = parseFloat(response[i].stop_lat);
+      var longitude = parseFloat(response[i].stop_lon);
+      if (latitude) {
+        L.marker([latitude, longitude], { icon: icons[current_layer] }).addTo(layers[current_layer]);
+      }
+    }
+  });
+}
 
 // });
 
@@ -245,48 +260,58 @@ function travelHeat(multiplier) {
 }
 
 function init() {
-      drawMunicipalities();
+  drawMunicipalities();
 
-      walkSlider1 = d3.select("#Walkability")
-      walkHeat(eval(walkSlider1.property('value')))
+  walkSlider1 = d3.select("#Walkability")
+  walkHeat(eval(walkSlider1.property('value')))
 
-      travelSlider1 = d3.select("#Transportation")
-      travelHeat(eval(travelSlider1.property('value')))
-    }
+  travelSlider1 = d3.select("#Transportation")
+  travelHeat(eval(travelSlider1.property('value')))
+}
 
 init();
 
 
-  walkSlider = d3.select("#Walkability")
-  walkSlider.on("change", function () {
-    walkHeat(eval(d3.select(this).property('value')))
-  })
+walkSlider = d3.select("#Walkability")
+walkSlider.on("change", function () {
+  walkHeat(eval(d3.select(this).property('value')))
+})
 
-  travelSlider = d3.select("#Transportation")
-  travelSlider.on("change", function () {
-    travelHeat(eval(d3.select(this).property('value')))
-  })
+travelSlider = d3.select("#Transportation")
+travelSlider.on("change", function () {
+  travelHeat(eval(d3.select(this).property('value')))
+})
 
-  CitySelect = d3.select("#City");
-  CitySelect.on("change", function () {
-    console.log(CitySelect.property("text"))
+CitySelect = d3.select("#City");
+CitySelect.on("change", function () {
+  currentCity = d3.select('#City option:checked').text();
 
-    var t = CitySelect.property("value");
-    if (t == "Reset") {
-      var coord = {
-        'lat': "40.0583",
-        'lon': "-74.4057"
-      }
-      map.flyTo(coord, 8);
+  var t = CitySelect.property("value");
+  if (t == "Reset") {
+    var coord = {
+      'lat': "40.0583",
+      'lon': "-74.4057"
     }
-    else {
-      var lat = t.split(",")[0];
-      var lon = t.split(",")[1];
-      var coord = {
-        'lat': lat,
-        'lon': lon
-      }
-      map.flyTo(coord, 13);
+    map.flyTo(coord, 8);
+    layers.TrainStop.clearLayers();
+    layers.Schools.clearLayers();
+    layers.BusStops.clearLayers();
 
+    walkSlider1 = d3.select("#Walkability")
+    walkHeat(eval(walkSlider1.property('value')))
+  
+    travelSlider1 = d3.select("#Transportation")
+    travelHeat(eval(travelSlider1.property('value')))
+  }
+  else {
+    var lat = t.split(",")[0];
+    var lon = t.split(",")[1];
+    var coord = {
+      'lat': lat,
+      'lon': lon
     }
-  });
+    map.flyTo(coord, 13);
+    addMarkers(currentCity);
+
+  }
+});

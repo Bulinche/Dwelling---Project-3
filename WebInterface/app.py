@@ -35,9 +35,7 @@ def home():
             'latlong' : f"{x['Latitude']},{x['Longitude']}"
         }
         city_names.append(temp)
-    # print(city_names)
-    
-    
+        
     return render_template('index.html', cityNames = city_names)
 
 @app.route("/rr")
@@ -51,11 +49,8 @@ def railroad():
 
     # Connect to a database. Will create one if not already available.
     db2 = client2.Dwelling_db
-    # print("---------------------Here------------------")
     listings = [doc for doc in db2.Rail_stops.find({}, {'_id':False})]
 
-    
-    
     return jsonify(listings)
 
 
@@ -63,14 +58,14 @@ def railroad():
 def highSchool():
     # Create connection variable
     conn2 = 'mongodb://localhost:27017'
-    listings = []
+    schools = []
 
     # Pass connection to the pymongo instance.
     client2 = pymongo.MongoClient(conn2)
 
     # Connect to a database. Will create one if not already available.
     db2 = client2.Dwelling_db
-    # print("---------------------Here------------------")
+    
     schools = [doc for doc in db2.high_school.find({}, {'_id':False})]
 
  
@@ -81,20 +76,48 @@ def highSchool():
 def busStops():
     # Create connection variable
     conn2 = 'mongodb://localhost:27017'
-    listings = []
+    busStops = []
 
     # Pass connection to the pymongo instance.
     client2 = pymongo.MongoClient(conn2)
 
     # Connect to a database. Will create one if not already available.
     db2 = client2.Dwelling_db
-    print("---------------------Here------------------")
     busStops = [doc for doc in db2.Bus_stops.find({}, {'_id':False})]
-    # print (busStops)
- 
-    
+
     return jsonify(busStops)
 
+
+@app.route("/bs/<city>")
+def busStopsCity(city):
+    # Create connection variable
+    conn2 = 'mongodb://localhost:27017'
+    busStops = []
+
+    # Pass connection to the pymongo instance.
+    client2 = pymongo.MongoClient(conn2)
+
+    # Connect to a database. Will create one if not already available.
+    db2 = client2.Dwelling_db
+    busStops = [doc for doc in db2.Bus_stops.find({"City": city}, {'_id':False})]
+
+    return jsonify(busStops)
+
+
+@app.route("/rrs/<city>")
+def trainStopsCity(city):
+    # Create connection variable
+    conn2 = 'mongodb://localhost:27017'
+    trainStops = []
+
+    # Pass connection to the pymongo instance.
+    client2 = pymongo.MongoClient(conn2)
+
+    # Connect to a database. Will create one if not already available.
+    db2 = client2.Dwelling_db
+    trainStops = [doc for doc in db2.Rail_stops.find({"City": city}, {'_id':False})]
+
+    return jsonify(trainStops)
 
 @app.route("/walkScore")
 def walkScores():
