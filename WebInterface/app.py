@@ -70,12 +70,12 @@ def highSchool():
     # Connect to a database. Will create one if not already available.
     db2 = client2.Dwelling_db
     
-    schools = [doc for doc in db2.high_school.find({}, {'_id':False})]
+    schools = [doc for doc in db2.high_school2019.find({}, {'_id':False})]
     
     return jsonify(schools)
 
 
-@app.route("/hsm/<city>")
+@app.route("/hsm/2019/<city>")
 def highSchoolMarkers(city):
     # Create connection variable
     conn2 = 'mongodb://localhost:27017'
@@ -87,7 +87,7 @@ def highSchoolMarkers(city):
     # Connect to a database. Will create one if not already available.
     db2 = client2.Dwelling_db
     
-    schools = [doc for doc in db2.high_school.find({"City": city}, {'_id':False})]
+    schools = [doc for doc in db2.high_school2019.find({"City": city}, {'_id':False})]
     
     return jsonify(schools)
 

@@ -27,19 +27,32 @@
   <script src="https://d3js.org/d3.v4.min.js"></script>
   <link rel="stylesheet" href="static/css/style.css" />
 
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <!-- <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-  <link rel="manifest" href="/site.webmanifest">
+  <link rel="manifest" href="/site.webmanifest"> -->
   <!-- Bootstrap -->
   <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
     integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous"> -->
+
   <link href="static/css/bootstrap.min.css" rel="stylesheet" type="text/css">
   <!-- Fonts -->
   <link href="static/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
   <!-- CSS -->
   <link href="static/css/style.css" rel="stylesheet">
   <link href="static/color/default.css" rel="stylesheet">
+
+  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+    integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+    crossorigin="anonymous"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+    crossorigin="anonymous"></script>
+
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+    integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+    crossorigin="anonymous"></script>
 
 </head>
 
@@ -150,87 +163,80 @@
         </div>
       </div>
       <div class="row" style="width:100%;">
-        <div class="col-md-2 col-sm-12">
-          <form style="text-align:left;font-size:12px">
-            <fieldset class="form-group">
-              <legend>City</legend>
-              <select class="form-control-plaintext dropdown-primary" id="City">
-                <option value="Reset">Select One</option>
-                {% for item in cityNames %}
-                <option value="{{ item.latlong }}">{{ item.city }}</option>
-                {% endfor %}
-              </select>
-              <BR />
-              <BR style="line-height:.5" />
-              <span id="zoomOut" class="badge badge-light">Reset</span>
-            </fieldset>
-            <fieldset class="form-group">
-              <legend>Home Type</legend>
-              <select id="homeType" name="homeType" class="custom-select dropdown-primary">
-                <option value="">Select One</option>
-                <option value="Single">Single Family</option>
-                <option value="Multi">Multi-Family</option>
-                <option value="Condo">Condo</option>
-              </select>
-            </fieldset>
-            <fieldset class="form-group">
-              <legend>Bedrooms</legend>
-              <select id="bedroomCount" name="bedroomCount" class="dropdown-primary">
-                <option value="Studio">Studio</option>
-                <option value="One">1</option>
-                <option value="Two">2</option>
-                <option value="Three">3</option>
-                <option value="FourPlus">4+</option>
-              </select>
-            </fieldset>
-            <fieldset class="form-group">
-              <legend>Bathrooms</legend>
-              <select id="bathCount" name="bathCount" class="dropdown-primary">
-                <option value="One">1</option>
-                <option value="OneandHalf">1.5</option>
-                <option value="Two">2</option>
-                <option value="TwoandHalf">2.5</option>
-                <option value="ThreePlus">3+</option>
-              </select>
-            </fieldset>
-            <fieldset class="form-group">
-              <legend>Education</legend>
-              <input type="range" class="custom-range range-secondary" id="Education" min=0 max=10 step=1
-                style="width:50%;">
-            </fieldset>
-            <fieldset class="form-group">
-              <legend>Elementary</legend>
-              <input type="range" class="custom-range range-secondary" id="Elementary" min=0 max=10 step=1
-                style="width:50%;">
-            </fieldset>
-            <fieldset class="form-group">
-              <legend>High School</legend>
-              <input type="range" class="custom-range range-secondary" id="HighSchool" min=0 max=10 step=1
-                style="width:50%;">
-            </fieldset>
-            <fieldset class="form-group">
-              <legend>Transportation</legend>
-              <input type="range" class="custom-range range-secondary" id="Transportation" min=0 max=10 step=1
-                style="width:50%;">
-            </fieldset>
-            <fieldset class="form-group">
-              <legend>Walkability</legend>
-              <input type="range" class="custom-range range-secondary" id="Walkability" name="Walkability" value=5 min=0
-                max=10 step=1 style="width:50%;">
-            </fieldset>
-            <fieldset class="form-group">
-              <legend>Safety</legend>
-              <input type="range" class="custom-range range-secondary" id="Safety" min=0 max=10 step=1
-                style="width:50%;">
-            </fieldset>
-            <fieldset class="form-group">
-              <legend>Activities</legend>
-              <input type="range" class="custom-range range-secondary" id="Activities" min=0 max=10 step=1
-                style="width:50%;">
-            </fieldset>
-          </form>
+        <form style="text-align:left;font-size:12px">
+          <div class="col-md-2 col-sm-12" style="text-align: center;">
+            <h3 id="eduVal" class="text-warning"></h3>
+            <center>
+              <fieldset class="form-group">
+                <legend>Education</legend>
+                <input type="range" class="custom-range range-secondary" id="Education" min=0 max=10 step=1
+                  style="width:50%;">
+              </fieldset>
+            </center>
+            <!--
+              <fieldset class="form-group">
+                <legend>Elementary</legend>
+                <input type="range" class="custom-range range-secondary" id="Elementary" min=0 max=10 step=1
+                  style="width:50%;">
+              </fieldset>
+              <fieldset class="form-group">
+                <legend>High School</legend>
+                <input type="range" class="custom-range range-secondary" id="HighSchool" min=0 max=10 step=1
+                  style="width:50%;">
+              </fieldset>
+            -->
+          </div>
+          <div class="col-md-2 col-sm-12" style="text-align: center;">
+            <h3 id="transpoVal" class="text-warning"></h3>
+            <center>
+              <fieldset class="form-group">
+                <legend>Transportation</legend>
+                <input type="range" class="custom-range range-secondary" id="Transportation" min=0 max=10 step=1
+                  style="width:50%;">
+              </fieldset>
+            </center>
+          </div>
+          <div class="col-md-2 col-sm-12" style="text-align: center;">
+            <h3 id="walkVal" class="text-warning"></h3>
+            <center>
+              <fieldset class="form-group">
+                <legend>Walkability</legend>
+                <input type="range" class="custom-range range-secondary" id="Walkability" name="Walkability" value=5
+                  min=0 max=10 step=1 style="width:50%;">
+              </fieldset>
+            </center>
+          </div>
+          <div class="col-md-2 col-sm-12" style="text-align: center;">
+            <h3 id="safeVal" class="text-warning"></h3>
+            <center>
+              <fieldset class="form-group">
+                <legend>Safety</legend>
+                <input type="range" class="custom-range range-secondary" id="Safety" min=0 max=10 step=1
+                  style="width:50%;">
+              </fieldset>
+            </center>
+          </div>
+          <div class="col-md-2 col-sm-12" style="text-align: center;">
+            <h3 id="actVal" class="text-warning"></h3>
+            <center>
+              <fieldset class="form-group">
+                <legend>Activities</legend>
+                <input type="range" class="custom-range range-secondary" id="Activities" min=0 max=10 step=1
+                  style="width:50%;">
+              </fieldset>
+            </center>
+          </div>
+        </form>
+      </div>
+      <div class="row" style="width:100%;">
+        <div class="col-sm-12" style="padding-top: 10px; padding-bottom: 10px;">
+          <button type="submit" class="btn btn-skin" style="width:90%" id="DwellMe">Search</button>
         </div>
-        <div class="col-md-10 col-sm-12">
+      </div>
+      <div class="row" style="width:100%;">
+        <div class="col-md-3 col-sm-12">
+        </div>
+        <div class="col-md-9 col-sm-12">
           <!-- map div -->
           <div id="map"></div>
           <!-- Leaflet heatmap plugin-->
