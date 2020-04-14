@@ -1,0 +1,584 @@
+City,Zip Code,County,Latitude,Longitude,Municipality,Muni Code
+Absecon,08201,Atlantic,39.457517,-74.50914,Absecon,0101
+Atlantic City,08401,Atlantic,39.364966,-74.43903,Atlantic City,0102
+Brigantine,08203,Atlantic,39.401801,-74.38017,Brigantine,0103
+Buena,08310,Atlantic,39.522686,-74.89684,Buena Borough,0104
+Cologne,08213,Atlantic,39.509208,-74.608557,Galloway Township,0111
+Dorothy,08317,Atlantic,39.406518,-74.82706,Weymouth Township,0123
+Egg Harbor City,08215,Atlantic,39.548049,-74.62171,Egg Harbor City,0107
+Egg Harbor Township,08234,Atlantic,39.398172,-74.59667,Egg Harbor Township,0108
+Elwood,08217,Atlantic,39.575273,-74.72103,Mullica Township,0117
+Estell Manor,08319,Atlantic,39.376099,-74.81456,Estell Manor,0109
+Hammonton,08037,Atlantic,39.625291,-74.77705,Hammonton,0113
+Landisville,08326,Atlantic,39.524179,-74.9385,Buena Borough,0104
+Leeds Point,08220,Atlantic,39.509208,-74.608557,Galloway Township,0111
+Linwood,08221,Atlantic,39.348616,-74.57387,Linwood,0114
+Longport,08403,Atlantic,39.314766,-74.52675,Longport Borough,0115
+Margate City,08402,Atlantic,39.329416,-74.50661,Margate City,0116
+Mays Landing,08330,Atlantic,39.478771,-74.7581,Hamilton Township,0112
+Milmay,08340,Atlantic,39.437265,-74.87926,Buena Vista Township,0105
+Minotola,08341,Atlantic,39.517539,-74.94972,Buena Borough,0104
+Mizpah,08342,Atlantic,39.50208,-74.833469,Hamilton Township,0112
+Newtonville,08346,Atlantic,39.562719,-74.85853,Buena Vista Township,0105
+Northfield,08225,Atlantic,39.370083,-74.55211,Northfield,0118
+Oceanville,08231,Atlantic,39.509208,-74.608557,Galloway Township,0111
+Pleasantville,08232,Atlantic,39.394616,-74.52212,Pleasantville,0119
+Pomona,08240,Atlantic,39.487717,-74.554334,Galloway Township,0111
+Port Republic,08241,Atlantic,39.527903,-74.4917,Port Republic,0120
+Richland,08350,Atlantic,39.490774,-74.87045,Buena Vista Township,0105
+Somers Point,08244,Atlantic,39.319901,-74.5999,Somers Point,0121
+Ventnor City,08406,Atlantic,39.342299,-74.48192,Ventnor City,0122
+Allendale,07401,Bergen,41.031505,-74.13409,Allendale Borough,0201
+Alpine,07620,Bergen,40.952814,-73.93064,Alpine Borough,0202
+Bergenfield,07621,Bergen,40.923748,-73.99879,Bergenfield Borough,0203
+Bogota,07603,Bergen,40.873876,-74.02769,Bogota Borough,0204
+Carlstadt,07072,Bergen,40.836555,-74.08466,Carlstadt Borough,0205
+Cliffside Park,07010,Bergen,40.82154,-73.98949,Cliffside Park Borough,0206
+Closter,07624,Bergen,40.971956,-73.96166,Closter Borough,0207
+Cresskill,07626,Bergen,40.942074,-73.96504,Cresskill Borough,0208
+Demarest,07627,Bergen,40.955603,-73.96044,Demarest Borough,0209
+Dumont,07628,Bergen,40.945173,-73.99342,Dumont Borough,0210
+East Rutherford,07073,Bergen,40.830158,-74.09707,East Rutherford Borough,0212
+Edgewater,07020,Bergen,40.830733,-73.97334,Edgewater Borough,0213
+Elmwood Park,07407,Bergen,40.905639,-74.1199,Elmwood Park Borough,0211
+Emerson,07630,Bergen,40.97514,-74.02725,Emerson Borough,0214
+Englewood,07631,Bergen,40.893343,-73.9758,Englewood,0215
+Englewood Cliffs,07632,Bergen,40.883749,-73.95173,Englewood Cliffs Borough,0216
+Fair Lawn,07410,Bergen,40.933943,-74.11671,Fair Lawn Borough,0217
+Fairview,07022,Bergen,40.816737,-74.00082,Fairview Borough,0218
+Fort Lee,07024,Bergen,40.849879,-73.97501,Fort Lee Borough,0219
+Franklin Lakes,07417,Bergen,41.010433,-74.20847,Franklin Lakes Borough,0220
+Garfield,07026,Bergen,40.879858,-74.10807,Garfield,0221
+Glen Rock,07452,Bergen,40.961109,-74.12576,Glen Rock Borough,0222
+Hackensack,07601,Bergen,40.888678,-74.0488,Hackensack,0223
+Harrington Park,07640,Bergen,40.989357,-73.97958,Harrington Park Borough,0224
+Hasbrouck Heights,07604,Bergen,40.86289,-74.07506,Hasbrouck Heights Borough,0225
+Haworth,07641,Bergen,40.958573,-73.98659,Haworth Borough,0226
+Hillsdale,07642,Bergen,41.007389,-74.04247,Hillsdale Borough,0227
+Ho Ho Kus,07423,Bergen,41.001695,-74.10239,Ho-Ho-Kus Borough,0228
+Leonia,07605,Bergen,40.862685,-73.98551,Leonia Borough,0229
+Little Ferry,07643,Bergen,40.850621,-74.04112,Little Ferry Borough,0230
+Lodi,07644,Bergen,40.877999,-74.08265,Lodi Borough,0231
+Lyndhurst,07071,Bergen,40.808416,-74.12111,Lyndhurst Township,0232
+Mahwah,07430,Bergen,41.077102,-74.16147,Mahwah Township,0233
+Maywood,07607,Bergen,40.90503,-74.06279,Maywood Borough,0234
+Midland Park,07432,Bergen,40.99312,-74.14286,Midland Park Borough,0235
+Montvale,07645,Bergen,41.048997,-74.04052,Montvale Borough,0236
+Moonachie,07074,Bergen,40.841668,-74.059,Moonachie Borough,0237
+New Milford,07646,Bergen,40.936211,-74.0188,New Milford Borough,0238
+North Arlington,07031,Bergen,40.791895,-74.13254,North Arlington Borough,0239
+Northvale,07647,Bergen,41.009414,-73.94849,Northvale Borough,0240
+Norwood,07648,Bergen,40.994442,-73.95586,Norwood Borough,0241
+Oakland,07436,Bergen,41.028884,-74.23727,Oakland Borough,0242
+Oradell,07649,Bergen,40.953126,-74.03379,Oradell Borough,0244
+Palisades Park,07650,Bergen,40.845742,-73.99479,Palisades Park Borough,0245
+Paramus,07652,Bergen,40.947107,-74.07047,Paramus Borough,0246
+Park Ridge,07656,Bergen,41.034672,-74.04065,Park Ridge Borough,0247
+Ramsey,07446,Bergen,41.058819,-74.14238,Ramsey Borough,0248
+Ridgefield,07657,Bergen,40.832421,-74.00399,Ridgefield Borough,0249
+Ridgefield Park,07660,Bergen,40.856749,-74.02278,Ridgefield Park Village,0250
+Ridgewood,07450,Bergen,40.983997,-74.11438,Ridgewood Village,0251
+River Edge,07661,Bergen,40.927579,-74.03739,River Edge Borough,0252
+Rochelle Park,07662,Bergen,40.906553,-74.07797,Rochelle Park Township,0254
+Rutherford,07070,Bergen,40.828922,-74.11064,Rutherford Borough,0256
+Saddle Brook,07663,Bergen,40.904131,-74.09474,Saddle Brook Township,0257
+Saddle River,07458,Bergen,41.054568,-74.09616,Saddle River Borough,0258
+South Hackensack,07606,Bergen,40.863699,-74.04643,South Hackensack Township,0259
+Teaneck,07666,Bergen,40.890964,-74.01115,Teaneck Township,0260
+Tenafly,07670,Bergen,40.92169,-73.96482,Tenafly Borough,0261
+Teterboro,07608,Bergen,40.853723,-74.05987,Teterboro Borough,0262
+Township Of Washington,07676,Bergen,40.989508,-74.061302,Washington Township,0266
+Waldwick,07463,Bergen,41.013109,-74.12231,Waldwick Borough,0264
+Wallington,07057,Bergen,40.852931,-74.10925,Wallington Borough,0265
+Westwood,07675,Bergen,40.99904,-74.03291,Westwood Borough,0267
+Wood Ridge,07075,Bergen,40.847638,-74.08754,Wood-Ridge Borough,0269
+Woodcliff Lake,07677,Bergen,41.025101,-74.059762,Woodcliff Lake Borough,0268
+Wyckoff,07481,Bergen,40.998583,-74.1671,Wyckoff Township,0270
+Beverly,08010,Burlington,40.058211,-74.91404,Beverly,0302
+Birmingham,08011,Burlington,39.978635,-74.71323,Pemberton Township,0329
+Bordentown,08505,Burlington,40.132784,-74.71778,Bordentown,0303
+Browns Mills,08015,Burlington,39.960596,-74.5606,Pemberton Township,0329
+Burlington,08016,Burlington,40.06834,-74.84463,Burlington,0305
+Chatsworth,08019,Burlington,39.777314,-74.5354,Woodland Township,0339
+Chesterfield,08515,Burlington,40.14821,-74.65125,Chesterfield Township,0307
+Columbus,08022,Burlington,40.079952,-74.70684,Mansfield Township,0318
+Cookstown,08511,Burlington,40.050128,-74.55611,New Hanover Township,0325
+Florence,08518,Burlington,40.11791,-74.8047,Florence Township,0315
+Fort Dix,08640,Burlington,40.003861,-74.61775,New Hanover Township,0325
+Hainesport,08036,Burlington,39.985662,-74.83044,Hainesport Township,0316
+Jobstown,08041,Burlington,40.038339,-74.6806,Springfield Township,0334
+Juliustown,08042,Burlington,40.018503,-74.66656,Springfield Township,0334
+Lumberton,08048,Burlington,39.967013,-74.80666,Lumberton Township,0317
+Maple Shade,08052,Burlington,39.952212,-74.99464,Maple Shade Township,0319
+Marlton,08053,Burlington,39.88488,-74.90416,Evesham Township,0313
+Medford,08055,Burlington,39.865272,-74.8185,Medford Township,0320
+Moorestown,08057,Burlington,39.968962,-74.9489,Moorestown Township,0322
+Mount Holly,08060,Burlington,39.991562,-74.79747,Mount Holly Township,0323
+Mount Laurel,08054,Burlington,39.949446,-74.90342,Mount Laurel Township,0324
+New Gretna,08224,Burlington,39.595957,-74.45628,Bass River Township,0301
+New Lisbon,08064,Burlington,39.961921,-74.63687,Pemberton Township,0329
+Palmyra,08065,Burlington,40.00278,-75.02626,Palmyra Borough,0327
+Pemberton,08068,Burlington,39.961183,-74.66266,Pemberton Borough,0328
+Rancocas,08073,Burlington,40.010461,-74.86762,Westampton Township,0337
+Riverside,08075,Burlington,40.029361,-74.9541,Riverside Township,0330
+Riverton,08076,Burlington,39.862433,-74.725079,Riverton Borough,0331
+Roebling,08554,Burlington,40.113883,-74.77977,Florence Township,0315
+Vincentown,08088,Burlington,39.871699,-74.70528,Southampton Township,0333
+Willingboro,08046,Burlington,40.029011,-74.88257,Willingboro Township,0338
+Wrightstown,08562,Burlington,40.062215,-74.58893,Wrightstown Borough,0340
+Atco,08004,Camden,39.769357,-74.87264,Waterford Township,0435
+Audubon,08106,Camden,39.892213,-75.07212,Audubon Borough,0401
+Barrington,08007,Camden,39.868013,-75.05424,Barrington Borough,0403
+Bellmawr,08031,Camden,39.867013,-75.09162,Bellmawr Borough,0404
+Berlin,08009,Camden,39.779582,-74.9365,Berlin Borough,0405
+Blackwood,08012,Camden,39.784614,-75.05678,Gloucester Township,0415
+Camden,08101,Camden,39.80237,-74.938259,Camden,0408
+Cedar Brook,08018,Camden,39.80237,-74.938259,Cherry Hill Township,0409
+Cherry Hill,08002,Camden,39.932279,-75.02266,Chesilhurst Borough,0410
+Clementon,08021,Camden,39.810485,-74.99574,Clementon Borough,0411
+Collingswood,08108,Camden,39.915263,-75.06401,Collingswood Borough,0412
+Gibbsboro,08026,Camden,39.833847,-74.96899,Gibbsboro Borough,0413
+Glendora,08029,Camden,39.840463,-75.0687,Gloucester Township,0415
+Gloucester City,08030,Camden,39.891113,-75.11836,Gloucester City,0414
+Haddon Heights,08035,Camden,39.87913,-75.06599,Haddon Heights Borough,0418
+Haddon Township,08104,Camden,39.918663,-75.10976,Haddon Township,0416
+Haddonfield,08033,Camden,39.895213,-75.04019,Haddonfield Borough,0417
+Lawnside,08045,Camden,39.866513,-75.03197,Gloucester Township,0415
+Magnolia,08049,Camden,39.85478,-75.03671,Magnolia Borough,0423
+Merchantville,08109,Camden,39.949979,-75.05024,Merchantville Borough,0424
+Mount Ephraim,08059,Camden,39.884263,-75.0923,Mount Ephraim Borough,0425
+Oaklyn,08107,Camden,39.908163,-75.08618,Oaklyn Borough,0426
+Pennsauken,08110,Camden,39.966812,-75.05681,Pennsauken Township,0427
+Runnemede,08078,Camden,39.850013,-75.0767,Runnemede Borough,0430
+Sicklerville,08081,Camden,39.741385,-74.99035,Winslow Township,0436
+Somerdale,08083,Camden,39.842613,-75.02496,Somerdale Borough,0431
+Stratford,08084,Camden,39.829014,-75.01371,Stratford Borough,0432
+Voorhees,08043,Camden,39.851969,-74.96128,Voorhees Township,0434
+Waterford Works,08089,Camden,39.722622,-74.8503,Waterford Township,0435
+West Berlin,08091,Camden,39.807695,-74.93392,Berlin Township,0406
+Winslow,08095,Camden,39.656976,-74.86043,Winslow Township,0436
+Avalon,08202,Cape May,39.092928,-74.72688,Avalon Borough,0501
+Cape May,08204,Cape May,38.963652,-74.92319,Cape May,0502
+Cape May Court House,08210,Cape May,39.081754,-74.83658,Middle Township,0506
+Cape May Point,08212,Cape May,38.936896,-74.96526,Cape May Point Borough,0503
+Dennisville,08214,Cape May,39.056521,-74.816619,Dennis Township,0504
+Goshen,08218,Cape May,39.056521,-74.816619,Middle Township,0506
+Green Creek,08219,Cape May,39.056521,-74.816619,Middle Township,0506
+Marmora,08223,Cape May,39.264412,-74.64986,Upper Township,0511
+Ocean City,08226,Cape May,39.265371,-74.59381,Ocean City,0508
+Ocean View,08230,Cape May,39.20877,-74.70438,Dennis Township,0504
+Rio Grande,08242,Cape May,39.017837,-74.87515,Middle Township,0506
+Sea Isle City,08243,Cape May,39.145755,-74.69865,Sea Isle City,0509
+South Dennis,08245,Cape May,39.176208,-74.81723,Dennis Township,0504
+South Seaville,08246,Cape May,39.056521,-74.816619,Dennis Township,0504
+Stone Harbor,08247,Cape May,39.051289,-74.76204,Stone Harbor Borough,0510
+Strathmere,08248,Cape May,39.197394,-74.65699,Upper Township,0511
+Tuckahoe,08250,Cape May,39.056521,-74.816619,Upper Township,0511
+Villas,08251,Cape May,39.022256,-74.93616,Lower Township,0505
+Whitesboro,08252,Cape May,39.037404,-74.85749,Middle Township,0506
+Wildwood,08260,Cape May,38.987556,-74.822,Wildwood,0514
+Woodbine,08270,Cape May,39.275059,-74.80041,Woodbine Borough,0516
+Bridgeton,08302,Cumberland,39.445164,-75.24215,Bridgeton,0601
+Cedarville,08311,Cumberland,39.337205,-75.18577,Lawrence Township,0608
+Deerfield Street,08313,Cumberland,39.530314,-75.22901,Deerfield Township,0603
+Delmont,08314,Cumberland,39.219301,-74.94016,Maurice River Township,0609
+Dividing Creek,08315,Cumberland,39.273214,-75.095025,Downe Township,0604
+Dorchester,08316,Cumberland,39.274714,-74.97546,Maurice River Township,0609
+Fairton,08320,Cumberland,39.379906,-75.221681,Fairfield Township,0605
+Fortescue,08321,Cumberland,39.239649,-75.17225,Downe Township,0604
+Greenwich,08323,Cumberland,39.402763,-75.3574,Greenwich Township,0606
+Heislerville,08324,Cumberland,39.218484,-74.99001,Maurice River Township,0609
+Leesburg,08327,Cumberland,39.254836,-74.97767,Maurice River Township,0609
+Mauricetown,08329,Cumberland,39.285464,-74.99687,Commercial Township,0602
+Millville,08332,Cumberland,39.379382,-75.03923,Millville,0610
+Newport,08345,Cumberland,39.28341,-75.15464,Downe Township,0604
+Port Elizabeth,08348,Cumberland,39.314084,-74.97889,Maurice River Township,0609
+Port Norris,08349,Cumberland,39.25682,-75.06683,Commercial Township,0602
+Rosenhayn,08352,Cumberland,39.475565,-75.12933,Deerfield Township,0603
+Shiloh,08353,Cumberland,39.458114,-75.29761,Shiloh Borough,0611
+Vineland,08360,Cumberland,39.492265,-75.01887,Vineland,0614
+Belleville,07109,Essex,40.7935,-74.16144,Belleville Township,0701
+Bloomfield,07003,Essex,40.803,-74.18895,Bloomfield Township,0702
+Caldwell,07006,Essex,40.848999,-74.27917,Caldwell Borough,0703
+Cedar Grove,07009,Essex,40.855854,-74.22898,Cedar Grove Township,0704
+East Orange,07017,Essex,40.770933,-74.20589,East Orange,0705
+Essex Fells,07021,Essex,40.827499,-74.28091,Essex Fells Borough,0706
+Fairfield,07004,Essex,40.879049,-74.29378,Fairfield Township,0707
+Glen Ridge,07028,Essex,40.80495,-74.2047,Glen Ridge Borough,0708
+Irvington,07111,Essex,40.725651,-74.23207,Irvington Township,0709
+Livingston,07039,Essex,40.788733,-74.32134,Livingston Township,0710
+Maplewood,07040,Essex,40.728901,-74.26821,Maplewood Township,0711
+Millburn,07041,Essex,40.724168,-74.29913,Millburn Township,0712
+Montclair,07042,Essex,40.81315,-74.21576,Montclair Township,0713
+Newark,07101,Essex,40.736101,-74.22509,Newark,0714
+Nutley,07110,Essex,40.8196,-74.15877,Nutley Township,0716
+Orange,07050,Essex,40.7683,-74.23603,City of Orange Township,0717
+Roseland,07068,Essex,40.821799,-74.30477,Roseland Borough,0718
+Short Hills,07078,Essex,40.73915,-74.32749,Millburn Township,0712
+South Orange,07079,Essex,40.74765,-74.25881,South Orange Village Township,0719
+Verona,07044,Essex,40.832449,-74.24227,Verona Township,0720
+West Orange,07052,Essex,40.78865,-74.25541,West Orange Township,0722
+Bridgeport,08014,Gloucester,39.803646,-75.34421,Logan Township,0809
+Clarksboro,08020,Gloucester,39.800958,-75.2211,East Greenwich Township,0803
+Clayton,08312,Gloucester,39.655964,-75.08736,Clayton Borough,0801
+Deptford,08096,Gloucester,39.830313,-75.13221,Deptford Township,0802
+Ewan,08025,Gloucester,39.701526,-75.162903,Harrison Township,0808
+Franklinville,08322,Gloucester,39.618222,-75.0618,Franklin Township,0805
+Gibbstown,08027,Gloucester,39.824159,-75.28187,Greenwich Township,0807
+Glassboro,08028,Gloucester,39.700008,-75.11951,Glassboro Borough,0806
+Grenloch,08032,Gloucester,39.781264,-75.0609,Washington Township,0818
+Harrisonville,08039,Gloucester,39.685445,-75.2669,South Harrison Township,0816
+Malaga,08328,Gloucester,39.572449,-75.0543,Franklin Township,0805
+Mantua,08051,Gloucester,39.785785,-75.17761,Mantua Township,0810
+Mickleton,08056,Gloucester,39.785219,-75.25304,East Greenwich Township,0803
+Mount Royal,08061,Gloucester,39.807684,-75.20496,East Greenwich Township,0803
+Mullica Hill,08062,Gloucester,39.716939,-75.21987,Harrison Township,0808
+National Park,08063,Gloucester,39.867158,-75.1802,National Park Borough,0812
+Newfield,08344,Gloucester,39.562763,-75.00955,Newfield Borough,0813
+Paulsboro,08066,Gloucester,39.833156,-75.23773,Paulsboro Borough,0814
+Pitman,08071,Gloucester,39.730964,-75.13009,Pitman Borough,0815
+Richwood,08074,Gloucester,39.716194,-75.17326,Harrison Township,0808
+Sewell,08080,Gloucester,39.74953,-75.10637,Mantua Township,0810
+Swedesboro,08085,Gloucester,39.753088,-75.32687,Swedesboro Borough,0817
+Thorofare,08086,Gloucester,39.849156,-75.18159,West Deptford Township,0820
+Wenonah,08090,Gloucester,39.799347,-75.15202,Wenonah Borough,0819
+Westville,08093,Gloucester,39.861413,-75.13284,Westville Borough,0821
+Williamstown,08094,Gloucester,39.647598,-74.95927,Monroe Township,0811
+Woodbury,08096,Gloucester,39.830313,-75.13221,Woodbury,0822
+Woodbury Heights,08097,Gloucester,39.816063,-75.15321,Woodbury Heights Borough,0823
+Bayonne,07002,Hudson,40.666552,-74.11768,Bayonne,0901
+Harrison,07029,Hudson,40.745951,-74.15509,Harrison,0904
+Hoboken,07030,Hudson,40.744851,-74.03294,Hoboken,0905
+Jersey City,07097,Hudson,40.73276,-74.075485,Jersey City,0906
+Kearny,07032,Hudson,40.763051,-74.13718,Kearny,0907
+North Bergen,07047,Hudson,40.7946,-74.01963,North Bergen Township,0908
+Secaucus,07094,Hudson,40.7885,-74.06,Secaucus,0909
+Union City,07087,Hudson,40.767751,-74.0302,Union City,0910
+Weehawken,07086,Hudson,40.769796,-74.022351,Weehawken Township,0911
+West New York,07093,Hudson,40.7895,-74.01223,West New York,0912
+Annandale,08801,Hunterdon,40.624538,-74.89118,Clinton,1005
+Asbury,08802,Hunterdon,40.661172,-75.0321,Franklin Township,1010
+Baptistown,08803,Hunterdon,40.563654,-74.949409,Kingwood Township,1016
+Bloomsbury,08804,Hunterdon,40.652484,-75.08959,Bloomsbury Borough,1003
+Califon,07830,Hunterdon,40.723778,-74.81866,Califon Borough,1004
+Clinton,08809,Hunterdon,40.639546,-74.91292,Clinton,1005
+Flemington,08822,Hunterdon,40.515645,-74.85319,Flemington Borough,1009
+Frenchtown,08825,Hunterdon,40.509998,-75.03239,Frenchtown Borough,1011
+Glen Gardner,08826,Hunterdon,40.716332,-74.91405,Glen Gardner Borough,1012
+Hampton,08827,Hunterdon,40.677404,-74.96875,Hampton Borough,1013
+High Bridge,08829,Hunterdon,40.668594,-74.89241,High Bridge Borough,1014
+Lambertville,08530,Hunterdon,40.375039,-74.93184,Lambertville,1017
+Lebanon,08833,Hunterdon,40.643314,-74.82345,Lebanon Borough,1018
+Little York,08834,Hunterdon,40.563654,-74.949409,Alexandria Township,1001
+Milford,08848,Hunterdon,40.587606,-75.10402,Milford Borough,1020
+Oldwick,08858,Hunterdon,40.681694,-74.73624,Tewksbury Township,1024
+Pittstown,08867,Hunterdon,40.583035,-74.96224,Union Township,1025
+Pottersville,07979,Hunterdon,40.713675,-74.72465,Tewksbury Township,1024
+Quakertown,08868,Hunterdon,40.565493,-74.938931,Franklin Township,1010
+Readington,08870,Hunterdon,40.563654,-74.949409,Readington Township,1022
+Ringoes,08551,Hunterdon,40.449171,-74.84979,East Amwell Township,1008
+Rosemont,08556,Hunterdon,40.419965,-74.988619,Delaware Township,1007
+Sergeantsville,08557,Hunterdon,40.563654,-74.949409,Delaware Township,1007
+Stanton,08885,Hunterdon,40.576372,-74.831105,Readington Township,1022
+Stockton,08559,Hunterdon,40.435878,-74.96511,Stockton Borough,1023
+Three Bridges,08887,Hunterdon,40.525361,-74.79632,Readington Township,1022
+Whitehouse,08888,Hunterdon,40.619412,-74.740597,Readington Township,1022
+Whitehouse Station,08889,Hunterdon,40.612851,-74.76682,Readington Township,1022
+Hightstown,08520,Mercer,40.262809,-74.53246,Hightstown Borough,1104
+Hopewell,08525,Mercer,40.386902,-74.78112,Hopewell Borough,1105
+Pennington,08534,Mercer,40.32315,-74.78364,Pennington Borough,1108
+Princeton,08540,Mercer,40.357439,-74.64922,Princeton,1114
+Princeton Junction,08550,Mercer,40.292358,-74.60902,West Windsor Township,1113
+Titusville,08560,Mercer,40.31049,-74.85947,Hopewell Township,1106
+Trenton,08601,Mercer,40.280531,-74.712018,Trenton,1111
+Windsor,08561,Mercer,40.242009,-74.58006,Robbinsville Township,1112
+Avenel,07001,Middlesex,40.578996,-74.27987,Woodbridge Township,1225
+Carteret,07008,Middlesex,40.582504,-74.22997,Carteret Borough,1201
+Colonia,07067,Middlesex,40.591653,-74.31341,Woodbridge Township,1225
+Cranbury,08512,Middlesex,40.306286,-74.52627,Cranbury Township,1202
+Dayton,08810,Middlesex,40.372881,-74.51363,South Brunswick Township,1221
+Dunellen,08812,Middlesex,40.594502,-74.47166,Dunellen Borough,1203
+East Brunswick,08816,Middlesex,40.434239,-74.40504,East Brunswick Township,1204
+Edison,08817,Middlesex,40.516104,-74.39754,Edison Township,1205
+Fords,08863,Middlesex,40.535304,-74.31104,Woodbridge Township,1225
+Helmetta,08828,Middlesex,40.37594,-74.41955,Helmetta Borough,1206
+Highland Park,08904,Middlesex,40.500254,-74.4257,Highland Park Borough,1207
+Iselin,08830,Middlesex,40.571504,-74.3183,Woodbridge Township,1225
+Keasbey,08832,Middlesex,40.517855,-74.30325,Woodbridge Township,1225
+Kendall Park,08824,Middlesex,40.423055,-74.55352,South Brunswick Township,1221
+Metuchen,08840,Middlesex,40.543354,-74.3587,Metuchen Borough,1209
+Middlesex,08846,Middlesex,40.574552,-74.50187,Middlesex Borough,1210
+Milltown,08850,Middlesex,40.451105,-74.43938,Milltown Borough,1211
+Monmouth Junction,08852,Middlesex,40.389428,-74.54329,South Brunswick Township,1221
+Monroe Township,08831,Middlesex,40.336508,-74.43302,Monroe Township,1212
+New Brunswick,08901,Middlesex,40.488304,-74.44775,New Brunswick,1213
+North Brunswick,08902,Middlesex,40.453131,-74.48287,North Brunswick Township,1214
+Old Bridge,08857,Middlesex,40.397507,-74.3298,Old Bridge Township,1215
+Parlin,08859,Middlesex,40.461851,-74.30343,Sayreville Borough,1219
+Perth Amboy,08861,Middlesex,40.520105,-74.27708,Perth Amboy,1216
+Piscataway,08854,Middlesex,40.555355,-74.46094,Piscataway Township,1217
+Plainsboro,08536,Middlesex,40.33371,-74.58512,Plainsboro Township,1218
+Port Reading,07064,Middlesex,40.569504,-74.24774,Woodbridge Township,1225
+Sayreville,08871,Middlesex,40.430006,-74.417344,Sayreville Borough,1219
+Sewaren,07077,Middlesex,40.553971,-74.25938,Woodbridge Township,1225
+South Amboy,08879,Middlesex,40.469606,-74.27669,South Amboy,1220
+South Plainfield,07080,Middlesex,40.580703,-74.41401,South Plainfield Borough,1222
+South River,08882,Middlesex,40.445006,-74.38179,South River Borough,1223
+Spotswood,08884,Middlesex,40.39159,-74.39329,Spotswood Borough,1224
+Woodbridge,07095,Middlesex,40.557104,-74.28316,Woodbridge Township,1225
+Adelphia,07710,Monmouth,40.302718,-74.24928,Howell Township,1321
+Allenhurst,07711,Monmouth,40.236916,-74.0069,Allenhurst Borough,1302
+Allentown,08501,Monmouth,40.164556,-74.57785,Allentown Borough,1303
+Allenwood,08720,Monmouth,40.14386,-74.10286,Wall Township,1352
+Asbury Park,07712,Monmouth,40.232713,-74.03143,Asbury Park,1304
+Atlantic Highlands,07716,Monmouth,40.407958,-74.03483,Atlantic Highlands Borough,1305
+Avon By The Sea,07717,Monmouth,40.191809,-74.01688,Avon-by-the-Sea Borough,1306
+Belford,07718,Monmouth,40.415902,-74.08689,Middletown Township,1332
+Belmar,07715,Monmouth,40.302718,-74.24928,Belmar Borough,1307
+Bradley Beach,07720,Monmouth,40.202113,-74.01353,Bradley Beach Borough,1308
+Brielle,08730,Monmouth,40.108433,-74.06226,Brielle Borough,1309
+Cliffwood,07721,Monmouth,40.435961,-74.23734,Aberdeen Township,1301
+Colts Neck,07722,Monmouth,40.300226,-74.18306,Colts Neck Township,1310
+Cream Ridge,08514,Monmouth,40.134892,-74.48688,Upper Freehold Township,1351
+Deal,07723,Monmouth,40.250104,-74.00153,Deal Borough,1311
+Eatontown,07724,Monmouth,40.301979,-74.06889,Eatontown Borough,1312
+Englishtown,07726,Monmouth,40.294244,-74.34213,Englishtown Borough,1313
+Fair Haven,07704,Monmouth,40.360581,-74.03738,Fair Haven Borough,1314
+Farmingdale,07727,Monmouth,40.205367,-74.15767,Farmingdale Borough,1315
+Fort Monmouth,07703,Monmouth,40.309121,-74.0486,Tinton Falls Borough,1349
+Freehold,07728,Monmouth,40.241036,-74.27629,Freehold Borough,1316
+Hazlet,07730,Monmouth,40.423298,-74.179,Hazlet Township,1318
+Highlands,07732,Monmouth,40.404474,-73.9904,Highlands Borough,1319
+Holmdel,07733,Monmouth,40.384832,-74.17194,Holmdel Township,1320
+Howell,07731,Monmouth,40.146597,-74.20815,Howell Township,1321
+Imlaystown,08526,Monmouth,40.162275,-74.475936,Upper Freehold Township,1351
+Keansburg,07734,Monmouth,40.444407,-74.13298,Keansburg Borough,1323
+Keyport,07735,Monmouth,40.439714,-74.19374,Keyport Borough,1324
+Leonardo,07737,Monmouth,40.416772,-74.06058,Middletown Township,1332
+Lincroft,07738,Monmouth,40.337374,-74.12059,Middletown Township,1332
+Little Silver,07739,Monmouth,40.33517,-74.04059,Little Silver Borough,1325
+Long Branch,07740,Monmouth,40.297932,-73.99097,Long Branch,1327
+Manasquan,08736,Monmouth,40.120261,-74.05765,Manasquan Borough,1329
+Marlboro,07746,Monmouth,40.316876,-74.26112,Marlboro Township,1330
+Matawan,07747,Monmouth,40.411102,-74.23767,Matawan Borough,1331
+Middletown,07748,Monmouth,40.410213,-74.11718,Middletown Township,1332
+Millstone Township,08510,Monmouth,40.18238,-74.42134,Millstone Township,1333
+Monmouth Beach,07750,Monmouth,40.332877,-73.97986,Monmouth Beach Borough,1334
+Morganville,07751,Monmouth,40.361014,-74.26595,Marlboro Township,1330
+Navesink,07752,Monmouth,40.402277,-74.027285,Middletown Township,1332
+Neptune,07753,Monmouth,40.208945,-74.05261,Neptune Township,1335
+Oakhurst,07755,Monmouth,40.263575,-74.02176,Ocean Township,1337
+Ocean Grove,07756,Monmouth,40.211982,-74.00916,Ocean Township,1337
+Oceanport,07757,Monmouth,40.318115,-74.01239,Oceanport Borough,1338
+Perrineville,08535,Monmouth,40.228497,-74.45064,Millstone Township,1333
+Port Monmouth,07758,Monmouth,40.427561,-74.1069,Middletown Township,1332
+Red Bank,07701,Monmouth,40.352953,-74.07703,Red Bank Borough,1339
+Roosevelt,08555,Monmouth,40.22142,-74.47378,Roosevelt Borough,1340
+Rumson,07760,Monmouth,40.369145,-73.99576,Rumson Borough,1341
+Sea Girt,08750,Monmouth,40.133754,-74.04123,Sea Girt Borough,1343
+Shrewsbury,07702,Monmouth,40.329128,-74.06315,Shrewsbury Borough,1344
+Spring Lake,07762,Monmouth,40.153024,-74.03372,Spring Lake Borough,1347
+Tennent,07763,Monmouth,40.302718,-74.24928,Manalapan Township,1328
+West Long Branch,07764,Monmouth,40.289985,-74.01671,West Long Branch Borough,1353
+Wickatunk,07765,Monmouth,40.302718,-74.24928,Marlboro Township,1330
+Boonton,07005,Morris,40.912798,-74.41516,Boonton,1401
+Brookside,07926,Morris,40.800353,-74.571785,Mendham Township,1419
+Budd Lake,07828,Morris,40.878198,-74.73875,Mount Olive Township,1427
+Butler,07405,Morris,40.99313,-74.35893,Butler Borough,1403
+Cedar Knolls,07927,Morris,40.821149,-74.45121,Hanover Township,1412
+Chatham,07928,Morris,40.7332,-74.39736,Chatham Borough,1404
+Chester,07930,Morris,40.786549,-74.68799,Chester Borough,1406
+Denville,07834,Morris,40.886149,-74.48704,Denville Township,1408
+Dover,07801,Morris,40.889166,-74.55462,Dover,1409
+East Hanover,07936,Morris,40.820012,-74.36474,East Hanover Township,1410
+Flanders,07836,Morris,40.84405,-74.70134,Mount Olive Township,1427
+Florham Park,07932,Morris,40.77835,-74.39009,Florham Park Borough,1411
+Gillette,07933,Morris,40.683934,-74.47079,Long Hill Township,1430
+Green Village,07935,Morris,40.739333,-74.45631,Harding Township,1413
+Greystone Park,07950,Morris,40.842399,-74.48223,Parsippany-Troy Hills Township,1429
+Hibernia,07842,Morris,40.940301,-74.49617,Rockaway Borough,1434
+Ironia,07845,Morris,40.867331,-74.578269,Randolph Township,1432
+Kenvil,07847,Morris,40.88038,-74.62009,Roxbury Township,1436
+Lake Hiawatha,07034,Morris,40.881149,-74.38112,Parsippany-Troy Hills Township,1429
+Lake Hopatcong,07849,Morris,40.963959,-74.61414,Jefferson Township,1414
+Landing,07850,Morris,40.908198,-74.65749,Roxbury Township,1436
+Ledgewood,07852,Morris,40.876349,-74.65769,Roxbury Township,1436
+Lincoln Park,07035,Morris,40.923233,-74.29376,Lincoln Park Borough,1416
+Long Valley,07853,Morris,40.788599,-74.78295,Washington Township,1438
+Madison,07940,Morris,40.75875,-74.41609,Madison Borough,1417
+Mendham,07945,Morris,40.782767,-74.59529,Mendham Borough,1418
+Millington,07946,Morris,40.672823,-74.52011,Long Hill Township,1430
+Mine Hill,07803,Morris,40.878785,-74.60098,Mine Hill Township,1420
+Montville,07045,Morris,40.906152,-74.36742,Montville Township,1421
+Morris Plains,07950,Morris,40.842399,-74.48223,Morris Plains Borough,1423
+Morristown,07960,Morris,40.79215,-74.48559,Morristown,1424
+Mount Arlington,07856,Morris,40.919498,-74.63559,Mount Arlington Borough,1426
+Mount Freedom,07970,Morris,40.813281,-74.57267,Randolph Township,1432
+Mount Tabor,07878,Morris,40.872866,-74.47843,Parsippany-Troy Hills Township,1429
+Mountain Lakes,07046,Morris,40.892021,-74.44022,Mountain Lakes Borough,1425
+Netcong,07857,Morris,40.897398,-74.70301,Netcong Borough,1428
+New Vernon,07976,Morris,40.733739,-74.48851,Harding Township,1413
+Parsippany,07054,Morris,40.860149,-74.4171,Parsippany-Troy Hills Township,1429
+Pequannock,07440,Morris,40.946748,-74.29575,Pequannock Township,1431
+Picatinny Arsenal,07806,Morris,40.867331,-74.578269,Jefferson Township,1414
+Pine Brook,07058,Morris,40.871299,-74.34331,Montville Township,1421
+Pompton Plains,07444,Morris,40.964548,-74.29813,Pequannock Township,1431
+Randolph,07869,Morris,40.847649,-74.5748,Randolph Township,1432
+Riverdale,07457,Morris,40.990032,-74.31023,Riverdale Borough,1433
+Rockaway,07866,Morris,40.926798,-74.50624,Rockaway Borough,1434
+Schooleys Mountain,07870,Morris,40.810362,-74.819318,Washington Township,1438
+Stirling,07980,Morris,40.672968,-74.49171,Long Hill Township,1430
+Succasunna,07876,Morris,40.855549,-74.65251,Roxbury Township,1436
+Towaco,07082,Morris,40.92241,-74.34625,Montville Township,1421
+Wharton,07885,Morris,40.913298,-74.58246,Wharton Borough,1439
+Whippany,07981,Morris,40.821482,-74.42648,Hanover Township,1412
+Barnegat,08005,Ocean,39.759581,-74.27398,Barnegat Township,1501
+Barnegat Light,08006,Ocean,39.75196,-74.11074,Barnegat Light Borough,1502
+Bayville,08721,Ocean,39.902851,-74.16037,Berkeley Township,1506
+Beach Haven,08008,Ocean,39.614596,-74.2005,Beach Haven Borough,1504
+Beachwood,08722,Ocean,39.931068,-74.19618,Beachwood Borough,1505
+Brick,08723,Ocean,40.042479,-74.123,Brick Township,1507
+Forked River,08731,Ocean,39.848035,-74.21297,Lacey Township,1513
+Island Heights,08732,Ocean,39.942616,-74.14689,Island Heights Borough,1511
+Jackson,08527,Ocean,40.11597,-74.32251,Jackson Township,1512
+Lakehurst,08733,Ocean,40.017117,-74.30491,Lakehurst Borough,1514
+Lakewood,08701,Ocean,40.082782,-74.2094,Lakewood Township,1515
+Lanoka Harbor,08734,Ocean,39.862864,-74.16624,Lacey Township,1513
+Lavallette,08735,Ocean,39.982101,-74.06768,Lavallette Borough,1516
+Manahawkin,08050,Ocean,39.707575,-74.25933,Stafford Township,1531
+Manchester Township,08759,Ocean,39.943541,-74.36949,Manchester Township,1519
+Mantoloking,08738,Ocean,40.025258,-74.05579,Mantoloking Borough,1520
+New Egypt,08533,Ocean,40.075185,-74.48433,Plumsted Township,1524
+Normandy Beach,08739,Ocean,40.000759,-74.24928,Toms River Township,1508
+Ocean Gate,08740,Ocean,39.925301,-74.13488,Ocean Gate Borough,1522
+Pine Beach,08741,Ocean,39.934318,-74.16773,Pine Beach Borough,1523
+Point Pleasant Beach,08742,Ocean,40.081165,-74.06003,Point Pleasant Beach Borough,1526
+Seaside Heights,08751,Ocean,39.948518,-74.0759,Seaside Heights Borough,1527
+Seaside Park,08752,Ocean,39.920268,-74.07967,Seaside Park Borough,1528
+Toms River,08753,Ocean,39.974584,-74.15141,Toms River Township,1508
+Tuckerton,08087,Ocean,39.59899,-74.36573,Tuckerton Borough,1533
+Waretown,08758,Ocean,39.784513,-74.22376,Ocean Township,1521
+West Creek,08092,Ocean,39.658781,-74.28673,Eagleswood Township,1509
+Bloomingdale,07403,Passaic,41.014497,-74.33021,Bloomingdale Borough,1601
+Clifton,07011,Passaic,40.879699,-74.14263,Clifton,1602
+Haledon,07508,Passaic,40.945198,-74.18286,Haledon Borough,1603
+Haskell,07420,Passaic,41.026747,-74.29742,Wanaque Borough,1613
+Hawthorne,07506,Passaic,40.957498,-74.15627,Hawthorne Borough,1604
+Hewitt,07421,Passaic,41.173445,-74.37404,West Milford Township,1615
+Little Falls,07424,Passaic,40.886628,-74.21405,Little Falls Township,1605
+Newfoundland,07435,Passaic,41.045897,-74.43677,West Milford Township,1615
+Oak Ridge,07438,Passaic,41.029555,-74.5071,West Milford Township,1615
+Passaic,07055,Passaic,40.857384,-74.12899,Passaic,1607
+Paterson,07501,Passaic,40.912198,-74.16863,Paterson,1608
+Pompton Lakes,07442,Passaic,40.99948,-74.28807,Pompton Lakes Borough,1609
+Ringwood,07456,Passaic,41.096095,-74.26012,Ringwood Borough,1611
+Totowa,07511,Passaic,41.011428,-74.304793,Totowa Borough,1612
+Wanaque,07465,Passaic,41.052958,-74.28236,Wanaque Borough,1613
+Wayne,07470,Passaic,40.943608,-74.25004,Wayne Township,1614
+West Milford,07480,Passaic,41.102569,-74.37047,West Milford Township,1615
+Alloway,08001,Salem,39.559426,-75.3631,Alloway Township,1701
+Deepwater,08023,Salem,39.683577,-75.48932,Pennsville Township,1709
+Elmer,08318,Salem,39.553504,-75.16843,Elmer Borough,1703
+Hancocks Bridge,08038,Salem,39.481009,-75.50618,Lower Alloways Creek Township,1705
+Monroeville,08343,Salem,39.633964,-75.15643,Upper Pittsgrove Township,1714
+Norma,08347,Salem,39.499765,-75.082022,Pittsgrove Township,1711
+Pedricktown,08067,Salem,39.740353,-75.41262,Oldmans Township,1707
+Penns Grove,08069,Salem,39.712593,-75.46906,Penns Grove Borough,1708
+Pennsville,08070,Salem,39.645377,-75.51923,Pennsville Township,1709
+Quinton,08072,Salem,39.546172,-75.41367,Quinton Township,1712
+Salem,08079,Salem,39.549912,-75.43943,Salem,1713
+Woodstown,08098,Salem,39.637838,-75.32396,Woodstown Borough,1715
+Basking Ridge,07920,Somerset,40.6789,-74.57039,Bernards Township,1802
+Bedminster,07921,Somerset,40.652301,-74.653,Bedminster Township,1801
+Belle Mead,08502,Somerset,40.460137,-74.63592,Montgomery Township,1813
+Bernardsville,07924,Somerset,40.72344,-74.57753,Bernardsville Borough,1803
+Blawenburg,08504,Somerset,40.425369,-74.668753,Montgomery Township,1813
+Bound Brook,08805,Somerset,40.567953,-74.54034,Bound Brook Borough,1804
+Bridgewater,08807,Somerset,40.588097,-74.62253,Bridgewater Township,1806
+Far Hills,07931,Somerset,40.696601,-74.63781,Far Hills Borough,1807
+Flagtown,08821,Somerset,40.518578,-74.68545,Hillsborough Township,1810
+Franklin Park,08823,Somerset,40.439412,-74.55565,Franklin Township,1808
+Gladstone,07934,Somerset,40.72265,-74.67432,Peapack-Gladstone Borough,1815
+Hillsborough,08844,Somerset,40.502477,-74.650023,Hillsborough Township,1810
+Kingston,08528,Somerset,40.377173,-74.61538,Franklin Township,1808
+Liberty Corner,07938,Somerset,40.655399,-74.586151,Bernards Township,1802
+Lyons,07939,Somerset,40.566553,-74.599801,Bernards Township,1802
+Manville,08835,Somerset,40.538903,-74.59222,Manville Borough,1811
+Martinsville,08836,Somerset,40.595552,-74.55174,Bridgewater Township,1806
+Neshanic Station,08853,Somerset,40.51057,-74.72472,Branchburg Township,1805
+Peapack,07977,Somerset,40.707505,-74.65657,Peapack-Gladstone Borough,1815
+Pluckemin,07978,Somerset,40.642491,-74.639597,Bedminster Township,1801
+Raritan,08869,Somerset,40.571302,-74.6374,Raritan Borough,1816
+Rocky Hill,08553,Somerset,40.400406,-74.63895,Rocky Hill Borough,1817
+Skillman,08558,Somerset,40.410155,-74.70726,Montgomery Township,1813
+Somerset,08873,Somerset,40.505253,-74.50723,Franklin Township,1808
+Somerville,08876,Somerset,40.545853,-74.63592,Somerville Borough,1818
+South Bound Brook,08880,Somerset,40.553803,-74.52976,South Bound Brook Borough,1819
+Warren,07059,Somerset,40.633652,-74.5008,Warren Township,1820
+Watchung,07069,Somerset,40.641207,-74.443695,Watchung Borough,1821
+Zarephath,08890,Somerset,40.536069,-74.578872,Franklin Township,1808
+Andover,07821,Sussex,40.966308,-74.74298,Andover Borough,1901
+Augusta,07822,Sussex,41.139545,-74.6993,Frankford Township,1905
+Branchville,07826,Sussex,41.177457,-74.75904,Branchville Borough,1903
+Franklin,07416,Sussex,41.11736,-74.58784,Franklin Borough,1906
+Glasser,07837,Sussex,41.12831,-74.678956,Hopatcong Borough,1912
+Glenwood,07418,Sussex,41.232344,-74.48688,Vernon Township,1922
+Greendell,07839,Sussex,41.12831,-74.678956,Green Township,1908
+Hamburg,07419,Sussex,41.156187,-74.57094,Hamburg Borough,1909
+Highland Lakes,07422,Sussex,41.180137,-74.45489,Vernon Township,1922
+Hopatcong,07843,Sussex,40.937206,-74.66147,Hopatcong Borough,1912
+Lafayette,07848,Sussex,41.094159,-74.69036,Lafayette Township,1913
+Layton,07851,Sussex,41.172968,-74.88301,Sandyston Township,1917
+Mc Afee,07428,Sussex,41.181052,-74.51796,Vernon Township,1922
+Middleville,07855,Sussex,41.12831,-74.678956,Stillwater Township,1920
+Montague,07827,Sussex,41.300062,-74.76058,Montague Township,1914
+Newton,07860,Sussex,41.0714,-74.80199,Newton,1915
+Ogdensburg,07439,Sussex,41.080066,-74.5972,Ogdensburg Borough,1916
+Sparta,07871,Sussex,41.035384,-74.63557,Sparta Township,1918
+Stanhope,07874,Sussex,40.917054,-74.71053,Stanhope Borough,1919
+Stillwater,07875,Sussex,41.043858,-74.871981,Stillwater Township,1920
+Stockholm,07460,Sussex,41.091254,-74.52081,Hardyston Township,1911
+Sussex,07461,Sussex,41.229754,-74.60203,Sussex Borough,1921
+Swartswood,07877,Sussex,41.10289,-74.850759,Hampton Township,1910
+Tranquility,07879,Sussex,40.955934,-74.788108,Green Township,1908
+Vernon,07462,Sussex,41.193708,-74.5089,Vernon Township,1922
+Wallpack Center,07881,Sussex,41.125646,-74.917711,Walpack Township,1923
+Berkeley Heights,07922,Union,40.675112,-74.43459,Berkeley Heights Township,2001
+Clark,07066,Union,40.620336,-74.30934,Clark Township,2002
+Cranford,07016,Union,40.656302,-74.30371,Cranford Township,2003
+Elizabeth,07201,Union,40.669502,-74.19889,Elizabeth,2004
+Fanwood,07023,Union,40.641852,-74.38533,Fanwood Borough,2005
+Garwood,07027,Union,40.650802,-74.32351,Garwood Borough,2006
+Hillside,07205,Union,40.695552,-74.22856,Hillside Township,2007
+Kenilworth,07033,Union,40.674652,-74.2908,Kenilworth Borough,2008
+Linden,07036,Union,40.633953,-74.25339,Linden,2009
+Mountainside,07092,Union,40.680301,-74.35601,Mountainside Borough,2010
+New Providence,07974,Union,40.698268,-74.40225,New Providence Borough,2011
+Plainfield,07060,Union,40.620102,-74.42481,Plainfield,2012
+Rahway,07065,Union,40.607103,-74.28099,Rahway,2013
+Roselle,07203,Union,40.653502,-74.26058,Roselle Borough,2014
+Roselle Park,07204,Union,40.665552,-74.26768,Roselle Park Borough,2015
+Scotch Plains,07076,Union,40.637152,-74.37493,Scotch Plains Township,2016
+Springfield,07081,Union,40.701801,-74.32216,Springfield Township,2017
+Summit,07901,Union,40.714501,-74.3633,Summit,2018
+Union,07083,Union,40.695401,-74.26933,Union Township,2019
+Vauxhall,07088,Union,40.718401,-74.28416,Union Township,2019
+Westfield,07090,Union,40.649202,-74.34567,Westfield,2020
+Allamuchy,07820,Warren,40.869648,-74.849661,Allamuchy Township,2101
+Belvidere,07823,Warren,40.82383,-75.04585,Belvidere,2103
+Blairstown,07825,Warren,40.96035,-74.96243,Blairstown Township,2104
+Broadway,08808,Warren,40.737213,-75.046926,Franklin Township,2105
+Buttzville,07829,Warren,40.84335,-74.985914,White Township,2123
+Changewater,07831,Warren,40.739382,-74.944756,Washington Township,2122
+Columbia,07832,Warren,40.92976,-75.06193,Knowlton Township,2113
+Delaware,07833,Warren,40.895451,-75.06752,Knowlton Township,2113
+Great Meadows,07838,Warren,40.886474,-74.90089,Independence Township,2112
+Hackettstown,07840,Warren,40.861748,-74.83054,Hackettstown,2108
+Hope,07844,Warren,40.919658,-74.984628,Hope Township,2111
+Johnsonburg,07846,Warren,40.966266,-74.87979,Frelinghuysen Township,2106
+Oxford,07863,Warren,40.815107,-74.96802,Oxford Township,2117
+Phillipsburg,08865,Warren,40.689123,-75.17243,Phillipsburg,2119
+Port Murray,07865,Warren,40.783175,-74.90934,Mansfield Township,2116
+Stewartsville,08886,Warren,40.694938,-75.11181,Greenwich Township,2107
+Vienna,07880,Warren,40.864844,-74.897002,Independence Township,2112
+Washington,07882,Warren,40.753753,-74.99617,Washington Borough,2121
