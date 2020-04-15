@@ -1,110 +1,110 @@
 //Create the tile layer that will be the background of our map
 var streetmap = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
-    attribution: "Map data &copy; <a href='https://www.openstreetmap.org/'>OpenStreetMap</a> contributors, <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC-BY-SA</a>, Imagery © <a href='https://www.mapbox.com/'>Mapbox</a>",
-    maxZoom: 18,
-    id: "mapbox.streets",
-    accessToken: API_KEY
+  attribution: "Map data &copy; <a href='https://www.openstreetmap.org/'>OpenStreetMap</a> contributors, <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC-BY-SA</a>, Imagery © <a href='https://www.mapbox.com/'>Mapbox</a>",
+  maxZoom: 18,
+  id: "mapbox.streets",
+  accessToken: API_KEY
 });
 
 var satmap = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
-    attribution: "Map data &copy; <a href='https://www.openstreetmap.org/'>OpenStreetMap</a> contributors, <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC-BY-SA</a>, Imagery © <a href='https://www.mapbox.com/'>Mapbox</a>",
-    maxZoom: 18,
-    id: "mapbox.satellite",
-    accessToken: API_KEY
+  attribution: "Map data &copy; <a href='https://www.openstreetmap.org/'>OpenStreetMap</a> contributors, <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC-BY-SA</a>, Imagery © <a href='https://www.mapbox.com/'>Mapbox</a>",
+  maxZoom: 18,
+  id: "mapbox.satellite",
+  accessToken: API_KEY
 });
 
 var lightmap = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
-    attribution: "Map data &copy; <a href='https://www.openstreetmap.org/'>OpenStreetMap</a> contributors, <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC-BY-SA</a>, Imagery © <a href='https://www.mapbox.com/'>Mapbox</a>",
-    maxZoom: 18,
-    id: "mapbox.light",
-    accessToken: API_KEY
+  attribution: "Map data &copy; <a href='https://www.openstreetmap.org/'>OpenStreetMap</a> contributors, <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC-BY-SA</a>, Imagery © <a href='https://www.mapbox.com/'>Mapbox</a>",
+  maxZoom: 18,
+  id: "mapbox.light",
+  accessToken: API_KEY
 });
 
 var darkmap = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
-    attribution: "Map data &copy; <a href='https://www.openstreetmap.org/'>OpenStreetMap</a> contributors, <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC-BY-SA</a>, Imagery © <a href='https://www.mapbox.com/'>Mapbox</a>",
-    maxZoom: 18,
-    id: "mapbox.dark",
-    accessToken: API_KEY
+  attribution: "Map data &copy; <a href='https://www.openstreetmap.org/'>OpenStreetMap</a> contributors, <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC-BY-SA</a>, Imagery © <a href='https://www.mapbox.com/'>Mapbox</a>",
+  maxZoom: 18,
+  id: "mapbox.dark",
+  accessToken: API_KEY
 });
 
 var outmap = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
-    attribution: "Map data &copy; <a href='https://www.openstreetmap.org/'>OpenStreetMap</a> contributors, <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC-BY-SA</a>, Imagery © <a href='https://www.mapbox.com/'>Mapbox</a>",
-    maxZoom: 18,
-    id: "mapbox.outdoors",
-    accessToken: API_KEY
+  attribution: "Map data &copy; <a href='https://www.openstreetmap.org/'>OpenStreetMap</a> contributors, <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC-BY-SA</a>, Imagery © <a href='https://www.mapbox.com/'>Mapbox</a>",
+  maxZoom: 18,
+  id: "mapbox.outdoors",
+  accessToken: API_KEY
 });
 
 var satstrmap = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
-    attribution: "Map data &copy; <a href='https://www.openstreetmap.org/'>OpenStreetMap</a> contributors, <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC-BY-SA</a>, Imagery © <a href='https://www.mapbox.com/'>Mapbox</a>",
-    maxZoom: 18,
-    id: "mapbox.streets-satellite",
-    accessToken: API_KEY
+  attribution: "Map data &copy; <a href='https://www.openstreetmap.org/'>OpenStreetMap</a> contributors, <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC-BY-SA</a>, Imagery © <a href='https://www.mapbox.com/'>Mapbox</a>",
+  maxZoom: 18,
+  id: "mapbox.streets-satellite",
+  accessToken: API_KEY
 });
 
 var wheatmap = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
-    attribution: "Map data &copy; <a href='https://www.openstreetmap.org/'>OpenStreetMap</a> contributors, <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC-BY-SA</a>, Imagery © <a href='https://www.mapbox.com/'>Mapbox</a>",
-    maxZoom: 18,
-    id: "mapbox.wheatpaste",
-    accessToken: API_KEY
+  attribution: "Map data &copy; <a href='https://www.openstreetmap.org/'>OpenStreetMap</a> contributors, <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC-BY-SA</a>, Imagery © <a href='https://www.mapbox.com/'>Mapbox</a>",
+  maxZoom: 18,
+  id: "mapbox.wheatpaste",
+  accessToken: API_KEY
 });
 
 var strbasicmap = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
-    attribution: "Map data &copy; <a href='https://www.openstreetmap.org/'>OpenStreetMap</a> contributors, <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC-BY-SA</a>, Imagery © <a href='https://www.mapbox.com/'>Mapbox</a>",
-    maxZoom: 18,
-    id: "mapbox.streets-basic",
-    accessToken: API_KEY
+  attribution: "Map data &copy; <a href='https://www.openstreetmap.org/'>OpenStreetMap</a> contributors, <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC-BY-SA</a>, Imagery © <a href='https://www.mapbox.com/'>Mapbox</a>",
+  maxZoom: 18,
+  id: "mapbox.streets-basic",
+  accessToken: API_KEY
 });
 
 var comicmap = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
-    attribution: "Map data &copy; <a href='https://www.openstreetmap.org/'>OpenStreetMap</a> contributors, <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC-BY-SA</a>, Imagery © <a href='https://www.mapbox.com/'>Mapbox</a>",
-    maxZoom: 18,
-    id: "mapbox.comic",
-    accessToken: API_KEY
+  attribution: "Map data &copy; <a href='https://www.openstreetmap.org/'>OpenStreetMap</a> contributors, <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC-BY-SA</a>, Imagery © <a href='https://www.mapbox.com/'>Mapbox</a>",
+  maxZoom: 18,
+  id: "mapbox.comic",
+  accessToken: API_KEY
 });
 
 var pencilmap = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
-    attribution: "Map data &copy; <a href='https://www.openstreetmap.org/'>OpenStreetMap</a> contributors, <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC-BY-SA</a>, Imagery © <a href='https://www.mapbox.com/'>Mapbox</a>",
-    maxZoom: 18,
-    id: "mapbox.pencil",
-    accessToken: API_KEY
+  attribution: "Map data &copy; <a href='https://www.openstreetmap.org/'>OpenStreetMap</a> contributors, <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC-BY-SA</a>, Imagery © <a href='https://www.mapbox.com/'>Mapbox</a>",
+  maxZoom: 18,
+  id: "mapbox.pencil",
+  accessToken: API_KEY
 });
 
 var piratesmap = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
-    attribution: "Map data &copy; <a href='https://www.openstreetmap.org/'>OpenStreetMap</a> contributors, <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC-BY-SA</a>, Imagery © <a href='https://www.mapbox.com/'>Mapbox</a>",
-    maxZoom: 18,
-    id: "mapbox.pirates",
-    accessToken: API_KEY
+  attribution: "Map data &copy; <a href='https://www.openstreetmap.org/'>OpenStreetMap</a> contributors, <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC-BY-SA</a>, Imagery © <a href='https://www.mapbox.com/'>Mapbox</a>",
+  maxZoom: 18,
+  id: "mapbox.pirates",
+  accessToken: API_KEY
 });
 
 var emeraldmap = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
-    attribution: "Map data &copy; <a href='https://www.openstreetmap.org/'>OpenStreetMap</a> contributors, <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC-BY-SA</a>, Imagery © <a href='https://www.mapbox.com/'>Mapbox</a>",
-    maxZoom: 18,
-    id: "mapbox.emerald",
-    accessToken: API_KEY
+  attribution: "Map data &copy; <a href='https://www.openstreetmap.org/'>OpenStreetMap</a> contributors, <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC-BY-SA</a>, Imagery © <a href='https://www.mapbox.com/'>Mapbox</a>",
+  maxZoom: 18,
+  id: "mapbox.emerald",
+  accessToken: API_KEY
 });
 
 var highcmap = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
-    attribution: "Map data &copy; <a href='https://www.openstreetmap.org/'>OpenStreetMap</a> contributors, <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC-BY-SA</a>, Imagery © <a href='https://www.mapbox.com/'>Mapbox</a>",
-    maxZoom: 18,
-    id: "mapbox.high-contrast",
-    accessToken: API_KEY
+  attribution: "Map data &copy; <a href='https://www.openstreetmap.org/'>OpenStreetMap</a> contributors, <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC-BY-SA</a>, Imagery © <a href='https://www.mapbox.com/'>Mapbox</a>",
+  maxZoom: 18,
+  id: "mapbox.high-contrast",
+  accessToken: API_KEY
 });
 
 
 // baseMaps
 var baseMaps = {
-    "Street Map": streetmap,
-    "Satellite": satmap,
-    "Light Map": lightmap,
-    "Dark Map": darkmap,
-    "Outdoors": outmap,
-    "Wheatpaste": wheatmap,
-    "Street Basic": strbasicmap,
-    "Comic": comicmap,
-    "Pencil": pencilmap,
-    "Pirate": piratesmap,
-    "Emerald": emeraldmap,
-    "High-Contrast": highcmap
+  "Street Map": streetmap,
+  "Satellite": satmap,
+  "Light Map": lightmap,
+  "Dark Map": darkmap,
+  "Outdoors": outmap,
+  "Wheatpaste": wheatmap,
+  "Street Basic": strbasicmap,
+  "Comic": comicmap,
+  "Pencil": pencilmap,
+  "Pirate": piratesmap,
+  "Emerald": emeraldmap,
+  "High-Contrast": highcmap
 };
 
 
@@ -115,11 +115,6 @@ var layers = {
   BusStops: new L.LayerGroup(),
   Houses: new L.LayerGroup(),
   Munis: new L.LayerGroup(),
-  // WalkHeat: new L.LayerGroup(),
-  // TravelHeat: new L.LayerGroup(),
-  // HSHeat: new L.LayerGroup(),
-  // ActHeat: new L.LayerGroup(),
-  // SafeHeat: new L.LayerGroup(),
   DwellHeat: new L.LayerGroup()
 };
 
@@ -133,11 +128,6 @@ var map = L.map("map", {
     layers.BusStops,
     layers.Houses,
     layers.Munis,
-    // layers.WalkHeat,
-    // layers.TravelHeat,
-    // layers.HSHeat,
-    // layers.ActHeat,
-    // layers.SafeHeat,
     layers.DwellHeat
   ]
 });
@@ -213,11 +203,21 @@ function drawMunicipalities() {
 
       // Passing in our style object
       style: mapStyle,
-      onEachFeature: function(a,b){
-        b.on('click',function(){
+      onEachFeature: function (a, b) {
+        b.on('click', function () {
           console.log(a.geometry.coordinates[0][0])
+          console.log(event.button)
         })
-        b.bindPopup(a.properties.NAME)
+        b.bindPopup(`<H3>${a.properties.NAME}</H3><BR><H4>MUNID:${a.properties.MUN_CODE}</H4>`).on('popupclose', function () {
+          var coord = {
+            'lat': "40.0583",
+            'lon': "-74.4057"
+          }
+          map.flyTo(coord, 8);
+          // var sel = document.getElementById('City');
+          // sel.selectedIndex = 0;
+          // drawHeatMaps()
+        })
       }
 
     }).addTo(layers["Munis"]);
@@ -290,185 +290,37 @@ function clearHeatMaps() {
 
 }
 
-//***************************************
-//           WALK HEATMAP LAYER
-//***************************************
-function walkHeat(multiplier) {
-  layers.WalkHeat.clearLayers();
-
-  d3.json("/walkScore", function (response) {
-    if (multiplier != 0) {
-      var heatArray = [];
-      for (var i = 0; i < response.length; i++) {
-        var latitude = parseFloat(response[i].Latitude);
-        var longitude = parseFloat(response[i].Longitude);
-        var intensity = parseFloat(response[i].Walkability) * multiplier;
-        if (latitude) {
-          heatArray.push([latitude, longitude, intensity]);
-        }
-      }
-      var heat = L.heatLayer(heatArray, {
-        radius: 2 * multiplier,
-        blur: 3 * multiplier
-      });
-      heat.addTo(layers.WalkHeat);
-    }
-  })
-}
-
-//***************************************
-//      Activities HEATMAP LAYER
-//***************************************
-function actHeat(multiplier) {
-  layers.WalkHeat.clearLayers();
-
-  d3.json("/actScore", function (response) {
-    if (multiplier != 0) {
-      var heatArray = [];
-      for (var i = 0; i < response.length; i++) {
-        var coord= response[i].latlng
-        var latitude = coord.split(',')[0];
-        var longitude = coord.split(',')[1];
-        var intensity = parseFloat(response[i].activityScore) * multiplier;
-        if (latitude) {
-          heatArray.push([latitude, longitude, intensity]);
-        }
-      }
-      var heat = L.heatLayer(heatArray, {
-        radius: 2 * multiplier,
-        blur: 3 * multiplier
-      });
-      heat.addTo(layers.ActHeat);
-    }
-  })
-}
-
-//***************************************
-//           CRIME HEATMAP LAYER
-//***************************************
-function safeHeat(multiplier) {
-  layers.SafeHeat.clearLayers();
-
-  d3.json("/crimeScore", function (response) {
-    if (multiplier != 0) {
-      var heatArray = [];
-      for (var i = 0; i < response.length; i++) {
-        var latitude = parseFloat(response[i].Latitude);
-        var longitude = parseFloat(response[i].Longitude);
-        var intensity = parseFloat(response[i]["2018"]) * multiplier;
-        if (latitude) {
-          heatArray.push([latitude, longitude, intensity]);
-        }
-      }
-      var heat = L.heatLayer(heatArray, {
-        radius: 2 * multiplier,
-        blur: 3 * multiplier
-      });
-      heat.addTo(layers.SafeHeat);
-    }
-  })
-}
-
-//***************************************
-//        EDUCATION HEATMAP LAYER
-//***************************************
-function hsHeat(multiplier) {
-  layers.HSHeat.clearLayers();
-
-  d3.json("/eduScore", function (response) {
-    if (multiplier != 0) {
-      var heatArray = [];
-      for (var i = 0; i < response.length; i++) {
-        var latitude = parseFloat(response[i].Latitude);
-        var longitude = parseFloat(response[i].Longitude);
-        var intensity = parseFloat(response[i].EduScore) * multiplier;
-        if (latitude) {
-          heatArray.push([latitude, longitude, intensity]);
-        }
-      }
-      var heat = L.heatLayer(heatArray, {
-        radius: 2 * multiplier,
-        blur: 3 * multiplier
-      });
-      heat.addTo(layers.HSHeat);
-    }
-  })
-}
-
-//***************************************
-//        TRAVEL HEATMAP LAYER
-//***************************************
-function travelHeat(multiplier) {
-  layers.TravelHeat.clearLayers();
-
-  d3.json("/rr", function (response) {
-
-    if (multiplier != 0) {
-      var heatArray = [];
-      for (var i = 0; i < response.length; i++) {
-        var latitude = parseFloat(response[i].Latitude);
-        var longitude = parseFloat(response[i].Longitude);
-        var intensity = multiplier;
-        if (latitude) {
-          heatArray.push([latitude, longitude, intensity]);
-        }
-      }
-      var heat = L.heatLayer(heatArray, {
-        radius: 2 * multiplier,
-        blur: 3 * multiplier
-      });
-      heat.addTo(layers.TravelHeat);
-    }
-  })
-
-  d3.json("/bstop", function (response) {
-    var heatArray = [];
-    for (var i = 0; i < response.length; i++) {
-      var latitude = parseFloat(response[i].stop_lat);
-      var longitude = parseFloat(response[i].stop_lon);
-      var intensity = multiplier;
-      if (latitude) {
-        heatArray.push([latitude, longitude, intensity]);
-      }
-    }
-    var heat = L.heatLayer(heatArray, {
-      radius: 2 * multiplier,
-      blur: 3 * multiplier
-    });
-    heat.addTo(layers.TravelHeat);
-  })
-}
 
 //***************************************
 //   SCALE HEATMAP INTENSITY FUNCTION
 //***************************************
-function scaleIntensity(val, mult){
-  switch(mult){
+function scaleIntensity(val, mult) {
+  switch (mult) {
     case 0:
       return val;
     case 1:
-      return (val-25)*mult;
+      return (val - 25) * mult;
     case 2:
-      return (val-50)*mult;
+      return (val - 50) * mult;
     case 3:
-      return (val-75) * mult;
+      return (val - 75) * mult;
     case 4:
       return (val - 100) * mult;
     case 5:
-      return (val - 125)*mult;
+      return (val - 125) * mult;
     case 6:
-      return (val-150)*mult;
+      return (val - 150) * mult;
     case 7:
-      return (val-175)*mult;
+      return (val - 175) * mult;
     case 8:
-      return (val-200)*mult
+      return (val - 200) * mult
     case 9:
-      return (val-225)*mult;
+      return (val - 225) * mult;
     case 10:
-      return (val-250) * mult;
+      return (val - 250) * mult;
     default:
       return val;
-  } 
+  }
 
 }
 
@@ -477,20 +329,6 @@ function scaleIntensity(val, mult){
 //       DRAW HEATMAPS FUNCTION
 //***************************************
 function drawHeatMaps() {
-  // walkSlider1 = d3.select("#Walkability")
-  // walkHeat(eval(walkSlider1.property('value')))
-
-  // travelSlider1 = d3.select("#Transportation")
-  // travelHeat(eval(travelSlider1.property('value')))
-
-  // hsSlider1 = d3.select("#Education")
-  // hsHeat(eval(hsSlider1.property('value')))
-
-  // actSlider1 = d3.select("#Activities")
-  // actHeat(eval(actSlider1.property('value')))
-
-  // safeSlider1 = d3.select("#Safety")
-  // safeHeat(eval(safeSlider1.property('value')))
 
   var walkMult = d3.select("#Walkability").property('value')
   var eduMult = d3.select("#Education").property('value')
@@ -505,7 +343,7 @@ function drawHeatMaps() {
       for (var i = 0; i < response.length; i++) {
         var latitude = parseFloat(response[i].Latitude);
         var longitude = parseFloat(response[i].Longitude);
-        var intensity = scaleIntensity(parseFloat(response[i].Walkability),walkMult);
+        var intensity = scaleIntensity(parseFloat(response[i].Walkability), walkMult);
         if (latitude) {
           heatArray.push([latitude, longitude, intensity]);
         }
@@ -522,10 +360,10 @@ function drawHeatMaps() {
     if (actMult != 0) {
       var heatArray = [];
       for (var i = 0; i < response.length; i++) {
-        var coord= response[i].latlng
+        var coord = response[i].latlng
         var latitude = coord.split(',')[0];
         var longitude = coord.split(',')[1];
-        var intensity = scaleIntensity(parseFloat(response[i].activityScore),actMult);
+        var intensity = scaleIntensity(parseFloat(response[i].activityScore), actMult);
         if (latitude) {
           heatArray.push([latitude, longitude, intensity]);
         }
@@ -544,7 +382,7 @@ function drawHeatMaps() {
       for (var i = 0; i < response.length; i++) {
         var latitude = parseFloat(response[i].Latitude);
         var longitude = parseFloat(response[i].Longitude);
-        var intensity = scaleIntensity(parseFloat(response[i].EduScore),eduMult);
+        var intensity = scaleIntensity(parseFloat(response[i].EduScore), eduMult);
         if (latitude) {
           heatArray.push([latitude, longitude, intensity]);
         }
@@ -581,7 +419,7 @@ function drawHeatMaps() {
 //***************************************
 //       Populate all of the sliders
 //***************************************
-function populateSliders(){
+function populateSliders() {
   d3.select("#eduVal").text("5")
   d3.select("#transpoVal").text("5")
   d3.select("#walkVal").text("5")
@@ -637,23 +475,23 @@ d3.select("#Safety")
   })
 
 d3.select("#Activities")
-.on("change", function () {
-  d3.select("#actVal").text(eval(d3.select(this).property('value')))
-  // hsHeat(eval(d3.select(this).property('value')))
-})
+  .on("change", function () {
+    d3.select("#actVal").text(eval(d3.select(this).property('value')))
+    // hsHeat(eval(d3.select(this).property('value')))
+  })
 
 
 d3.select("#DwellMe")
-.on("click", function () {
-  clearHeatMaps();
-  // d3.select("#actVal").text(eval(d3.select(this).property('value')))
-  // walkHeat(eval(d3.select("#Walkability").property('value')))
-  // hsHeat(eval(d3.select("#Education").property('value')))
-  // travelHeat(eval(d3.select("#Transportation").property('value')))
-  // actHeat(eval(d3.select("#Activities").property('value')))
-  // safeHeat(eval(d3.select("#Safety").property('value')))
-  drawHeatMaps();
-})
+  .on("click", function () {
+    clearHeatMaps();
+    // d3.select("#actVal").text(eval(d3.select(this).property('value')))
+    // walkHeat(eval(d3.select("#Walkability").property('value')))
+    // hsHeat(eval(d3.select("#Education").property('value')))
+    // travelHeat(eval(d3.select("#Transportation").property('value')))
+    // actHeat(eval(d3.select("#Activities").property('value')))
+    // safeHeat(eval(d3.select("#Safety").property('value')))
+    drawHeatMaps();
+  })
 
 // CitySelect = d3.select("#City");
 // CitySelect.on("change", function () {

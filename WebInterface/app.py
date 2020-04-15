@@ -10,8 +10,8 @@ import datetime as dt
 import pymongo
 from config import dbkey
 
+# conn2 = f"mongodb://heroku_app:{dbkey}@dwelling-db-shard-00-00-yfzol.gcp.mongodb.net:27017,dwelling-db-shard-00-01-yfzol.gcp.mongodb.net:27017,dwelling-db-shard-00-02-yfzol.gcp.mongodb.net:27017/test?ssl=true&replicaSet=dwelling-db-shard-0&authSource=admin&retryWrites=true&w=majority"
 conn2 = f"mongodb://heroku_app:{dbkey}@dwelling-db-shard-00-00-yfzol.gcp.mongodb.net:27017,dwelling-db-shard-00-01-yfzol.gcp.mongodb.net:27017,dwelling-db-shard-00-02-yfzol.gcp.mongodb.net:27017/test?ssl=true&replicaSet=dwelling-db-shard-0&authSource=admin&retryWrites=true&w=majority"
-
 #################################################
 # Flask Setup
 #################################################
@@ -19,35 +19,14 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    # Create connection variable
-    city_names = []
-    test = []
-    # Pass connection to the pymongo instance.
-    client2 = pymongo.MongoClient(conn2)
-
-    # Connect to a database. Will create one if not already available.
-    db2 = client2.Dwelling_db
-    cities = db2.city_lat_lon.find()
-
-    for x in cities:
-        temp = {
-            'city': x['City'],
-            'latlong' : f"{x['Latitude']},{x['Longitude']}"
-        }
-        city_names.append(temp)
-        
-    # test.sort(function (a,b){return a.City < b.City})
-
-    
-    test = sorted(city_names, key = lambda i: i['city'])
-    return render_template('index.html', cityNames = test)
+    return render_template('index.html')
 
 @app.route("/rr")
 def railroad():
     # Create connection variable
     # conn2 = 'mongodb://localhost:27017'
     listings = []
-
+    print(conn2)
     # Pass connection to the pymongo instance.
     client2 = pymongo.MongoClient(conn2)
 
