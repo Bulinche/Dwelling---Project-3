@@ -35,7 +35,7 @@
   <link href="static/css/style.css" rel="stylesheet">
   <link href="static/color/default.css" rel="stylesheet">
 
-  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+  <!-- <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
     integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
     crossorigin="anonymous"></script>
 
@@ -45,7 +45,7 @@
 
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
     integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
-    crossorigin="anonymous"></script>
+    crossorigin="anonymous"></script> -->
 
 </head>
 
@@ -156,7 +156,7 @@
         </div>
       </div>
       <div class="row" style="width:100%;">
-        
+
         <div class="col-md-2 col-sm-12" style="text-align: center;">
         </div>
         <form style="text-align:left;font-size:12px">
@@ -218,9 +218,10 @@
         </div>
       </div>
       <div class="row" style="width:100%;">
-        <!-- <div class="col-md-3 col-sm-12">
-        </div> -->
-        <div class="col-md-12 col-sm-12">
+        <div class="col-sm-1" style="padding-top: 10px; padding-bottom: 10px;">
+          <button type="submit" class="btn btn-info" style="height:700px; width:5px; padding:0px" id="resetMap"></button>
+        </div>
+        <div class="col-sm-11" id="ret">
           <!-- map div -->
           <div id="map"></div>
           <!-- Leaflet heatmap plugin-->
@@ -235,13 +236,15 @@
 
           <script src="static/js/leaflet.extra-markers.min.js"></script>
         </div>
-
-        <div class="row">
-          <div class="col-lg-2 col-lg-offset-5">
-            <hr class="marginbot-50">
-          </div>
+      </div>
+      <div class="row" style="width:100%;">
+      </div>
+      <div class="row">
+        <div class="col-lg-2 col-lg-offset-5">
+          <hr class="marginbot-50">
         </div>
       </div>
+    </div>
     </div>
     <!-- <div class="row">
       <div class="col-md-12">

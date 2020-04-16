@@ -181,7 +181,6 @@ var icons = {
 
 
 
-
 //***************************************
 // DRAW MUNICIPALITIES WITH CLICK LINKS
 //***************************************
@@ -205,19 +204,14 @@ function drawMunicipalities() {
       style: mapStyle,
       onEachFeature: function (a, b) {
         b.on('click', function () {
-          console.log(a.geometry.coordinates[0][0])
-          console.log(event.button)
-        })
-        b.bindPopup(`<H3>${a.properties.NAME}</H3><BR><H4>MUNID:${a.properties.MUN_CODE}</H4>`).on('popupclose', function () {
           var coord = {
-            'lat': "40.0583",
-            'lon': "-74.4057"
+            'lat': a.geometry.coordinates[0][0][1],
+            'lon': a.geometry.coordinates[0][0][0]
           }
-          map.flyTo(coord, 8);
-          // var sel = document.getElementById('City');
-          // sel.selectedIndex = 0;
-          // drawHeatMaps()
+          map.flyTo(coord, 12);
+          addMarkers(parseInt(a.properties.MUN_CODE));
         })
+        b.bindPopup(`<H3>${a.properties.NAME}</H3><BR><H4>MUNID:${a.properties.MUN_CODE}</H4>`)
       }
 
     }).addTo(layers["Munis"]);
@@ -230,11 +224,14 @@ function drawMunicipalities() {
 //   INSERT MARKERS WITH POPUPS
 //***************************************
 
-function addMarkers(searchCity) {
-  clearMarkers();
+function addMarkers(searchMuni) {
+  // console.log(searchMuni)
+  // clearMarkers();
   clearHeatMaps()
 
-  searchURL = `/bs/${searchCity}`;
+
+
+  searchURL = `/bs/${searchMuni}`;
   d3.json(searchURL, function (response) {
     current_layer = "BusStops";
     for (var i = 0; i < response.length; i++) {
@@ -246,19 +243,22 @@ function addMarkers(searchCity) {
     }
   });
 
-  searchURL = `/rrs/${searchCity}`;
-  d3.json(searchURL, function (response) {
+  searchURL = `/rrs/${searchMuni}`;
+  console.log(searchURL)
+  d3.json(searchURL, function (error, reT) {
+    if (error) return console.info(error);
+    console.log(reT)
     current_layer = "TrainStop";
-    for (var i = 0; i < response.length; i++) {
-      var latitude = parseFloat(response[i].stop_lat);
-      var longitude = parseFloat(response[i].stop_lon);
+    for (var i = 0; i < reT.length; i++) {
+      var latitude = parseFloat(reT[i].stop_lat);
+      var longitude = parseFloat(reT[i].stop_lon);
       if (latitude) {
-        L.marker([latitude, longitude], { icon: icons[current_layer] }).addTo(layers[current_layer]).bindPopup("Stop: " + response[i].stop_name);
+        L.marker([latitude, longitude], { icon: icons[current_layer] }).addTo(layers[current_layer]).bindPopup("Stop: " + reT[i].stop_name);
       }
     }
   });
 
-  searchURL = `/hsm/2019/${searchCity}`;
+  searchURL = `/hs/${searchMuni}`;
   d3.json(searchURL, function (response) {
     current_layer = "Schools";
     for (var i = 0; i < response.length; i++) {
@@ -278,6 +278,7 @@ function clearMarkers() {
   layers.TrainStop.clearLayers();
   layers.Schools.clearLayers();
   layers.BusStops.clearLayers();
+
 }
 
 function clearHeatMaps() {
@@ -295,9 +296,9 @@ function clearHeatMaps() {
 //   SCALE HEATMAP INTENSITY FUNCTION
 //***************************************
 function scaleIntensity(val, mult) {
-  switch (mult) {
+  switch (parseInt(mult)) {
     case 0:
-      return val;
+      return 0;
     case 1:
       return (val - 25) * mult;
     case 2:
@@ -319,7 +320,7 @@ function scaleIntensity(val, mult) {
     case 10:
       return (val - 250) * mult;
     default:
-      return val;
+      return 0;
   }
 
 }
@@ -329,91 +330,34 @@ function scaleIntensity(val, mult) {
 //       DRAW HEATMAPS FUNCTION
 //***************************************
 function drawHeatMaps() {
-
+  clearHeatMaps()
   var walkMult = d3.select("#Walkability").property('value')
   var eduMult = d3.select("#Education").property('value')
   var safeMult = d3.select("#Safety").property('value')
   var actMult = d3.select("#Activities").property('value')
+  var tranMult = d3.select("#Transportation").property('value')
+  var blur = 5
+  var total = scaleIntensity(500, walkMult) + scaleIntensity(500, eduMult) + scaleIntensity(500, safeMult) + scaleIntensity(500, actMult) + scaleIntensity(500, tranMult)
+  if (total > 0) {
 
-  // var total = 500 * (walkMult + eduMult + safeMult + actMult)
-
-  d3.json("/walkScore", function (response) {
-    if (walkMult != 0) {
+    d3.json("/heat", function (response) {
       var heatArray = [];
       for (var i = 0; i < response.length; i++) {
         var latitude = parseFloat(response[i].Latitude);
         var longitude = parseFloat(response[i].Longitude);
-        var intensity = scaleIntensity(parseFloat(response[i].Walkability), walkMult);
+        var intensity = (scaleIntensity(parseFloat(response[i].WalkScore), walkMult) + scaleIntensity(parseFloat(response[i].EDUScore), eduMult) + scaleIntensity(parseFloat(response[i].CrimeScore), safeMult) + scaleIntensity(parseFloat(response[i].ActivityScore), actMult) + scaleIntensity(parseFloat(response[i].TransitScore), tranMult));
+
         if (latitude) {
           heatArray.push([latitude, longitude, intensity]);
         }
       }
       var heat = L.heatLayer(heatArray, {
-        radius: 2 * walkMult,
-        blur: 3 * walkMult
+        radius: 2 * blur,
+        blur: 3 * blur
       });
       heat.addTo(layers.DwellHeat);
-    }
-  })
-
-  d3.json("/actScore", function (response) {
-    if (actMult != 0) {
-      var heatArray = [];
-      for (var i = 0; i < response.length; i++) {
-        var coord = response[i].latlng
-        var latitude = coord.split(',')[0];
-        var longitude = coord.split(',')[1];
-        var intensity = scaleIntensity(parseFloat(response[i].activityScore), actMult);
-        if (latitude) {
-          heatArray.push([latitude, longitude, intensity]);
-        }
-      }
-      var heat = L.heatLayer(heatArray, {
-        radius: 2 * actMult,
-        blur: 3 * actMult
-      });
-      heat.addTo(layers.DwellHeat);
-    }
-  })
-
-  d3.json("/eduScore", function (response) {
-    if (eduMult != 0) {
-      var heatArray = [];
-      for (var i = 0; i < response.length; i++) {
-        var latitude = parseFloat(response[i].Latitude);
-        var longitude = parseFloat(response[i].Longitude);
-        var intensity = scaleIntensity(parseFloat(response[i].EduScore), eduMult);
-        if (latitude) {
-          heatArray.push([latitude, longitude, intensity]);
-        }
-      }
-      var heat = L.heatLayer(heatArray, {
-        radius: 2 * eduMult,
-        blur: 3 * eduMult
-      });
-      heat.addTo(layers.DwellHeat);
-    }
-  })
-
-  d3.json("/crimeScore", function (response) {
-    if (safeMult != 0) {
-      var heatArray = [];
-      for (var i = 0; i < response.length; i++) {
-        var latitude = parseFloat(response[i].Latitude);
-        var longitude = parseFloat(response[i].Longitude);
-        var intensity = scaleIntensity(parseFloat(response[i]["2018"]), safeMult);
-        if (latitude) {
-          heatArray.push([latitude, longitude, intensity]);
-        }
-      }
-      var heat = L.heatLayer(heatArray, {
-        radius: 2 * safeMult,
-        blur: 3 * safeMult
-      });
-      heat.addTo(layers.DwellHeat);
-    }
-  })
-
+    })
+  }
 }
 
 //***************************************
@@ -492,6 +436,16 @@ d3.select("#DwellMe")
     // safeHeat(eval(d3.select("#Safety").property('value')))
     drawHeatMaps();
   })
+d3.select("#resetMap")
+  .on("click", function () {
+    clearMarkers();
+    var coord = {
+      'lat': "40.0583",
+      'lon': "-74.4057"
+    }
+    map.flyTo(coord, 8);
+    drawHeatMaps()
+  })
 
 // CitySelect = d3.select("#City");
 // CitySelect.on("change", function () {
@@ -518,3 +472,7 @@ d3.select("#DwellMe")
 // resetPress.on("click", function () {
 //   init();
 // });
+
+//***************************************
+// RESET THE MAP TO ORIGINAL ZOOM
+//***************************************
