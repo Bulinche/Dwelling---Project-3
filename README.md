@@ -62,9 +62,9 @@ All the data collected had to be normalized, that is, go through a process where
 ### Project Steps:
 
 1. Get data from reliable sources and normalize it.
-2. Combine all the data in MongoDB.
-3. Connect the data using Flask, bootstrap, d3, mapping etc.
-4. Deploy MongoDB app to Heroku.
+2. Save the data in MongoDB. It is Stored in collections in the Dwelling_db database in MongoDB Online.
+3. Connect the data and give it functionality using Flask, bootstrap, d3, mapping etc.
+4. Deploy MongoDB and app functionality to Heroku.
 5. [View Dwelling App Online](https://dwelling-nj.herokuapp.com/)
 6. Find the perfect area to live!
 <br>
@@ -73,7 +73,7 @@ All the data collected had to be normalized, that is, go through a process where
 
 ## GETTING THE DATA
 
-Data extraction: Research process in different sources.
+Data extraction: Research process in different sources to obtain the necessary variables to develop the application.
 
 <br>
 
@@ -97,6 +97,22 @@ The backend is comprised of:
 
 ![Flask1](WebInterface/static/img/Presentation/Flask1.PNG)
 ![Flask2](WebInterface/static/img/Presentation/Flask2.PNG)
+
+<br><br>
+
+## MACHINE LEARNING
+
+A machine learning algorithm uses data sources to predict fair prices per each area and identifies over price, lower price and fairly price locations.
+
+<br>
+
+![Reg1](WebInterface/static/img/Presentation/Reg1.PNG)
+![Reg2](WebInterface/static/img/Presentation/Reg2.PNG)
+![Reg2](WebInterface/static/img/Presentation/Reg3.PNG)
+![Reg4](WebInterface/static/img/Presentation/Reg4.PNG)
+![Reg5](WebInterface/static/img/Presentation/Reg5.PNG)
+![Reg6](WebInterface/static/img/Presentation/Reg6.PNG)
+![Reg7](WebInterface/static/img/Presentation/Reg7.PNG)
 
 <br><br>
 
