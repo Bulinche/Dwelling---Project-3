@@ -524,14 +524,7 @@ d3.select("#Activities")
 
 d3.select("#DwellMe")
   .on("click", function () {
-    clearHeatMaps();
-    // d3.select("#actVal").text(eval(d3.select(this).property('value')))
-    // walkHeat(eval(d3.select("#Walkability").property('value')))
-    // hsHeat(eval(d3.select("#Education").property('value')))
-    // travelHeat(eval(d3.select("#Transportation").property('value')))
-    // actHeat(eval(d3.select("#Activities").property('value')))
-    // safeHeat(eval(d3.select("#Safety").property('value')))
-    drawHeatMaps();
+    resetMap()
   })
 
   

@@ -469,3 +469,7 @@ input[type="range"]::-moz-range-progress {
   background-color:#400080; 
   color:#fff;
 }
+.rMapC:hover{
+  background-color:#400080a9; 
+  color:#fff;
+}
