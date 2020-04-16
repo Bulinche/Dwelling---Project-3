@@ -293,6 +293,55 @@ function clearHeatMaps() {
 
 
 //***************************************
+//       POPULATE TABLE
+//***************************************
+function drawTable(data) {
+  console.log("Here")
+  console.log(data.length)
+  var dt = d3.select("#DwellingTable");
+  dt.html("");
+  var newTable = dt.append("table").attr("class", "table table-striped table-hover").attr("id", "Dwelling-Ranking");
+  var newtHead = newTable.append("thead");
+  var theadrow = newtHead.append("tr");
+  theadrow.append("th").attr("class", "table-head").text("Municipality");
+  theadrow.append("th").attr("class", "table-head").text("County");
+  theadrow.append("th").attr("class", "table-head").text("Municipality ID");
+  theadrow.append("th").attr("class", "table-head").text("Latitude");
+  theadrow.append("th").attr("class", "table-head").text("Longitude");
+  theadrow.append("th").attr("class", "table-head").text("Education");
+  theadrow.append("th").attr("class", "table-head").text("Transit");
+  theadrow.append("th").attr("class", "table-head").text("Walkability");
+  theadrow.append("th").attr("class", "table-head").text("Safety");
+  theadrow.append("th").attr("class", "table-head").text("Activities");
+  theadrow.append("th").attr("class", "table-head").text("DwellScore");
+  var tbody = newTable.append("tbody");
+
+
+  var sortedList = data.sort((a, b) => (a.DwellScore < b.DwellScore) ? 1 : -1);
+  console.log(sortedList.length)
+  var count = 0;
+  sortedList.forEach(function (value) {
+    if(count<30){
+    var row = tbody.append("tr")
+    row.append("th").text(value.Municipalty)
+    row.append("td").text(value.County)
+    row.append("td").text(value.MUNID)
+    row.append("td").text(value.Latitude)
+    row.append("td").text(value.Longitude)
+    row.append("td").text(value.Education)
+    row.append("td").text(value.Transit)
+    row.append("td").text(value.Walkability)
+    row.append("td").text(value.Safety)
+    row.append("td").text(value.Activities)
+    row.append("td").text(value.DwellScore)
+    count+=1;
+    }
+  })
+}
+
+
+
+//***************************************
 //   SCALE HEATMAP INTENSITY FUNCTION
 //***************************************
 function scaleIntensity(val, mult) {
@@ -337,7 +386,9 @@ function drawHeatMaps() {
   var actMult = d3.select("#Activities").property('value')
   var tranMult = d3.select("#Transportation").property('value')
   var blur = 5
+  var dataTable = [];
   var total = scaleIntensity(500, walkMult) + scaleIntensity(500, eduMult) + scaleIntensity(500, safeMult) + scaleIntensity(500, actMult) + scaleIntensity(500, tranMult)
+  console.warn(total)
   if (total > 0) {
 
     d3.json("/heat", function (response) {
@@ -345,18 +396,54 @@ function drawHeatMaps() {
       for (var i = 0; i < response.length; i++) {
         var latitude = parseFloat(response[i].Latitude);
         var longitude = parseFloat(response[i].Longitude);
+        var curMuni = ""
         var intensity = (scaleIntensity(parseFloat(response[i].WalkScore), walkMult) + scaleIntensity(parseFloat(response[i].EDUScore), eduMult) + scaleIntensity(parseFloat(response[i].CrimeScore), safeMult) + scaleIntensity(parseFloat(response[i].ActivityScore), actMult) + scaleIntensity(parseFloat(response[i].TransitScore), tranMult));
 
         if (latitude) {
           heatArray.push([latitude, longitude, intensity]);
         }
+        curMuni = {
+          "Municipalty": response[i].Municipality,
+          "County": response[i].County,
+          "MUNID": response[i].MUNID,
+          "Latitude": latitude,
+          "Longitude": longitude,
+          "Education": response[i].EDUScore,
+          "Transit": response[i].TransitScore,
+          "Walkability": response[i].WalkScore,
+          "Safety": response[i].CrimeScore,
+          "Activities": response[i].ActivityScore,
+          "DwellScore": intensity
+        }
+        // console.log(curMuni)
+        dataTable.push(curMuni)
       }
       var heat = L.heatLayer(heatArray, {
         radius: 2 * blur,
         blur: 3 * blur
       });
       heat.addTo(layers.DwellHeat);
+      drawTable(dataTable)
     })
+  }
+  else {
+    var dt = d3.select("#DwellingTable");
+    dt.html("");
+    var newTable = dt.append("table").attr("class", "table table-striped table-hover").attr("id", "Dwelling-Ranking");
+    var newtHead = newTable.append("thead");
+    var theadrow = newtHead.append("tr");
+    theadrow.append("th").attr("class", "table-head").text("Munucipality");
+    theadrow.append("th").attr("class", "table-head").text("County");
+    theadrow.append("th").attr("class", "table-head").text("Municipality ID");
+    theadrow.append("th").attr("class", "table-head").text("Latitude");
+    theadrow.append("th").attr("class", "table-head").text("Longitude");
+    theadrow.append("th").attr("class", "table-head").text("Education");
+    theadrow.append("th").attr("class", "table-head").text("Transit");
+    theadrow.append("th").attr("class", "table-head").text("Walkability");
+    theadrow.append("th").attr("class", "table-head").text("Safety");
+    theadrow.append("th").attr("class", "table-head").text("Activities");
+    theadrow.append("th").attr("class", "table-head").text("DwellScore");
+    dt.append("span").text("Please adjust the sliders to get your Top 30 results")
   }
 }
 
