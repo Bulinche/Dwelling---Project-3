@@ -1,566 +1,566 @@
-,Municipality,MUNID,County,Latitude,Longitude,CrimeScore,EDUScore,WalkScore,TransitScore
-0,Absecon,101,Atlantic County,39.4284503,-74.4957076,,,,
-1,Atlantic City,102,Atlantic County,39.3642834,-74.4229266,,,,
-2,Brigantine,103,Atlantic County,39.4101171,-74.3645906,,,,
-3,Buena Borough,104,Atlantic County,39.5314776,-74.9384135,,,,
-4,Buena Vista Township,105,Atlantic County,39.5281098,-74.8962666,,,,
-5,Corbin City,106,Atlantic County,39.3034484,-74.7557193,,,,
-6,Egg Harbor City,107,Atlantic County,39.5287282,-74.6479364,,,,
-7,Egg Harbor Township,108,Atlantic County,39.3822537,-74.6166192,,,,
-8,Estell Manor,109,Atlantic County,39.4120603,-74.7423855,,,,
-9,Folsom Borough,110,Atlantic County,39.6020607,-74.8426652,,,,
-10,Galloway Township,111,Atlantic County,39.4928235,-74.5596879,,,,
-11,Hamilton Township,112,Atlantic County,39.4941863,-74.7347674,,,,
-12,Hammonton,113,Atlantic County,39.6365056,-74.8023853,,,,
-13,Linwood,114,Atlantic County,39.3398382,-74.5751557,,,,
-14,Longport Borough,115,Atlantic County,39.3142827,-74.5248756,,,,
-15,Margate City,116,Atlantic County,39.327894,-74.5034858,,,,
-16,Mullica Township,117,Atlantic County,39.5907851,-74.663464,,,,
-17,Northfield,118,Atlantic County,39.3703942,-74.5501546,,,,
-18,Pleasantville,119,Atlantic County,39.3898388,-74.5240422,,,,
-19,Port Republic,120,Atlantic County,39.5206733,-74.485707,,,,
-20,Somers Point,121,Atlantic County,39.3160641,-74.6053047,,,,
-21,Ventnor City,122,Atlantic County,39.3403942,-74.4773735,,,,
-22,Weymouth Township,123,Atlantic County,39.4186567,-74.7746684,,,,
-23,Allendale Borough,201,Bergen County,41.037101,-74.1298684,,,,
-24,Alpine Borough,202,Bergen County,40.9579189,-73.9183464,,,,
-25,Bergenfield Borough,203,Bergen County,40.9275987,-73.9973608,,,,
-26,Bogota Borough,204,Bergen County,40.8762106,-74.0298621,,,,
-27,Carlstadt Borough,205,Bergen County,40.8403778,-74.0906974,,,,
-28,Cliffside Park Borough,206,Bergen County,40.8214894,-73.9876388,,,,
-29,Closter Borough,207,Bergen County,40.9731536,-73.9615262,,,,
-30,Cresskill Borough,208,Bergen County,40.9412128,-73.9565551,,,,
-31,Demarest Borough,209,Bergen County,40.9531023,-73.9536163,,,,
-32,Dumont Borough,210,Bergen County,40.9406541,-73.9968051,,,,
-33,East Rutherford Borough,212,Bergen County,40.8329289,-74.0958729,,,,
-34,Edgewater Borough,213,Bergen County,40.8204965,-73.9741874,,,,
-35,Elmwood Park Borough,211,Bergen County,40.9039878,-74.118476,,,,
-36,Emerson Borough,214,Bergen County,40.976209,-74.0262505,,,,
-37,Englewood,215,Bergen County,40.8928771,-73.9726381,,,,
-38,Englewood Cliffs Borough,216,Bergen County,40.8923269,-73.9418603,,,,
-39,Fair Lawn Borough,217,Bergen County,40.9370006,-74.1181234,,,,
-40,Fairview Borough,218,Bergen County,40.8197331,-74.0035709,,,,
-41,Fort Lee Borough,219,Bergen County,40.8562383,-73.9653715,,,,
-42,Franklin Lakes Borough,220,Bergen County,41.0167639,-74.2057011,,,,
-43,Garfield,221,Bergen County,40.8814882,-74.113198,,,,
-44,Glen Rock Borough,222,Bergen County,40.9583569,-74.1298684,,,,
-45,Hackensack,223,Bergen County,40.8859325,-74.0434736,,,,
-46,Harrington Park Borough,224,Bergen County,40.9837089,-73.9798601,,,,
-47,Hasbrouck Heights Borough,225,Bergen County,40.8642433,-74.0740729,,,,
-48,Haworth Borough,226,Bergen County,40.9609315,-73.9901383,,,,
-49,Hillsdale Borough,227,Bergen County,41.0025975,-74.0404175,,,,
-50,Ho-Ho-Kus Borough,228,Bergen County,40.9964864,-74.101253,,,,
-51,Leonia Borough,229,Bergen County,40.8624613,-73.9918181,,,,
-52,Little Ferry Borough,230,Bergen County,40.8528777,-74.0420848,,,,
-53,Lodi Borough,231,Bergen County,40.8823215,-74.0831971,,,,
-54,Lyndhurst Township,232,Bergen County,40.8120171,-74.1243063,,,,
-55,Mahwah Township,233,Bergen County,41.0886216,-74.1435843,,,,
-56,Maywood Borough,234,Bergen County,40.9020267,-74.0623244,,,,
-57,Midland Park Borough,235,Bergen County,40.9965212,-74.1386767,,,,
-58,Montvale Borough,236,Bergen County,41.0467635,-74.0229173,,,,
-59,Moonachie Borough,237,Bergen County,40.8412111,-74.0451405,,,,
-60,New Milford Borough,238,Bergen County,40.9356215,-74.0211989,,,,
-61,North Arlington Borough,239,Bergen County,40.7906667,-74.1298684,,,,
-62,Northvale Borough,240,Bergen County,41.0064864,-73.9490258,,,,
-63,Norwood Borough,241,Bergen County,40.9981532,-73.9618039,,,,
-64,Oakland Borough,242,Bergen County,41.0131529,-74.2643143,,,,
-65,Old Tappan Borough,243,Bergen County,41.0171594,-73.9888797,,,,
-66,Oradell Borough,244,Bergen County,40.9587093,-74.0368064,,,,
-67,Palisades Park Borough,245,Bergen County,40.8481556,-73.997639,,,,
-68,Paramus Borough,246,Bergen County,40.9445428,-74.0754189,,,,
-69,Park Ridge Borough,247,Bergen County,41.0375968,-74.0406956,,,,
-70,Ramsey Borough,248,Bergen County,41.062513,-74.1357407,,,,
-71,Ridgefield Borough,249,Bergen County,40.8333184,-74.0123851,,,,
-72,Ridgefield Park Village,250,Bergen County,40.8570442,-74.0215285,,,,
-73,Ridgewood Village,251,Bergen County,40.9792645,-74.1165313,,,,
-74,River Edge Borough,252,Bergen County,40.9282671,-74.0388252,,,,
-75,River Vale Township,253,Bergen County,41.0147679,-74.0119736,,,,
-76,Rochelle Park Township,254,Bergen County,40.9073328,-74.0751273,,,,
-77,Rockleigh Borough,255,Bergen County,41.0003754,-73.930414,,,,
-78,Rutherford Borough,256,Bergen County,40.826489,-74.1068091,,,,
-79,Saddle Brook Township,257,Bergen County,40.9040085,-74.1007318,,,,
-80,Saddle River Borough,258,Bergen County,41.0321343,-74.0946311,,,,
-81,South Hackensack Township,259,Bergen County,40.8625996,-74.0479182,,,,
-82,Teaneck Township,260,Bergen County,40.8932469,-74.0116536,,,,
-83,Tenafly Borough,261,Bergen County,40.913708,-73.9536163,,,,
-84,Teterboro Borough,262,Bergen County,40.8598219,-74.0593075,,,,
-85,Upper Saddle River Borough,263,Bergen County,41.0616347,-74.0946311,,,,
-86,Waldwick Borough,264,Bergen County,41.0106528,-74.1179203,,,,
-87,Wallington Borough,265,Bergen County,40.8535873,-74.103441,,,,
-88,Washington Township,266,Bergen County,40.9912886,-74.0597897,,,,
-89,Westwood Borough,267,Bergen County,40.9912087,-74.0326395,,,,
-90,Woodcliff Lake Borough,268,Bergen County,41.0234304,-74.0665297,,,,
-91,Wood-Ridge Borough,269,Bergen County,40.8511031,-74.0858207,,,,
-92,Wyckoff Township,270,Bergen County,41.0095316,-74.1729106,,,,
-93,Bass River Township,301,Burlington County,39.5926181,-74.4426493,,,,
-94,Beverly,302,Burlington County,40.0653889,-74.9190558,,,,
-95,Bordentown,303,Burlington County,40.1462213,-74.7118264,,,,
-96,Bordentown Township,304,Burlington County,40.1480827,-74.6945737,,,,
-97,Burlington,305,Burlington County,40.0561471,-74.8458822,,,,
-98,Burlington Township,306,Burlington County,40.0561471,-74.8458822,,,,
-99,Chesterfield Township,307,Burlington County,40.1219081,-74.651754,,,,
-100,Cinnaminson Township,308,Burlington County,39.9969646,-74.9927693,,,,
-101,Delanco Township,309,Burlington County,40.0506669,-74.9535016,,,,
-102,Delran Township,310,Burlington County,40.0158918,-74.9564247,,,,
-103,Eastampton Township,311,Burlington County,40.0033813,-74.756468,,,,
-104,Edgewater Park Township,312,Burlington County,40.0681666,-74.9007218,,,,
-105,Evesham Township,313,Burlington County,39.8522951,-74.8857989,,,,
-106,Fieldsboro Borough,314,Burlington County,40.1364991,-74.7287714,,,,
-107,Florence Township,315,Burlington County,40.0967369,-74.7863387,,,,
-108,Hainesport Township,316,Burlington County,39.9837234,-74.8271081,,,,
-109,Lumberton Township,317,Burlington County,39.9676482,-74.8003877,,,,
-110,Mansfield Township,318,Burlington County,40.0799767,-74.7183641,,,,
-111,Maple Shade Township,319,Burlington County,39.9526127,-74.9923915,,,,
-112,Medford Lakes Borough,321,Burlington County,39.8623103,-74.8057734,,,,
-113,Medford Township,320,Burlington County,39.8661826,-74.8390162,,,,
-114,Moorestown Township,322,Burlington County,39.9688817,-74.948886,,,,
-115,Mount Holly Township,323,Burlington County,39.9931438,-74.7879393,,,,
-116,Mount Laurel Township,324,Burlington County,39.934002,-74.8909988,,,,
-117,New Hanover Township,325,Burlington County,40.0122319,-74.5814773,,,,
-118,North Hanover Township,326,Burlington County,40.0723409,-74.5814773,,,,
-119,Palmyra Borough,327,Burlington County,40.0070565,-75.0282271,,,,
-120,Pemberton Borough,328,Burlington County,39.9720578,-74.6829363,,,,
-121,Pemberton Township,329,Burlington County,39.9600831,-74.5841089,,,,
-122,Riverside Township,330,Burlington County,40.0323338,-74.9573908,,,,
-123,Riverton Borough,331,Burlington County,40.0115009,-75.0148931,,,,
-124,Shamong Township,332,Burlington County,39.7775775,-74.7351513,,,,
-125,Southampton Township,333,Burlington County,39.9274288,-74.7265791,,,,
-126,Springfield Township,334,Burlington County,40.0370035,-74.6934678,,,,
-127,Tabernacle Township,335,Burlington County,39.8433853,-74.7107048,,,,
-128,Washington Township,336,Burlington County,39.6991324,-74.5697617,,,,
-129,Westampton Township,337,Burlington County,40.0205975,-74.7922202,,,,
-130,Willingboro Township,338,Burlington County,40.028848,-74.8916458,,,,
-131,Woodland Township,339,Burlington County,39.8537339,-74.5228916,,,,
-132,Wrightstown Borough,340,Burlington County,40.0362241,-74.6179344,,,,
-133,Audubon Borough,401,Camden County,39.8909466,-75.0729504,,,,
-134,Fredon Township,1907,Sussex County,41.0392638,-74.8087781,,,,
-135,Audubon Park Borough,402,Camden County,39.8965021,-75.0876736,,,,
-136,Barrington Borough,403,Camden County,39.8648357,-75.0551714,,,,
-137,Bellmawr Borough,404,Camden County,39.8676134,-75.0946182,,,,
-138,Berlin Borough,405,Camden County,39.7912261,-74.9290536,,,,
-139,Berlin Township,406,Camden County,39.8008256,-74.9150313,,,,
-140,Brooklawn Borough,407,Camden County,39.8795177,-75.1209704,,,,
-141,Camden,408,Camden County,39.9259463,-75.1196199,,,,
-142,Cherry Hill Township,409,Camden County,39.926813,-75.0246312,,,,
-143,Chesilhurst Borough,410,Camden County,39.7323384,-74.8809966,,,,
-144,Clementon Borough,411,Camden County,39.8115033,-74.9829443,,,,
-145,Collingswood Borough,412,Camden County,39.9181686,-75.071284,,,,
-146,Gibbsboro Borough,413,Camden County,39.8381698,-74.9648887,,,,
-147,Gloucester City,414,Camden County,39.8917799,-75.1162863,,,,
-148,Gloucester Township,415,Camden County,39.7933809,-75.0494329,,,,
-149,Haddon Heights Borough,418,Camden County,39.8773356,-75.0646165,,,,
-150,Haddon Township,416,Camden County,39.9105176,-75.0497448,,,,
-151,Haddonfield Borough,417,Camden County,39.8915022,-75.0376707,,,,
-152,Hi-Nella Borough,419,Camden County,39.8356695,-75.0243357,,,,
-153,Laurel Springs Borough,420,Camden County,39.8201141,-75.0062788,,,,
-154,Lawnside Borough,421,Camden County,39.8665025,-75.0282253,,,,
-155,Lindenwold Borough,422,Camden County,39.8172083,-74.9699579,,,,
-156,Magnolia Borough,423,Camden County,39.8545581,-75.0390591,,,,
-157,Merchantville Borough,424,Camden County,39.9503838,-75.0479726,,,,
-158,Mount Ephraim Borough,425,Camden County,39.8784465,-75.0926738,,,,
-159,Oaklyn Borough,426,Camden County,39.9009465,-75.0846179,,,,
-160,Pennsauken Township,427,Camden County,39.9562052,-75.058009,,,,
-161,Pine Hill Borough,428,Camden County,39.7842813,-74.9921108,,,,
-162,Pine Valley Borough,429,Camden County,39.7856704,-74.975166,,,,
-163,Runnemede Borough,430,Camden County,39.8523358,-75.0679497,,,,
-164,Somerdale Borough,431,Camden County,39.8440027,-75.0226691,,,,
-165,Stratford Borough,432,Camden County,39.8267807,-75.0154461,,,,
-166,Tavistock Borough,433,Camden County,39.8762246,-75.0296144,,,,
-167,Voorhees Township,434,Camden County,39.8519447,-74.961517,,,,
-168,Waterford Township,435,Camden County,39.771287,-74.886909,,,,
-169,Winslow Township,436,Camden County,39.6573556,-74.8623203,,,,
-170,Woodlynne Borough,437,Camden County,39.916311,-75.094695,,,,
-171,Avalon Borough,501,Cape May County,39.101225,-74.7176622,,,,
-172,Cape May,502,Cape May County,38.9351125,-74.9060053,,,,
-173,Cape May Point Borough,503,Cape May County,38.9373346,-74.9693418,,,,
-174,Dennis Township,504,Cape May County,39.1958623,-74.8156199,,,,
-175,Lower Township,505,Cape May County,38.9745287,-74.9003335,,,,
-176,Middle Township,506,Cape May County,39.1201616,-74.8451915,,,,
-177,North Wildwood,507,Cape May County,39.0006686,-74.799333,,,,
-178,Ocean City,508,Cape May County,39.2776156,-74.5746001,,,,
-179,Sea Isle City,509,Cape May County,39.1534477,-74.6929387,,,,
-180,Stone Harbor Borough,510,Cape May County,39.0464066,-74.7643608,,,,
-181,Upper Township,511,Cape May County,39.232601,-74.7102958,,,,
-182,West Cape May Borough,512,Cape May County,38.9443672,-74.9354909,,,,
-183,West Wildwood Borough,513,Cape May County,39.0023352,-74.8243343,,,,
-184,Wildwood,514,Cape May County,38.9917797,-74.8148894,,,,
-185,Wildwood Crest Borough,515,Cape May County,38.9748351,-74.8335015,,,,
-186,Woodbine Borough,516,Cape May County,39.2417813,-74.8151667,,,,
-187,Bridgeton,601,Cumberland County,39.427337,-75.2340768,,,,
-188,Commercial Township,602,Cumberland County,39.2759707,-75.0377502,,,,
-189,Deerfield Township,603,Cumberland County,39.462135,-75.1428632,,,,
-190,Downe Township,604,Cumberland County,39.288168,-75.1311874,,,,
-191,Fairfield Township,605,Cumberland County,39.3901309,-75.2128996,,,,
-192,Greenwich Township,606,Cumberland County,39.3899304,-75.338263,,,,
-193,Hopewell Township,607,Cumberland County,39.4397366,-75.2829046,,,,
-194,Lawrence Township,608,Cumberland County,39.3262153,-75.1895576,,,,
-195,Maurice River Township,609,Cumberland County,39.2592235,-74.9836584,,,,
-196,Millville,610,Cumberland County,39.4020596,-75.0393438,,,,
-197,Shiloh Borough,611,Cumberland County,39.4590032,-75.2990798,,,,
-198,Stow Creek Township,612,Cumberland County,39.4487317,-75.3528779,,,,
-199,Upper Deerfield Township,613,Cumberland County,39.5031256,-75.2245693,,,,
-200,Vineland,614,Cumberland County,39.4863773,-75.0259637,,,,
-201,Belleville Township,701,Essex County,40.7936744,-74.1500469,,,,
-202,Bloomfield Township,702,Essex County,40.8067546,-74.1854209,,,,
-203,Caldwell Borough,703,Essex County,40.8398218,-74.2765366,,,,
-204,Cedar Grove Township,704,Essex County,40.8517876,-74.2290319,,,,
-205,City of Orange Township,717,Essex County,40.7706187,-74.2326478,,,,
-206,East Orange,705,Essex County,40.767323,-74.2048677,,,,
-207,Essex Fells Borough,706,Essex County,40.8288978,-74.2795524,,,,
-208,Fairfield Township,707,Essex County,40.8837406,-74.3059959,,,,
-209,Glen Ridge Borough,708,Essex County,40.805378,-74.2037566,,,,
-210,Irvington Township,709,Essex County,40.7263249,-74.2286435,,,,
-211,Livingston Township,710,Essex County,40.7862871,-74.3300842,,,,
-212,Maplewood Township,711,Essex County,40.7299793,-74.271992,,,,
-213,Millburn Township,712,Essex County,40.7340454,-74.3206696,,,,
-214,Montclair Township,713,Essex County,40.8259007,-74.2090053,,,,
-215,Newark,714,Essex County,40.735657,-74.1723667,,,,
-216,North Caldwell Borough,715,Essex County,40.8648215,-74.2582027,,,,
-217,Nutley Township,716,Essex County,40.8223168,-74.1598725,,,,
-218,Roseland Borough,718,Essex County,40.8206555,-74.2937594,,,,
-219,South Orange Village Township,719,Essex County,40.7489277,-74.2609903,,,,
-220,Verona Township,720,Essex County,40.8298006,-74.2401609,,,,
-221,West Caldwell Township,721,Essex County,40.8409329,-74.3018154,,,,
-222,West Orange Township,722,Essex County,40.7985699,-74.2390828,,,,
-223,Clayton Borough,801,Gloucester County,39.6601148,-75.0921197,,,,
-224,Deptford Township,802,Gloucester County,39.8227054,-75.1195107,,,,
-225,East Greenwich Township,803,Gloucester County,39.7975993,-75.2362381,,,,
-226,Elk Township,804,Gloucester County,39.6644095,-75.1428632,,,,
-227,Franklin Township,805,Gloucester County,39.600156,-75.0377502,,,,
-228,Glassboro Borough,806,Gloucester County,39.7028923,-75.1118422,,,,
-229,Greenwich Township,807,Gloucester County,39.8200838,-75.2618666,,,,
-230,Harrison Township,808,Gloucester County,39.7296493,-75.207737,,,,
-231,Logan Township,809,Gloucester County,39.7847179,-75.349185,,,,
-232,Mantua Township,810,Gloucester County,39.7818322,-75.1821597,,,,
-233,Monroe Township,811,Gloucester County,39.6747922,-74.9910112,,,,
-234,National Park Borough,812,Gloucester County,39.8692138,-75.1866396,,,,
-235,Newfield Borough,813,Gloucester County,39.5465044,-75.0248964,,,,
-236,Paulsboro Borough,814,Gloucester County,39.830391,-75.2404607,,,,
-237,Pitman Borough,815,Gloucester County,39.732892,-75.1315651,,,,
-238,South Harrison Township,816,Gloucester County,39.7001137,-75.2579635,,,,
-239,Swedesboro Borough,817,Gloucester County,39.7476136,-75.3104654,,,,
-240,Washington Township,818,Gloucester County,39.7561387,-75.0727956,,,,
-241,Wenonah Borough,819,Gloucester County,39.7945582,-75.1487883,,,,
-242,West Deptford Township,820,Gloucester County,39.8318378,-75.1895576,,,,
-243,Westville Borough,821,Gloucester County,39.8666354,-75.1282683,,,,
-244,Woodbury,822,Gloucester County,39.8381691,-75.1526774,,,,
-245,Woodbury Heights Borough,823,Gloucester County,39.8135459,-75.145782,,,,
-246,Woolwich Township,824,Gloucester County,39.737154,-75.3096289,,,,
-247,Bayonne,901,Hudson County,40.6687141,-74.1143091,,,,
-248,East Newark Borough,902,Hudson County,40.7497019,-74.1636313,,,,
-249,Guttenberg,903,Hudson County,40.7920454,-74.0037505,,,,
-250,Harrison,904,Hudson County,40.7464901,-74.1562551,,,,
-251,Hoboken,905,Hudson County,40.7439905,-74.0323626,,,,
-252,Jersey City,906,Hudson County,40.7177545,-74.0431435,,,,
-253,Kearny,907,Hudson County,40.7684342,-74.1454214,,,,
-254,North Bergen Township,908,Hudson County,40.8042674,-74.012084,,,,
-255,Secaucus,909,Hudson County,40.7895453,-74.0565298,,,,
-256,Union City,910,Hudson County,40.7795455,-74.0237512,,,,
-257,Weehawken Township,911,Hudson County,40.7663711,-74.0253715,,,,
-258,West New York,912,Hudson County,40.7878788,-74.0143064,,,,
-259,Alexandria Township,1001,Hunterdon County,40.5908427,-75.0260667,,,,
-260,Bethlehem Township,1002,Hunterdon County,40.6700352,-75.0034782,,,,
-261,Bloomsbury Borough,1003,Hunterdon County,40.6542397,-75.0830157,,,,
-262,Califon Borough,1004,Hunterdon County,40.7195448,-74.8357215,,,,
-263,Clinton,1005,Hunterdon County,40.6367682,-74.90989,,,,
-264,Clinton Township,1006,Hunterdon County,40.6306905,-74.8684564,,,,
-265,Delaware Township,1007,Hunterdon County,40.4307258,-74.9442585,,,,
-266,East Amwell Township,1008,Hunterdon County,40.4434508,-74.8156199,,,,
-267,Flemington Borough,1009,Hunterdon County,40.5123258,-74.8593318,,,,
-268,Franklin Township,1010,Hunterdon County,40.5655226,-74.9415319,,,,
-269,Frenchtown Borough,1011,Hunterdon County,40.5300538,-75.0552739,,,,
-270,Glen Gardner Borough,1012,Hunterdon County,40.6967671,-74.9407248,,,,
-271,Hampton Borough,1013,Hunterdon County,40.7070446,-74.9560032,,,,
-272,High Bridge Borough,1014,Hunterdon County,40.6673377,-74.8916458,,,,
-273,Holland Township,1015,Hunterdon County,40.5945209,-75.1168013,,,,
-274,Kingwood Township,1016,Hunterdon County,40.4698261,-75.0190585,,,,
-275,Lambertville,1017,Hunterdon County,40.3659394,-74.9429448,,,,
-276,Lebanon Borough,1018,Hunterdon County,40.6417683,-74.8359987,,,,
-277,Lebanon Township,1019,Hunterdon County,40.7310187,-74.8857989,,,,
-278,Milford Borough,1020,Hunterdon County,40.567384,-75.0932352,,,,
-279,Raritan Township,1021,Hunterdon County,40.5041636,-74.8974925,,,,
-280,Readington Township,1022,Hunterdon County,40.5687141,-74.7376619,,,,
-281,Stockton Borough,1023,Hunterdon County,40.407883,-74.9782238,,,,
-282,Tewksbury Township,1024,Hunterdon County,40.6919174,-74.7833145,,,,
-283,Union Township,1025,Hunterdon County,40.6299032,-74.9691811,,,,
-284,West Amwell Township,1026,Hunterdon County,40.3731071,-74.8857989,,,,
-285,East Windsor Township,1101,Mercer County,40.2677539,-74.5402506,,,,
-286,Ewing Township,1102,Mercer County,40.2599864,-74.7909125,,,,
-287,Hamilton Township,1103,Mercer County,40.2115109,-74.6796651,,,,
-288,Hightstown Borough,1104,Mercer County,40.2695538,-74.5232089,,,,
-289,Hopewell Borough,1105,Mercer County,40.3892726,-74.7618284,,,,
-290,Hopewell Township,1106,Mercer County,40.343784,-74.8156199,,,,
-291,Lawrence Township,1107,Mercer County,40.2778055,-74.7294313,,,,
-292,Pennington Borough,1108,Mercer County,40.3284402,-74.790718,,,,
-293,Princeton,1114,Mercer County,40.3572976,-74.6672226,,,,
-294,Robbinsville Township,1112,Mercer County,40.2162036,-74.6195327,,,,
-295,Trenton,1111,Mercer County,40.2205824,-74.759717,,,,
-296,West Windsor Township,1113,Mercer County,40.2983262,-74.618634,,,,
-297,Carteret Borough,1201,Middlesex County,40.5773266,-74.2282005,,,,
-298,Cranbury Township,1202,Middlesex County,40.3025907,-74.511172,,,,
-299,Dunellen Borough,1203,Middlesex County,40.5875493,-74.4672169,,,,
-300,East Brunswick Township,1204,Middlesex County,40.4316955,-74.4049778,,,,
-301,Edison Township,1205,Middlesex County,40.5187154,-74.4120953,,,,
-302,Helmetta Borough,1206,Middlesex County,40.3767741,-74.4245952,,,,
-303,Highland Park Borough,1207,Middlesex County,40.502468,-74.4261821,,,,
-304,Jamesburg Borough,1208,Middlesex County,40.3506684,-74.4437696,,,,
-305,Metuchen Borough,1209,Middlesex County,40.5461171,-74.3646122,,,,
-306,Middlesex Borough,1210,Middlesex County,40.572603,-74.4926541,,,,
-307,Milltown Borough,1211,Middlesex County,40.4494047,-74.4379073,,,,
-308,Monroe Township,1212,Middlesex County,40.336419,-74.4330474,,,,
-309,New Brunswick,1213,Middlesex County,40.4862157,-74.4518188,,,,
-310,North Brunswick Township,1214,Middlesex County,40.4525163,-74.4766712,,,,
-311,Old Bridge Township,1215,Middlesex County,40.4128551,-74.307282,,,,
-312,Perth Amboy,1216,Middlesex County,40.5067723,-74.2654234,,,,
-313,Piscataway Township,1217,Middlesex County,40.554887,-74.4642861,,,,
-314,Plainsboro Township,1218,Middlesex County,40.3382543,-74.585292,,,,
-315,Sayreville Borough,1219,Middlesex County,40.4594021,-74.360846,,,,
-316,South Amboy,1220,Middlesex County,40.4778838,-74.290702,,,,
-317,South Brunswick Township,1221,Middlesex County,40.3806901,-74.5316938,,,,
-318,South Plainfield Borough,1222,Middlesex County,40.56829,-74.4173877,,,,
-319,South River Borough,1223,Middlesex County,40.446495,-74.3859831,,,,
-320,Spotswood Borough,1224,Middlesex County,40.391774,-74.3984834,,,,
-321,Woodbridge Township,1225,Middlesex County,40.5575986,-74.2846022,,,,
-322,Aberdeen Township,1301,Monmouth County,40.4170948,-74.2221155,,,,
-323,Allenhurst Borough,1302,Monmouth County,40.2362236,-74.0006925,,,,
-324,Allentown Borough,1303,Monmouth County,40.1778886,-74.5834887,,,,
-325,Asbury Park,1304,Monmouth County,40.2203907,-74.0120817,,,,
-326,Atlantic Highlands Borough,1305,Monmouth County,40.4128545,-74.0329499,,,,
-327,Avon-by-the-Sea Borough,1306,Monmouth County,40.1923357,-74.0159703,,,,
-328,Belmar Borough,1307,Monmouth County,40.1779922,-74.0270745,,,,
-329,Bradley Beach Borough,1308,Monmouth County,40.2012739,-74.0153231,,,,
-330,Brielle Borough,1309,Monmouth County,40.1030781,-74.0623244,,,,
-331,Colts Neck Township,1310,Monmouth County,40.2876108,-74.1723652,,,,
-332,Deal Borough,1311,Monmouth County,40.243168,-74.0006927,,,,
-333,Eatontown Borough,1312,Monmouth County,40.2962222,-74.0509725,,,,
-334,Englishtown Borough,1313,Monmouth County,40.2973319,-74.3582041,,,,
-335,Fair Haven Borough,1314,Monmouth County,40.3606653,-74.0381947,,,,
-336,Farmingdale Borough,1315,Monmouth County,40.1965018,-74.1684757,,,,
-337,Freehold Borough,1316,Monmouth County,40.260111,-74.2737573,,,,
-338,Freehold Township,1317,Monmouth County,40.2136754,-74.3000878,,,,
-339,Hazlet Township,1318,Monmouth County,40.4289526,-74.1650991,,,,
-340,Highlands Borough,1319,Monmouth County,40.40372,-73.991527,,,,
-341,Holmdel Township,1320,Monmouth County,40.3451095,-74.1840322,,,,
-342,Howell Township,1321,Monmouth County,40.1645785,-74.2082671,,,,
-343,Interlaken Borough,1322,Monmouth County,40.2350362,-74.0169578,,,,
-344,Keansburg Borough,1323,Monmouth County,40.4467881,-74.1328046,,,,
-345,Keyport Borough,1324,Monmouth County,40.4331631,-74.1995883,,,,
-346,Lake Como Borough,1346,Monmouth County,40.1707443,-74.0274216,,,,
-347,Little Silver Borough,1325,Monmouth County,40.3367768,-74.0470837,,,,
-348,Loch Arbour Village,1326,Monmouth County,40.2328904,-74.0009703,,,,
-349,Long Branch,1327,Monmouth County,40.3042778,-73.9923596,,,,
-350,Manalapan Township,1328,Monmouth County,40.2859203,-74.348582,,,,
-351,Manasquan Borough,1329,Monmouth County,40.1136928,-74.0376355,,,,
-352,Marlboro Township,1330,Monmouth County,40.3380949,-74.2687291,,,,
-353,Matawan Borough,1331,Monmouth County,40.41483,-74.2295891,,,,
-354,Middletown Township,1332,Monmouth County,40.3968012,-74.0915982,,,,
-355,Millstone Township,1333,Monmouth County,40.2015266,-74.4291135,,,,
-356,Monmouth Beach Borough,1334,Monmouth County,40.3345201,-73.9888797,,,,
-357,Neptune City Borough,1336,Monmouth County,40.2005472,-74.0314165,,,,
-358,Neptune Township,1335,Monmouth County,40.2091219,-74.0386271,,,,
-359,Ocean Township,1337,Monmouth County,40.2479729,-74.029843,,,,
-360,Oceanport Borough,1338,Monmouth County,40.3181663,-74.0151382,,,,
-361,Red Bank Borough,1339,Monmouth County,40.3470543,-74.0643065,,,,
-362,Roosevelt Borough,1340,Monmouth County,40.2200405,-74.4730782,,,,
-363,Rumson Borough,1341,Monmouth County,40.3701706,-73.9947563,,,,
-364,Sea Bright Borough,1342,Monmouth County,40.3614987,-73.9740262,,,,
-365,Sea Girt Borough,1343,Monmouth County,40.1320592,-74.0345813,,,,
-366,Shrewsbury Borough,1344,Monmouth County,40.3245731,-74.0593872,,,,
-367,Shrewsbury Township,1345,Monmouth County,40.3141376,-74.0714893,,,,
-368,Spring Lake Borough,1347,Monmouth County,40.1534476,-74.0281925,,,,
-369,Spring Lake Heights Borough,1348,Monmouth County,40.1505348,-74.0447003,,,,
-370,Tinton Falls Borough,1349,Monmouth County,40.3042773,-74.1004185,,,,
-371,Union Beach Borough,1350,Monmouth County,40.4464962,-74.1781988,,,,
-372,Upper Freehold Township,1351,Monmouth County,40.174405,-74.5228916,,,,
-373,Wall Township,1352,Monmouth County,40.1606666,-74.0679753,,,,
-374,West Long Branch Borough,1353,Monmouth County,40.2880685,-74.0123851,,,,
-375,Boonton,1401,Morris County,40.904019,-74.4087405,,,,
-376,Boonton Township,1402,Morris County,40.9293994,-74.4300912,,,,
-377,Butler Borough,1403,Morris County,41.0037087,-74.3415394,,,,
-378,Chatham Borough,1404,Morris County,40.740934,-74.3837624,,,,
-379,Chatham Township,1405,Morris County,40.7265893,-74.4172591,,,,
-380,Chester Borough,1406,Morris County,40.7842667,-74.6968284,,,,
-381,Chester Township,1407,Morris County,40.7652883,-74.6985891,,,,
-382,Denville Township,1408,Morris County,40.8923212,-74.4773775,,,,
-383,Dover,1409,Morris County,40.883988,-74.5621025,,,,
-384,East Hanover Township,1410,Morris County,40.8200623,-74.3647247,,,,
-385,Florham Park Borough,1411,Morris County,40.787878,-74.3882072,,,,
-386,Hanover Township,1412,Morris County,40.8257746,-74.4173877,,,,
-387,Harding Township,1413,Morris County,40.7397683,-74.511172,,,,
-388,Jefferson Township,1414,Morris County,41.0029893,-74.5580454,,,,
-389,Kinnelon Borough,1415,Morris County,41.0017644,-74.367096,,,,
-390,Lincoln Park Borough,1416,Morris County,40.9242652,-74.3020933,,,,
-391,Long Hill Township,1430,Morris County,40.6828892,-74.4935913,,,,
-392,Madison Borough,1417,Morris County,40.7598227,-74.417097,,,,
-393,Mendham Borough,1418,Morris County,40.7759334,-74.6007142,,,,
-394,Mendham Township,1419,Morris County,40.7870633,-74.5765686,,,,
-395,Mine Hill Township,1420,Morris County,40.8778768,-74.5937701,,,,
-396,Montville Township,1421,Morris County,40.9148209,-74.383763,,,,
-397,Morris Plains Borough,1423,Morris County,40.8395922,-74.4818698,,,,
-398,Morris Township,1422,Morris County,40.7933833,-74.505312,,,,
-399,Morristown,1424,Morris County,40.7967667,-74.4815438,,,,
-400,Mount Arlington Borough,1426,Morris County,40.9259319,-74.6348828,,,,
-401,Mount Olive Township,1427,Morris County,40.8514881,-74.7329411,,,,
-402,Mountain Lakes Borough,1425,Morris County,40.8948212,-74.4329314,,,,
-403,Netcong Borough,1428,Morris County,40.8989877,-74.7065516,,,,
-404,Parsippany-Troy Hills Township,1429,Morris County,40.8652865,-74.4173877,,,,
-405,Pequannock Township,1431,Morris County,40.960201,-74.2973239,,,,
-406,Randolph Township,1432,Morris County,40.8478065,-74.5747248,,,,
-407,Riverdale Borough,1433,Morris County,40.9939865,-74.3034823,,,,
-408,Rockaway Borough,1434,Morris County,40.9012101,-74.5143232,,,,
-409,Rockaway Township,1435,Morris County,40.9300943,-74.4872422,,,,
-410,Roxbury Township,1436,Morris County,40.8693272,-74.663464,,,,
-411,Victory Gardens Borough,1437,Morris County,40.8759325,-74.5423796,,,,
-412,Washington Township,1438,Morris County,40.7695876,-74.8039205,,,,
-413,Wharton Borough,1439,Morris County,40.8931546,-74.5818254,,,,
-414,Barnegat Light Borough,1502,Ocean County,39.7576202,-74.1062466,,,,
-415,Barnegat Township,1501,Ocean County,39.7649223,-74.2693297,,,,
-416,Bay Head Borough,1503,Ocean County,40.0717828,-74.0543036,,,,
-417,Beach Haven Borough,1504,Ocean County,39.5592848,-74.2431962,,,,
-418,Beachwood Borough,1505,Ocean County,39.9390069,-74.1929188,,,,
-419,Berkeley Township,1506,Ocean County,39.8971996,-74.1827119,,,,
-420,Brick Township,1507,Ocean County,40.0578384,-74.1371832,,,,
-421,Eagleswood Township,1509,Ocean County,39.6521468,-74.3000878,,,,
-422,Harvey Cedars Borough,1510,Ocean County,39.706231,-74.1340253,,,,
-423,Island Heights Borough,1511,Ocean County,39.9406089,-74.1370445,,,,
-424,Jackson Township,1512,Ocean County,40.0918895,-74.3587473,,,,
-425,Lacey Township,1513,Ocean County,39.8726184,-74.2951444,,,,
-426,Lakehurst Borough,1514,Ocean County,40.014561,-74.3112574,,,,
-427,Lakewood Township,1515,Ocean County,40.082129,-74.2097014,,,,
-428,Lavallette Borough,1516,Ocean County,39.9703958,-74.0687475,,,,
-429,Little Egg Harbor Township,1517,Ocean County,39.6108492,-74.3572646,,,,
-430,Long Beach Township,1518,Ocean County,39.6155009,-74.199545,,,,
-431,Manchester Township,1519,Ocean County,39.9711696,-74.3392821,,,,
-432,Mantoloking Borough,1520,Ocean County,40.0392835,-74.0498585,,,,
-433,Ocean Gate Borough,1522,Ocean County,39.926785,-74.1337496,,,,
-434,Ocean Township,1521,Ocean County,39.7904391,-74.2176448,,,,
-435,Pine Beach Borough,1523,Ocean County,39.9359515,-74.1709735,,,,
-436,Plumsted Township,1524,Ocean County,40.0479478,-74.4760088,,,,
-437,Point Pleasant Beach Borough,1526,Ocean County,40.0912268,-74.0479146,,,,
-438,Point Pleasant Borough,1525,Ocean County,40.0831714,-74.0681931,,,,
-439,Seaside Heights Borough,1527,Ocean County,39.9437047,-74.0737087,,,,
-440,Seaside Park Borough,1528,Ocean County,39.9267852,-74.0770806,,,,
-441,Ship Bottom Borough,1529,Ocean County,39.642897,-74.1804159,,,,
-442,South Toms River Borough,1530,Ocean County,39.9420625,-74.2043082,,,,
-443,Stafford Township,1531,Ocean County,39.7046713,-74.2632784,,,,
-444,Surf City Borough,1532,Ocean County,39.6604287,-74.1674458,,,,
-445,Toms River Township,1508,Ocean County,39.9537358,-74.1979458,,,,
-446,Tuckerton Borough,1533,Ocean County,39.603174,-74.340145,,,,
-447,Bloomingdale Borough,1601,Passaic County,41.002042,-74.3265388,,,,
-448,Clifton,1602,Passaic County,40.8584328,-74.1637553,,,,
-449,Haledon Borough,1603,Passaic County,40.935654,-74.186256,,,,
-450,Hawthorne Borough,1604,Passaic County,40.9616599,-74.1533563,,,,
-451,Little Falls Township,1605,Passaic County,40.8690101,-74.2082286,,,,
-452,North Haledon Borough,1606,Passaic County,40.9666041,-74.1885825,,,,
-453,Passaic,1607,Passaic County,40.8567662,-74.1284764,,,,
-454,Paterson,1608,Passaic County,40.9167654,-74.171811,,,,
-455,Pompton Lakes Borough,1609,Passaic County,41.0022968,-74.2854199,,,,
-456,Prospect Park Borough,1610,Passaic County,40.9370428,-74.1743111,,,,
-457,Ringwood Borough,1611,Passaic County,41.1134289,-74.2454254,,,,
-458,Totowa Borough,1612,Passaic County,40.9025415,-74.223802,,,,
-459,Wanaque Borough,1613,Passaic County,41.0381525,-74.2940378,,,,
-460,Wayne Township,1614,Passaic County,40.9253725,-74.2765441,,,,
-461,West Milford Township,1615,Passaic County,41.1311292,-74.3673254,,,,
-462,Woodland Park Borough,1616,Passaic County,40.8898212,-74.1948674,,,,
-463,Alloway Township,1701,Salem County,39.5556617,-75.3178952,,,,
-464,Carneys Point Township,1702,Salem County,39.7111989,-75.4701443,,,,
-465,Elmer Borough,1703,Salem County,39.5951147,-75.1701819,,,,
-466,Elsinboro Township,1704,Salem County,39.5273861,-75.4927278,,,,
-467,Lower Alloways Creek Township,1705,Salem County,39.4519933,-75.4577775,,,,
-468,Mannington Township,1706,Salem County,39.6127356,-75.4086309,,,,
-469,Oldmans Township,1707,Salem County,39.7409308,-75.422819,,,,
-470,Penns Grove Borough,1708,Salem County,39.7295581,-75.4679734,,,,
-471,Pennsville Township,1709,Salem County,39.6284514,-75.4984978,,,,
-472,Green Township,1908,Sussex County,40.9708921,-74.788226,,,,
-473,Pilesgrove Township,1710,Salem County,39.6531394,-75.3146439,,,,
-474,Pittsgrove Township,1711,Salem County,39.5314846,-75.1311874,,,,
-475,Quinton Township,1712,Salem County,39.532777,-75.3761952,,,,
-476,Salem,1713,Salem County,39.5717796,-75.4671423,,,,
-477,Upper Pittsgrove Township,1714,Salem County,39.6245187,-75.2245693,,,,
-478,Woodstown Borough,1715,Salem County,39.6515027,-75.3282454,,,,
-479,Bedminster Township,1801,Somerset County,40.669264,-74.6804,,,,
-480,Bernards Township,1802,Somerset County,40.6669335,-74.5580454,,,,
-481,Bernardsville Borough,1803,Somerset County,40.7187119,-74.569324,,,,
-482,Bound Brook Borough,1804,Somerset County,40.5674044,-74.5375399,,,,
-483,Branchburg Township,1805,Somerset County,40.5868114,-74.6985891,,,,
-484,Bridgewater Township,1806,Somerset County,40.5939636,-74.6049061,,,,
-485,Far Hills Borough,1807,Somerset County,40.684268,-74.6357148,,,,
-486,Franklin Township,1808,Somerset County,40.4933734,-74.5228916,,,,
-487,Green Brook Township,1809,Somerset County,40.6049167,-74.4851659,,,,
-488,Hillsborough Township,1810,Somerset County,40.5106322,-74.6472522,,,,
-489,Manville Borough,1811,Somerset County,40.5409367,-74.5876569,,,,
-490,Millstone Borough,1812,Somerset County,40.4992706,-74.5887678,,,,
-491,Montgomery Township,1813,Somerset County,40.4329141,-74.663464,,,,
-492,North Plainfield Borough,1814,Somerset County,40.6301025,-74.4273743,,,,
-493,Peapack-Gladstone Borough,1815,Somerset County,40.7151691,-74.6576091,,,,
-494,Raritan Borough,1816,Somerset County,40.5695474,-74.6329363,,,,
-495,Rocky Hill Borough,1817,Somerset County,40.3998283,-74.6343244,,,,
-496,Somerville Borough,1818,Somerset County,40.5742696,-74.60988,,,,
-497,South Bound Brook Borough,1819,Somerset County,40.5534364,-74.531544,,,,
-498,Warren Township,1820,Somerset County,40.6342489,-74.5004796,,,,
-499,Watchung Borough,1821,Somerset County,40.63788,-74.4509863,,,,
-500,Andover Borough,1901,Sussex County,40.9859311,-74.7421089,,,,
-501,Andover Township,1902,Sussex County,41.0155479,-74.7295522,,,,
-502,Branchville Borough,1903,Sussex County,41.1464852,-74.7523874,,,,
-503,Byram Township,1904,Sussex County,40.9601024,-74.7227291,,,,
-504,Frankford Township,1905,Sussex County,41.1662778,-74.7454112,,,,
-505,Franklin Borough,1906,Sussex County,41.1220409,-74.5804378,,,,
-506,Hamburg Borough,1909,Sussex County,41.1534294,-74.5762713,,,,
-507,Hampton Township,1910,Sussex County,41.1087588,-74.8011315,,,,
-508,Hardyston Township,1911,Sussex County,41.1137037,-74.5540506,,,,
-509,Hopatcong Borough,1912,Sussex County,40.9328762,-74.6593281,,,,
-510,Lafayette Township,1913,Sussex County,41.0984301,-74.6884965,,,,
-511,Montague Township,1914,Sussex County,41.2956937,-74.7839936,,,,
-512,Newton,1915,Sussex County,41.0581527,-74.7526651,,,,
-513,Ogdensburg Borough,1916,Sussex County,41.0817636,-74.5923824,,,,
-514,Sandyston Township,1917,Sussex County,41.2147006,-74.805317,,,,
-515,Sparta Township,1918,Sussex County,41.0360977,-74.6367057,,,,
-516,Stanhope Borough,1919,Sussex County,40.9115285,-74.7015158,,,,
-517,Stillwater Township,1920,Sussex County,41.0355622,-74.8763121,,,,
-518,Sussex Borough,1921,Sussex County,41.2098177,-74.6076614,,,,
-519,Vernon Township,1922,Sussex County,41.1947018,-74.4937943,,,,
-520,Walpack Township,1923,Sussex County,41.1292544,-74.9091853,,,,
-521,Wantage Township,1924,Sussex County,41.256843,-74.6166192,,,,
-522,Berkeley Heights Township,2001,Union County,40.6808726,-74.4310524,,,,
-523,Clark Township,2002,Union County,40.6278031,-74.3127631,,,,
-524,Cranford Township,2003,Union County,40.6584212,-74.2995928,,,,
-525,Elizabeth,2004,Union County,40.6639916,-74.2107006,,,,
-526,Fanwood Borough,2005,Union County,40.6409358,-74.383484,,,,
-527,Garwood Borough,2006,Union County,40.6517691,-74.3229264,,,,
-528,Hillside Township,2007,Union County,40.6955044,-74.2287333,,,,
-529,Kenilworth Borough,2008,Union County,40.6764911,-74.2907032,,,,
-530,Linden,2009,Union County,40.6220478,-74.2445902,,,,
-531,Mountainside Borough,2010,Union County,40.6723242,-74.3573722,,,,
-532,New Providence Borough,2011,Union County,40.6984348,-74.4015405,,,,
-533,Plainfield,2012,Union County,40.6337136,-74.4073736,,,,
-534,Rahway,2013,Union County,40.6081591,-74.2776468,,,,
-535,Roselle Borough,2014,Union County,40.6645469,-74.2643133,,,,
-536,Roselle Park Borough,2015,Union County,40.6640714,-74.2678169,,,,
-537,Scotch Plains Township,2016,Union County,40.6400404,-74.369018,,,,
-538,Springfield Township,2017,Union County,40.7016937,-74.3222146,,,,
-539,Summit,2018,Union County,40.7146376,-74.3646122,,,,
-540,Union Township,2019,Union County,40.6975898,-74.2631635,,,,
-541,Westfield,2020,Union County,40.6589912,-74.3473717,,,,
-542,Winfield Township,2021,Union County,40.636214,-74.2884806,,,,
-543,Allamuchy Township,2101,Warren County,40.921765,-74.8101664,,,,
-544,Alpha Borough,2102,Warren County,40.6643908,-75.1548362,,,,
-545,Belvidere,2103,Warren County,40.82982,-75.0776747,,,,
-546,Blairstown Township,2104,Warren County,40.9831018,-74.9589405,,,,
-547,Franklin Township,2105,Warren County,40.7214598,-75.0377502,,,,
-548,Frelinghuysen Township,2106,Warren County,40.9684103,-74.8857989,,,,
-549,Greenwich Township,2107,Warren County,40.6826198,-75.1195107,,,,
-550,Hackettstown,2108,Warren County,40.8539879,-74.8290555,,,,
-551,Hardwick Township,2109,Warren County,41.0543894,-74.9326129,,,,
-552,Harmony Township,2110,Warren County,40.746765,-75.1373974,,,,
-553,Hope Township,2111,Warren County,40.9111182,-74.9673626,,,,
-554,Independence Township,2112,Warren County,40.8893883,-74.8857989,,,,
-555,Knowlton Township,2113,Warren County,40.9308948,-75.0273583,,,,
-556,Liberty Township,2114,Warren County,40.8591879,-74.955948,,,,
-557,Lopatcong Township,2115,Warren County,40.7127921,-75.1603752,,,,
-558,Mansfield Township,2116,Warren County,40.8217167,-74.8974925,,,,
-559,Oxford Township,2117,Warren County,40.8132568,-74.999813,,,,
-560,Phillipsburg,2119,Warren County,40.6937099,-75.1901761,,,,
-561,Pohatcong Township,2120,Warren County,40.6333553,-75.1603752,,,,
-562,Washington Borough,2121,Warren County,40.7584326,-74.9793378,,,,
-563,Washington Township,2122,Warren County,40.7699173,-74.988468,,,,
-564,White Township,2123,Warren County,40.8121949,-75.0494329,,,,
+,Municipality,MUNID,County,Latitude,Longitude,CrimeScore,EDUScore,WalkScore,TransitScore,ActivityScore
+0,Absecon,101,Atlantic County,39.4284503,-74.4957076,,,,,299
+1,Atlantic City,102,Atlantic County,39.3642834,-74.4229266,,,,,468
+2,Brigantine,103,Atlantic County,39.4101171,-74.3645906,,,,,416
+3,Buena Borough,104,Atlantic County,39.5314776,-74.9384135,,,,,110
+4,Buena Vista Township,105,Atlantic County,39.5281098,-74.8962666,,,,,13
+5,Corbin City,106,Atlantic County,39.3034484,-74.7557193,,,,,0
+6,Egg Harbor City,107,Atlantic County,39.5287282,-74.6479364,,,,,221
+7,Egg Harbor Township,108,Atlantic County,39.3822537,-74.6166192,,,,,487
+8,Estell Manor,109,Atlantic County,39.4120603,-74.7423855,,,,,325
+9,Folsom Borough,110,Atlantic County,39.6020607,-74.8426652,,,,,0
+10,Galloway Township,111,Atlantic County,39.4928235,-74.5596879,,,,,0
+11,Hamilton Township,112,Atlantic County,39.4941863,-74.7347674,,,,,52
+12,Hammonton,113,Atlantic County,39.6365056,-74.8023853,,,,,383
+13,Linwood,114,Atlantic County,39.3398382,-74.5751557,,,,,266
+14,Longport Borough,115,Atlantic County,39.3142827,-74.5248756,,,,,188
+15,Margate City,116,Atlantic County,39.327894,-74.5034858,,,,,221
+16,Mullica Township,117,Atlantic County,39.5907851,-74.663464,,,,,45
+17,Northfield,118,Atlantic County,39.3703942,-74.5501546,,,,,221
+18,Pleasantville,119,Atlantic County,39.3898388,-74.5240422,,,,,279
+19,Port Republic,120,Atlantic County,39.5206733,-74.485707,,,,,162
+20,Somers Point,121,Atlantic County,39.3160641,-74.6053047,,,,,299
+21,Ventnor City,122,Atlantic County,39.3403942,-74.4773735,,,,,331
+22,Weymouth Township,123,Atlantic County,39.4186567,-74.7746684,,,,,39
+23,Allendale Borough,201,Bergen County,41.037101,-74.1298684,,,,,240
+24,Alpine Borough,202,Bergen County,40.9579189,-73.9183464,,,,,409
+25,Bergenfield Borough,203,Bergen County,40.9275987,-73.9973608,,,,,338
+26,Bogota Borough,204,Bergen County,40.8762106,-74.0298621,,,,,253
+27,Carlstadt Borough,205,Bergen County,40.8403778,-74.0906974,,,,,403
+28,Cliffside Park Borough,206,Bergen County,40.8214894,-73.9876388,,,,,305
+29,Closter Borough,207,Bergen County,40.9731536,-73.9615262,,,,,247
+30,Cresskill Borough,208,Bergen County,40.9412128,-73.9565551,,,,,273
+31,Demarest Borough,209,Bergen County,40.9531023,-73.9536163,,,,,234
+32,Dumont Borough,210,Bergen County,40.9406541,-73.9968051,,,,,260
+33,East Rutherford Borough,212,Bergen County,40.8329289,-74.0958729,,,,,396
+34,Edgewater Borough,213,Bergen County,40.8204965,-73.9741874,,,,,403
+35,Elmwood Park Borough,211,Bergen County,40.9039878,-74.118476,,,,,370
+36,Emerson Borough,214,Bergen County,40.976209,-74.0262505,,,,,292
+37,Englewood,215,Bergen County,40.8928771,-73.9726381,,,,,357
+38,Englewood Cliffs Borough,216,Bergen County,40.8923269,-73.9418603,,,,,416
+39,Fair Lawn Borough,217,Bergen County,40.9370006,-74.1181234,,,,,390
+40,Fairview Borough,218,Bergen County,40.8197331,-74.0035709,,,,,260
+41,Fort Lee Borough,219,Bergen County,40.8562383,-73.9653715,,,,,390
+42,Franklin Lakes Borough,220,Bergen County,41.0167639,-74.2057011,,,,,305
+43,Garfield,221,Bergen County,40.8814882,-74.113198,,,,,383
+44,Glen Rock Borough,222,Bergen County,40.9583569,-74.1298684,,,,,364
+45,Hackensack,223,Bergen County,40.8859325,-74.0434736,,,,,396
+46,Harrington Park Borough,224,Bergen County,40.9837089,-73.9798601,,,,,234
+47,Hasbrouck Heights Borough,225,Bergen County,40.8642433,-74.0740729,,,,,286
+48,Haworth Borough,226,Bergen County,40.9609315,-73.9901383,,,,,260
+49,Hillsdale Borough,227,Bergen County,41.0025975,-74.0404175,,,,,292
+50,Ho-Ho-Kus Borough,228,Bergen County,40.9964864,-74.101253,,,,,260
+51,Leonia Borough,229,Bergen County,40.8624613,-73.9918181,,,,,370
+52,Little Ferry Borough,230,Bergen County,40.8528777,-74.0420848,,,,,273
+53,Lodi Borough,231,Bergen County,40.8823215,-74.0831971,,,,,383
+54,Lyndhurst Township,232,Bergen County,40.8120171,-74.1243063,,,,,390
+55,Mahwah Township,233,Bergen County,41.0886216,-74.1435843,,,,,403
+56,Maywood Borough,234,Bergen County,40.9020267,-74.0623244,,,,,370
+57,Midland Park Borough,235,Bergen County,40.9965212,-74.1386767,,,,,253
+58,Montvale Borough,236,Bergen County,41.0467635,-74.0229173,,,,,286
+59,Moonachie Borough,237,Bergen County,40.8412111,-74.0451405,,,,,240
+60,New Milford Borough,238,Bergen County,40.9356215,-74.0211989,,,,,344
+61,North Arlington Borough,239,Bergen County,40.7906667,-74.1298684,,,,,390
+62,Northvale Borough,240,Bergen County,41.0064864,-73.9490258,,,,,201
+63,Norwood Borough,241,Bergen County,40.9981532,-73.9618039,,,,,247
+64,Oakland Borough,242,Bergen County,41.0131529,-74.2643143,,,,,370
+65,Old Tappan Borough,243,Bergen County,41.0171594,-73.9888797,,,,,0
+66,Oradell Borough,244,Bergen County,40.9587093,-74.0368064,,,,,299
+67,Palisades Park Borough,245,Bergen County,40.8481556,-73.997639,,,,,338
+68,Paramus Borough,246,Bergen County,40.9445428,-74.0754189,,,,,396
+69,Park Ridge Borough,247,Bergen County,41.0375968,-74.0406956,,,,,299
+70,Ramsey Borough,248,Bergen County,41.062513,-74.1357407,,,,,234
+71,Ridgefield Borough,249,Bergen County,40.8333184,-74.0123851,,,,,357
+72,Ridgefield Park Village,250,Bergen County,40.8570442,-74.0215285,,,,,377
+73,Ridgewood Village,251,Bergen County,40.9792645,-74.1165313,,,,,390
+74,River Edge Borough,252,Bergen County,40.9282671,-74.0388252,,,,,318
+75,River Vale Township,253,Bergen County,41.0147679,-74.0119736,,,,,0
+76,Rochelle Park Township,254,Bergen County,40.9073328,-74.0751273,,,,,318
+77,Rockleigh Borough,255,Bergen County,41.0003754,-73.930414,,,,,0
+78,Rutherford Borough,256,Bergen County,40.826489,-74.1068091,,,,,390
+79,Saddle Brook Township,257,Bergen County,40.9040085,-74.1007318,,,,,370
+80,Saddle River Borough,258,Bergen County,41.0321343,-74.0946311,,,,,234
+81,South Hackensack Township,259,Bergen County,40.8625996,-74.0479182,,,,,390
+82,Teaneck Township,260,Bergen County,40.8932469,-74.0116536,,,,,403
+83,Tenafly Borough,261,Bergen County,40.913708,-73.9536163,,,,,390
+84,Teterboro Borough,262,Bergen County,40.8598219,-74.0593075,,,,,227
+85,Upper Saddle River Borough,263,Bergen County,41.0616347,-74.0946311,,,,,0
+86,Waldwick Borough,264,Bergen County,41.0106528,-74.1179203,,,,,266
+87,Wallington Borough,265,Bergen County,40.8535873,-74.103441,,,,,377
+88,Washington Township,266,Bergen County,40.9912886,-74.0597897,,,,,279
+89,Westwood Borough,267,Bergen County,40.9912087,-74.0326395,,,,,292
+90,Woodcliff Lake Borough,268,Bergen County,41.0234304,-74.0665297,,,,,240
+91,Wood-Ridge Borough,269,Bergen County,40.8511031,-74.0858207,,,,,312
+92,Wyckoff Township,270,Bergen County,41.0095316,-74.1729106,,,,,344
+93,Bass River Township,301,Burlington County,39.5926181,-74.4426493,,,,,13
+94,Beverly,302,Burlington County,40.0653889,-74.9190558,,,,,78
+95,Bordentown,303,Burlington County,40.1462213,-74.7118264,,,,,162
+96,Bordentown Township,304,Burlington County,40.1480827,-74.6945737,,,,,0
+97,Burlington,305,Burlington County,40.0561471,-74.8458822,,,,,299
+98,Burlington Township,306,Burlington County,40.0561471,-74.8458822,,,,,0
+99,Chesterfield Township,307,Burlington County,40.1219081,-74.651754,,,,,390
+100,Cinnaminson Township,308,Burlington County,39.9969646,-74.9927693,,,,,0
+101,Delanco Township,309,Burlington County,40.0506669,-74.9535016,,,,,0
+102,Delran Township,310,Burlington County,40.0158918,-74.9564247,,,,,0
+103,Eastampton Township,311,Burlington County,40.0033813,-74.756468,,,,,0
+104,Edgewater Park Township,312,Burlington County,40.0681666,-74.9007218,,,,,0
+105,Evesham Township,313,Burlington County,39.8522951,-74.8857989,,,,,286
+106,Fieldsboro Borough,314,Burlington County,40.1364991,-74.7287714,,,,,0
+107,Florence Township,315,Burlington County,40.0967369,-74.7863387,,,,,403
+108,Hainesport Township,316,Burlington County,39.9837234,-74.8271081,,,,,312
+109,Lumberton Township,317,Burlington County,39.9676482,-74.8003877,,,,,377
+110,Mansfield Township,318,Burlington County,40.0799767,-74.7183641,,,,,409
+111,Maple Shade Township,319,Burlington County,39.9526127,-74.9923915,,,,,286
+112,Medford Lakes Borough,321,Burlington County,39.8623103,-74.8057734,,,,,0
+113,Medford Township,320,Burlington County,39.8661826,-74.8390162,,,,,409
+114,Moorestown Township,322,Burlington County,39.9688817,-74.948886,,,,,396
+115,Mount Holly Township,323,Burlington County,39.9931438,-74.7879393,,,,,247
+116,Mount Laurel Township,324,Burlington County,39.934002,-74.8909988,,,,,396
+117,New Hanover Township,325,Burlington County,40.0122319,-74.5814773,,,,,19
+118,North Hanover Township,326,Burlington County,40.0723409,-74.5814773,,,,,0
+119,Palmyra Borough,327,Burlington County,40.0070565,-75.0282271,,,,,286
+120,Pemberton Borough,328,Burlington County,39.9720578,-74.6829363,,,,,13
+121,Pemberton Township,329,Burlington County,39.9600831,-74.5841089,,,,,19
+122,Riverside Township,330,Burlington County,40.0323338,-74.9573908,,,,,253
+123,Riverton Borough,331,Burlington County,40.0115009,-75.0148931,,,,,26
+124,Shamong Township,332,Burlington County,39.7775775,-74.7351513,,,,,0
+125,Southampton Township,333,Burlington County,39.9274288,-74.7265791,,,,,0
+126,Springfield Township,334,Burlington County,40.0370035,-74.6934678,,,,,19
+127,Tabernacle Township,335,Burlington County,39.8433853,-74.7107048,,,,,0
+128,Washington Township,336,Burlington County,39.6991324,-74.5697617,,,,,0
+129,Westampton Township,337,Burlington County,40.0205975,-74.7922202,,,,,26
+130,Willingboro Township,338,Burlington County,40.028848,-74.8916458,,,,,286
+131,Woodland Township,339,Burlington County,39.8537339,-74.5228916,,,,,6
+132,Wrightstown Borough,340,Burlington County,40.0362241,-74.6179344,,,,,201
+133,Audubon Borough,401,Camden County,39.8909466,-75.0729504,,,,,305
+135,Audubon Park Borough,402,Camden County,39.8965021,-75.0876736,,,,,0
+136,Barrington Borough,403,Camden County,39.8648357,-75.0551714,,,,,273
+137,Bellmawr Borough,404,Camden County,39.8676134,-75.0946182,,,,,364
+138,Berlin Borough,405,Camden County,39.7912261,-74.9290536,,,,,240
+139,Berlin Township,406,Camden County,39.8008256,-74.9150313,,,,,273
+140,Brooklawn Borough,407,Camden County,39.8795177,-75.1209704,,,,,0
+141,Camden,408,Camden County,39.9259463,-75.1196199,,,,,383
+142,Cherry Hill Township,409,Camden County,39.926813,-75.0246312,,,,,58
+143,Chesilhurst Borough,410,Camden County,39.7323384,-74.8809966,,,,,416
+144,Clementon Borough,411,Camden County,39.8115033,-74.9829443,,,,,201
+145,Collingswood Borough,412,Camden County,39.9181686,-75.071284,,,,,273
+146,Gibbsboro Borough,413,Camden County,39.8381698,-74.9648887,,,,,221
+147,Gloucester City,414,Camden County,39.8917799,-75.1162863,,,,,299
+148,Gloucester Township,415,Camden County,39.7933809,-75.0494329,,,,,136
+149,Haddon Heights Borough,418,Camden County,39.8773356,-75.0646165,,,,,253
+150,Haddon Township,416,Camden County,39.9105176,-75.0497448,,,,,429
+151,Haddonfield Borough,417,Camden County,39.8915022,-75.0376707,,,,,390
+152,Hi-Nella Borough,419,Camden County,39.8356695,-75.0243357,,,,,0
+153,Laurel Springs Borough,420,Camden County,39.8201141,-75.0062788,,,,,0
+154,Lawnside Borough,421,Camden County,39.8665025,-75.0282253,,,,,0
+155,Lindenwold Borough,422,Camden County,39.8172083,-74.9699579,,,,,0
+156,Magnolia Borough,423,Camden County,39.8545581,-75.0390591,,,,,201
+157,Merchantville Borough,424,Camden County,39.9503838,-75.0479726,,,,,201
+158,Mount Ephraim Borough,425,Camden County,39.8784465,-75.0926738,,,,,208
+159,Oaklyn Borough,426,Camden County,39.9009465,-75.0846179,,,,,195
+160,Pennsauken Township,427,Camden County,39.9562052,-75.058009,,,,,416
+161,Pine Hill Borough,428,Camden County,39.7842813,-74.9921108,,,,,0
+162,Pine Valley Borough,429,Camden County,39.7856704,-74.975166,,,,,0
+163,Runnemede Borough,430,Camden County,39.8523358,-75.0679497,,,,,279
+164,Somerdale Borough,431,Camden County,39.8440027,-75.0226691,,,,,279
+165,Stratford Borough,432,Camden County,39.8267807,-75.0154461,,,,,292
+166,Tavistock Borough,433,Camden County,39.8762246,-75.0296144,,,,,0
+167,Voorhees Township,434,Camden County,39.8519447,-74.961517,,,,,422
+168,Waterford Township,435,Camden County,39.771287,-74.886909,,,,,351
+169,Winslow Township,436,Camden County,39.6573556,-74.8623203,,,,,195
+170,Woodlynne Borough,437,Camden County,39.916311,-75.094695,,,,,0
+171,Avalon Borough,501,Cape May County,39.101225,-74.7176622,,,,,260
+172,Cape May,502,Cape May County,38.9351125,-74.9060053,,,,,370
+173,Cape May Point Borough,503,Cape May County,38.9373346,-74.9693418,,,,,52
+174,Dennis Township,504,Cape May County,39.1958623,-74.8156199,,,,,0
+175,Lower Township,505,Cape May County,38.9745287,-74.9003335,,,,,195
+176,Middle Township,506,Cape May County,39.1201616,-74.8451915,,,,,286
+177,North Wildwood,507,Cape May County,39.0006686,-74.799333,,,,,0
+178,Ocean City,508,Cape May County,39.2776156,-74.5746001,,,,,435
+179,Sea Isle City,509,Cape May County,39.1534477,-74.6929387,,,,,292
+180,Stone Harbor Borough,510,Cape May County,39.0464066,-74.7643608,,,,,227
+181,Upper Township,511,Cape May County,39.232601,-74.7102958,,,,,188
+182,West Cape May Borough,512,Cape May County,38.9443672,-74.9354909,,,,,0
+183,West Wildwood Borough,513,Cape May County,39.0023352,-74.8243343,,,,,0
+184,Wildwood,514,Cape May County,38.9917797,-74.8148894,,,,,416
+185,Wildwood Crest Borough,515,Cape May County,38.9748351,-74.8335015,,,,,0
+186,Woodbine Borough,516,Cape May County,39.2417813,-74.8151667,,,,,78
+187,Bridgeton,601,Cumberland County,39.427337,-75.2340768,,,,,234
+188,Commercial Township,602,Cumberland County,39.2759707,-75.0377502,,,,,19
+189,Deerfield Township,603,Cumberland County,39.462135,-75.1428632,,,,,45
+190,Downe Township,604,Cumberland County,39.288168,-75.1311874,,,,,6
+191,Fairfield Township,605,Cumberland County,39.3901309,-75.2128996,,,,,39
+192,Greenwich Township,606,Cumberland County,39.3899304,-75.338263,,,,,97
+193,Hopewell Township,607,Cumberland County,39.4397366,-75.2829046,,,,,0
+194,Lawrence Township,608,Cumberland County,39.3262153,-75.1895576,,,,,13
+195,Maurice River Township,609,Cumberland County,39.2592235,-74.9836584,,,,,26
+196,Millville,610,Cumberland County,39.4020596,-75.0393438,,,,,390
+197,Shiloh Borough,611,Cumberland County,39.4590032,-75.2990798,,,,,26
+198,Stow Creek Township,612,Cumberland County,39.4487317,-75.3528779,,,,,0
+199,Upper Deerfield Township,613,Cumberland County,39.5031256,-75.2245693,,,,,0
+200,Vineland,614,Cumberland County,39.4863773,-75.0259637,,,,,409
+201,Belleville Township,701,Essex County,40.7936744,-74.1500469,,,,,383
+202,Bloomfield Township,702,Essex County,40.8067546,-74.1854209,,,,,429
+203,Caldwell Borough,703,Essex County,40.8398218,-74.2765366,,,,,208
+204,Cedar Grove Township,704,Essex County,40.8517876,-74.2290319,,,,,344
+205,City of Orange Township,717,Essex County,40.7706187,-74.2326478,,,,,377
+206,East Orange,705,Essex County,40.767323,-74.2048677,,,,,409
+207,Essex Fells Borough,706,Essex County,40.8288978,-74.2795524,,,,,201
+208,Fairfield Township,707,Essex County,40.8837406,-74.3059959,,,,,370
+209,Glen Ridge Borough,708,Essex County,40.805378,-74.2037566,,,,,422
+210,Irvington Township,709,Essex County,40.7263249,-74.2286435,,,,,383
+211,Livingston Township,710,Essex County,40.7862871,-74.3300842,,,,,403
+212,Maplewood Township,711,Essex County,40.7299793,-74.271992,,,,,383
+213,Millburn Township,712,Essex County,40.7340454,-74.3206696,,,,,403
+214,Montclair Township,713,Essex County,40.8259007,-74.2090053,,,,,422
+215,Newark,714,Essex County,40.735657,-74.1723667,,,,,468
+216,North Caldwell Borough,715,Essex County,40.8648215,-74.2582027,,,,,0
+217,Nutley Township,716,Essex County,40.8223168,-74.1598725,,,,,377
+218,Roseland Borough,718,Essex County,40.8206555,-74.2937594,,,,,273
+219,South Orange Village Township,719,Essex County,40.7489277,-74.2609903,,,,,370
+220,Verona Township,720,Essex County,40.8298006,-74.2401609,,,,,377
+221,West Caldwell Township,721,Essex County,40.8409329,-74.3018154,,,,,0
+222,West Orange Township,722,Essex County,40.7985699,-74.2390828,,,,,448
+223,Clayton Borough,801,Gloucester County,39.6601148,-75.0921197,,,,,143
+224,Deptford Township,802,Gloucester County,39.8227054,-75.1195107,,,,,403
+225,East Greenwich Township,803,Gloucester County,39.7975993,-75.2362381,,,,,39
+226,Elk Township,804,Gloucester County,39.6644095,-75.1428632,,,,,0
+227,Franklin Township,805,Gloucester County,39.600156,-75.0377502,,,,,91
+228,Glassboro Borough,806,Gloucester County,39.7028923,-75.1118422,,,,,357
+229,Greenwich Township,807,Gloucester County,39.8200838,-75.2618666,,,,,97
+230,Harrison Township,808,Gloucester County,39.7296493,-75.207737,,,,,0
+231,Logan Township,809,Gloucester County,39.7847179,-75.349185,,,,,0
+232,Mantua Township,810,Gloucester County,39.7818322,-75.1821597,,,,,364
+233,Monroe Township,811,Gloucester County,39.6747922,-74.9910112,,,,,149
+234,National Park Borough,812,Gloucester County,39.8692138,-75.1866396,,,,,91
+235,Newfield Borough,813,Gloucester County,39.5465044,-75.0248964,,,,,0
+236,Paulsboro Borough,814,Gloucester County,39.830391,-75.2404607,,,,,201
+237,Pitman Borough,815,Gloucester County,39.732892,-75.1315651,,,,,266
+238,South Harrison Township,816,Gloucester County,39.7001137,-75.2579635,,,,,6
+239,Swedesboro Borough,817,Gloucester County,39.7476136,-75.3104654,,,,,130
+240,Washington Township,818,Gloucester County,39.7561387,-75.0727956,,,,,65
+241,Wenonah Borough,819,Gloucester County,39.7945582,-75.1487883,,,,,84
+242,West Deptford Township,820,Gloucester County,39.8318378,-75.1895576,,,,,221
+243,Westville Borough,821,Gloucester County,39.8666354,-75.1282683,,,,,221
+244,Woodbury,822,Gloucester County,39.8381691,-75.1526774,,,,,201
+245,Woodbury Heights Borough,823,Gloucester County,39.8135459,-75.145782,,,,,175
+246,Woolwich Township,824,Gloucester County,39.737154,-75.3096289,,,,,0
+247,Bayonne,901,Hudson County,40.6687141,-74.1143091,,,,,409
+248,East Newark Borough,902,Hudson County,40.7497019,-74.1636313,,,,,0
+249,Guttenberg,903,Hudson County,40.7920454,-74.0037505,,,,,0
+250,Harrison,904,Hudson County,40.7464901,-74.1562551,,,,,377
+251,Hoboken,905,Hudson County,40.7439905,-74.0323626,,,,,396
+252,Jersey City,906,Hudson County,40.7177545,-74.0431435,,,,,481
+253,Kearny,907,Hudson County,40.7684342,-74.1454214,,,,,409
+254,North Bergen Township,908,Hudson County,40.8042674,-74.012084,,,,,500
+255,Secaucus,909,Hudson County,40.7895453,-74.0565298,,,,,383
+256,Union City,910,Hudson County,40.7795455,-74.0237512,,,,,396
+257,Weehawken Township,911,Hudson County,40.7663711,-74.0253715,,,,,396
+258,West New York,912,Hudson County,40.7878788,-74.0143064,,,,,383
+259,Alexandria Township,1001,Hunterdon County,40.5908427,-75.0260667,,,,,32
+260,Bethlehem Township,1002,Hunterdon County,40.6700352,-75.0034782,,,,,0
+261,Bloomsbury Borough,1003,Hunterdon County,40.6542397,-75.0830157,,,,,45
+262,Califon Borough,1004,Hunterdon County,40.7195448,-74.8357215,,,,,6
+263,Clinton,1005,Hunterdon County,40.6367682,-74.90989,,,,,195
+264,Clinton Township,1006,Hunterdon County,40.6306905,-74.8684564,,,,,0
+265,Delaware Township,1007,Hunterdon County,40.4307258,-74.9442585,,,,,169
+266,East Amwell Township,1008,Hunterdon County,40.4434508,-74.8156199,,,,,318
+267,Flemington Borough,1009,Hunterdon County,40.5123258,-74.8593318,,,,,188
+268,Franklin Township,1010,Hunterdon County,40.5655226,-74.9415319,,,,,26
+269,Frenchtown Borough,1011,Hunterdon County,40.5300538,-75.0552739,,,,,32
+270,Glen Gardner Borough,1012,Hunterdon County,40.6967671,-74.9407248,,,,,6
+271,Hampton Borough,1013,Hunterdon County,40.7070446,-74.9560032,,,,,0
+272,High Bridge Borough,1014,Hunterdon County,40.6673377,-74.8916458,,,,,130
+273,Holland Township,1015,Hunterdon County,40.5945209,-75.1168013,,,,,0
+274,Kingwood Township,1016,Hunterdon County,40.4698261,-75.0190585,,,,,6
+275,Lambertville,1017,Hunterdon County,40.3659394,-74.9429448,,,,,325
+276,Lebanon Borough,1018,Hunterdon County,40.6417683,-74.8359987,,,,,84
+277,Lebanon Township,1019,Hunterdon County,40.7310187,-74.8857989,,,,,0
+278,Milford Borough,1020,Hunterdon County,40.567384,-75.0932352,,,,,32
+279,Raritan Township,1021,Hunterdon County,40.5041636,-74.8974925,,,,,0
+280,Readington Township,1022,Hunterdon County,40.5687141,-74.7376619,,,,,396
+281,Stockton Borough,1023,Hunterdon County,40.407883,-74.9782238,,,,,6
+282,Tewksbury Township,1024,Hunterdon County,40.6919174,-74.7833145,,,,,6
+283,Union Township,1025,Hunterdon County,40.6299032,-74.9691811,,,,,45
+284,West Amwell Township,1026,Hunterdon County,40.3731071,-74.8857989,,,,,0
+285,East Windsor Township,1101,Mercer County,40.2677539,-74.5402506,,,,,0
+286,Ewing Township,1102,Mercer County,40.2599864,-74.7909125,,,,,0
+287,Hamilton Township,1103,Mercer County,40.2115109,-74.6796651,,,,,0
+288,Hightstown Borough,1104,Mercer County,40.2695538,-74.5232089,,,,,214
+289,Hopewell Borough,1105,Mercer County,40.3892726,-74.7618284,,,,,19
+290,Hopewell Township,1106,Mercer County,40.343784,-74.8156199,,,,,32
+291,Lawrence Township,1107,Mercer County,40.2778055,-74.7294313,,,,,0
+292,Pennington Borough,1108,Mercer County,40.3284402,-74.790718,,,,,149
+293,Princeton,1114,Mercer County,40.3572976,-74.6672226,,,,,416
+294,Robbinsville Township,1112,Mercer County,40.2162036,-74.6195327,,,,,130
+295,Trenton,1111,Mercer County,40.2205824,-74.759717,,,,,396
+296,West Windsor Township,1113,Mercer County,40.2983262,-74.618634,,,,,149
+297,Carteret Borough,1201,Middlesex County,40.5773266,-74.2282005,,,,,331
+298,Cranbury Township,1202,Middlesex County,40.3025907,-74.511172,,,,,351
+299,Dunellen Borough,1203,Middlesex County,40.5875493,-74.4672169,,,,,227
+300,East Brunswick Township,1204,Middlesex County,40.4316955,-74.4049778,,,,,409
+301,Edison Township,1205,Middlesex County,40.5187154,-74.4120953,,,,,435
+302,Helmetta Borough,1206,Middlesex County,40.3767741,-74.4245952,,,,,39
+303,Highland Park Borough,1207,Middlesex County,40.502468,-74.4261821,,,,,338
+304,Jamesburg Borough,1208,Middlesex County,40.3506684,-74.4437696,,,,,0
+305,Metuchen Borough,1209,Middlesex County,40.5461171,-74.3646122,,,,,318
+306,Middlesex Borough,1210,Middlesex County,40.572603,-74.4926541,,,,,344
+307,Milltown Borough,1211,Middlesex County,40.4494047,-74.4379073,,,,,240
+308,Monroe Township,1212,Middlesex County,40.336419,-74.4330474,,,,,383
+309,New Brunswick,1213,Middlesex County,40.4862157,-74.4518188,,,,,422
+310,North Brunswick Township,1214,Middlesex County,40.4525163,-74.4766712,,,,,422
+311,Old Bridge Township,1215,Middlesex County,40.4128551,-74.307282,,,,,442
+312,Perth Amboy,1216,Middlesex County,40.5067723,-74.2654234,,,,,357
+313,Piscataway Township,1217,Middlesex County,40.554887,-74.4642861,,,,,429
+314,Plainsboro Township,1218,Middlesex County,40.3382543,-74.585292,,,,,318
+315,Sayreville Borough,1219,Middlesex County,40.4594021,-74.360846,,,,,175
+316,South Amboy,1220,Middlesex County,40.4778838,-74.290702,,,,,292
+317,South Brunswick Township,1221,Middlesex County,40.3806901,-74.5316938,,,,,123
+318,South Plainfield Borough,1222,Middlesex County,40.56829,-74.4173877,,,,,364
+319,South River Borough,1223,Middlesex County,40.446495,-74.3859831,,,,,325
+320,Spotswood Borough,1224,Middlesex County,40.391774,-74.3984834,,,,,195
+321,Woodbridge Township,1225,Middlesex County,40.5575986,-74.2846022,,,,,364
+322,Aberdeen Township,1301,Monmouth County,40.4170948,-74.2221155,,,,,162
+323,Allenhurst Borough,1302,Monmouth County,40.2362236,-74.0006925,,,,,65
+324,Allentown Borough,1303,Monmouth County,40.1778886,-74.5834887,,,,,13
+325,Asbury Park,1304,Monmouth County,40.2203907,-74.0120817,,,,,260
+326,Atlantic Highlands Borough,1305,Monmouth County,40.4128545,-74.0329499,,,,,240
+327,Avon-by-the-Sea Borough,1306,Monmouth County,40.1923357,-74.0159703,,,,,247
+328,Belmar Borough,1307,Monmouth County,40.1779922,-74.0270745,,,,,130
+329,Bradley Beach Borough,1308,Monmouth County,40.2012739,-74.0153231,,,,,201
+330,Brielle Borough,1309,Monmouth County,40.1030781,-74.0623244,,,,,377
+331,Colts Neck Township,1310,Monmouth County,40.2876108,-74.1723652,,,,,338
+332,Deal Borough,1311,Monmouth County,40.243168,-74.0006927,,,,,136
+333,Eatontown Borough,1312,Monmouth County,40.2962222,-74.0509725,,,,,338
+334,Englishtown Borough,1313,Monmouth County,40.2973319,-74.3582041,,,,,58
+335,Fair Haven Borough,1314,Monmouth County,40.3606653,-74.0381947,,,,,214
+336,Farmingdale Borough,1315,Monmouth County,40.1965018,-74.1684757,,,,,45
+337,Freehold Borough,1316,Monmouth County,40.260111,-74.2737573,,,,,409
+338,Freehold Township,1317,Monmouth County,40.2136754,-74.3000878,,,,,0
+339,Hazlet Township,1318,Monmouth County,40.4289526,-74.1650991,,,,,409
+340,Highlands Borough,1319,Monmouth County,40.40372,-73.991527,,,,,247
+341,Holmdel Township,1320,Monmouth County,40.3451095,-74.1840322,,,,,416
+342,Howell Township,1321,Monmouth County,40.1645785,-74.2082671,,,,,136
+343,Interlaken Borough,1322,Monmouth County,40.2350362,-74.0169578,,,,,0
+344,Keansburg Borough,1323,Monmouth County,40.4467881,-74.1328046,,,,,403
+345,Keyport Borough,1324,Monmouth County,40.4331631,-74.1995883,,,,,299
+346,Lake Como Borough,1346,Monmouth County,40.1707443,-74.0274216,,,,,0
+347,Little Silver Borough,1325,Monmouth County,40.3367768,-74.0470837,,,,,370
+348,Loch Arbour Village,1326,Monmouth County,40.2328904,-74.0009703,,,,,0
+349,Long Branch,1327,Monmouth County,40.3042778,-73.9923596,,,,,370
+350,Manalapan Township,1328,Monmouth County,40.2859203,-74.348582,,,,,39
+351,Manasquan Borough,1329,Monmouth County,40.1136928,-74.0376355,,,,,383
+352,Marlboro Township,1330,Monmouth County,40.3380949,-74.2687291,,,,,416
+353,Matawan Borough,1331,Monmouth County,40.41483,-74.2295891,,,,,305
+354,Middletown Township,1332,Monmouth County,40.3968012,-74.0915982,,,,,117
+355,Millstone Township,1333,Monmouth County,40.2015266,-74.4291135,,,,,429
+356,Monmouth Beach Borough,1334,Monmouth County,40.3345201,-73.9888797,,,,,182
+357,Neptune City Borough,1336,Monmouth County,40.2005472,-74.0314165,,,,,0
+358,Neptune Township,1335,Monmouth County,40.2091219,-74.0386271,,,,,422
+359,Ocean Township,1337,Monmouth County,40.2479729,-74.029843,,,,,201
+360,Oceanport Borough,1338,Monmouth County,40.3181663,-74.0151382,,,,,344
+361,Red Bank Borough,1339,Monmouth County,40.3470543,-74.0643065,,,,,292
+362,Roosevelt Borough,1340,Monmouth County,40.2200405,-74.4730782,,,,,19
+363,Rumson Borough,1341,Monmouth County,40.3701706,-73.9947563,,,,,351
+364,Sea Bright Borough,1342,Monmouth County,40.3614987,-73.9740262,,,,,0
+365,Sea Girt Borough,1343,Monmouth County,40.1320592,-74.0345813,,,,,253
+366,Shrewsbury Borough,1344,Monmouth County,40.3245731,-74.0593872,,,,,240
+367,Shrewsbury Township,1345,Monmouth County,40.3141376,-74.0714893,,,,,0
+368,Spring Lake Borough,1347,Monmouth County,40.1534476,-74.0281925,,,,,260
+369,Spring Lake Heights Borough,1348,Monmouth County,40.1505348,-74.0447003,,,,,0
+370,Tinton Falls Borough,1349,Monmouth County,40.3042773,-74.1004185,,,,,156
+371,Union Beach Borough,1350,Monmouth County,40.4464962,-74.1781988,,,,,0
+372,Upper Freehold Township,1351,Monmouth County,40.174405,-74.5228916,,,,,6
+373,Wall Township,1352,Monmouth County,40.1606666,-74.0679753,,,,,117
+374,West Long Branch Borough,1353,Monmouth County,40.2880685,-74.0123851,,,,,318
+375,Boonton,1401,Morris County,40.904019,-74.4087405,,,,,240
+376,Boonton Township,1402,Morris County,40.9293994,-74.4300912,,,,,0
+377,Butler Borough,1403,Morris County,41.0037087,-74.3415394,,,,,240
+378,Chatham Borough,1404,Morris County,40.740934,-74.3837624,,,,,221
+379,Chatham Township,1405,Morris County,40.7265893,-74.4172591,,,,,0
+380,Chester Borough,1406,Morris County,40.7842667,-74.6968284,,,,,188
+381,Chester Township,1407,Morris County,40.7652883,-74.6985891,,,,,0
+382,Denville Township,1408,Morris County,40.8923212,-74.4773775,,,,,390
+383,Dover,1409,Morris County,40.883988,-74.5621025,,,,,325
+384,East Hanover Township,1410,Morris County,40.8200623,-74.3647247,,,,,390
+385,Florham Park Borough,1411,Morris County,40.787878,-74.3882072,,,,,377
+386,Hanover Township,1412,Morris County,40.8257746,-74.4173877,,,,,357
+387,Harding Township,1413,Morris County,40.7397683,-74.511172,,,,,26
+388,Jefferson Township,1414,Morris County,41.0029893,-74.5580454,,,,,357
+389,Kinnelon Borough,1415,Morris County,41.0017644,-74.367096,,,,,0
+390,Lincoln Park Borough,1416,Morris County,40.9242652,-74.3020933,,,,,383
+391,Long Hill Township,1430,Morris County,40.6828892,-74.4935913,,,,,260
+392,Madison Borough,1417,Morris County,40.7598227,-74.417097,,,,,292
+393,Mendham Borough,1418,Morris County,40.7759334,-74.6007142,,,,,175
+394,Mendham Township,1419,Morris County,40.7870633,-74.5765686,,,,,19
+395,Mine Hill Township,1420,Morris County,40.8778768,-74.5937701,,,,,253
+396,Montville Township,1421,Morris County,40.9148209,-74.383763,,,,,390
+397,Morris Plains Borough,1423,Morris County,40.8395922,-74.4818698,,,,,260
+398,Morris Township,1422,Morris County,40.7933833,-74.505312,,,,,0
+399,Morristown,1424,Morris County,40.7967667,-74.4815438,,,,,383
+400,Mount Arlington Borough,1426,Morris County,40.9259319,-74.6348828,,,,,279
+401,Mount Olive Township,1427,Morris County,40.8514881,-74.7329411,,,,,279
+402,Mountain Lakes Borough,1425,Morris County,40.8948212,-74.4329314,,,,,286
+403,Netcong Borough,1428,Morris County,40.8989877,-74.7065516,,,,,188
+404,Parsippany-Troy Hills Township,1429,Morris County,40.8652865,-74.4173877,,,,,416
+405,Pequannock Township,1431,Morris County,40.960201,-74.2973239,,,,,312
+406,Randolph Township,1432,Morris County,40.8478065,-74.5747248,,,,,32
+407,Riverdale Borough,1433,Morris County,40.9939865,-74.3034823,,,,,260
+408,Rockaway Borough,1434,Morris County,40.9012101,-74.5143232,,,,,19
+409,Rockaway Township,1435,Morris County,40.9300943,-74.4872422,,,,,0
+410,Roxbury Township,1436,Morris County,40.8693272,-74.663464,,,,,214
+411,Victory Gardens Borough,1437,Morris County,40.8759325,-74.5423796,,,,,0
+412,Washington Township,1438,Morris County,40.7695876,-74.8039205,,,,,234
+413,Wharton Borough,1439,Morris County,40.8931546,-74.5818254,,,,,188
+414,Barnegat Light Borough,1502,Ocean County,39.7576202,-74.1062466,,,,,97
+415,Barnegat Township,1501,Ocean County,39.7649223,-74.2693297,,,,,383
+416,Bay Head Borough,1503,Ocean County,40.0717828,-74.0543036,,,,,0
+417,Beach Haven Borough,1504,Ocean County,39.5592848,-74.2431962,,,,,104
+418,Beachwood Borough,1505,Ocean County,39.9390069,-74.1929188,,,,,253
+419,Berkeley Township,1506,Ocean County,39.8971996,-74.1827119,,,,,97
+420,Brick Township,1507,Ocean County,40.0578384,-74.1371832,,,,,448
+421,Eagleswood Township,1509,Ocean County,39.6521468,-74.3000878,,,,,214
+422,Harvey Cedars Borough,1510,Ocean County,39.706231,-74.1340253,,,,,0
+423,Island Heights Borough,1511,Ocean County,39.9406089,-74.1370445,,,,,208
+424,Jackson Township,1512,Ocean County,40.0918895,-74.3587473,,,,,422
+425,Lacey Township,1513,Ocean County,39.8726184,-74.2951444,,,,,299
+426,Lakehurst Borough,1514,Ocean County,40.014561,-74.3112574,,,,,143
+427,Lakewood Township,1515,Ocean County,40.082129,-74.2097014,,,,,357
+428,Lavallette Borough,1516,Ocean County,39.9703958,-74.0687475,,,,,130
+429,Little Egg Harbor Township,1517,Ocean County,39.6108492,-74.3572646,,,,,0
+430,Long Beach Township,1518,Ocean County,39.6155009,-74.199545,,,,,0
+431,Manchester Township,1519,Ocean County,39.9711696,-74.3392821,,,,,370
+432,Mantoloking Borough,1520,Ocean County,40.0392835,-74.0498585,,,,,58
+433,Ocean Gate Borough,1522,Ocean County,39.926785,-74.1337496,,,,,32
+434,Ocean Township,1521,Ocean County,39.7904391,-74.2176448,,,,,104
+435,Pine Beach Borough,1523,Ocean County,39.9359515,-74.1709735,,,,,117
+436,Plumsted Township,1524,Ocean County,40.0479478,-74.4760088,,,,,84
+437,Point Pleasant Beach Borough,1526,Ocean County,40.0912268,-74.0479146,,,,,312
+438,Point Pleasant Borough,1525,Ocean County,40.0831714,-74.0681931,,,,,0
+439,Seaside Heights Borough,1527,Ocean County,39.9437047,-74.0737087,,,,,247
+440,Seaside Park Borough,1528,Ocean County,39.9267852,-74.0770806,,,,,104
+441,Ship Bottom Borough,1529,Ocean County,39.642897,-74.1804159,,,,,0
+442,South Toms River Borough,1530,Ocean County,39.9420625,-74.2043082,,,,,0
+443,Stafford Township,1531,Ocean County,39.7046713,-74.2632784,,,,,175
+444,Surf City Borough,1532,Ocean County,39.6604287,-74.1674458,,,,,0
+445,Toms River Township,1508,Ocean County,39.9537358,-74.1979458,,,,,19
+446,Tuckerton Borough,1533,Ocean County,39.603174,-74.340145,,,,,208
+447,Bloomingdale Borough,1601,Passaic County,41.002042,-74.3265388,,,,,390
+448,Clifton,1602,Passaic County,40.8584328,-74.1637553,,,,,422
+449,Haledon Borough,1603,Passaic County,40.935654,-74.186256,,,,,234
+450,Hawthorne Borough,1604,Passaic County,40.9616599,-74.1533563,,,,,383
+451,Little Falls Township,1605,Passaic County,40.8690101,-74.2082286,,,,,409
+452,North Haledon Borough,1606,Passaic County,40.9666041,-74.1885825,,,,,0
+453,Passaic,1607,Passaic County,40.8567662,-74.1284764,,,,,396
+454,Paterson,1608,Passaic County,40.9167654,-74.171811,,,,,422
+455,Pompton Lakes Borough,1609,Passaic County,41.0022968,-74.2854199,,,,,325
+456,Prospect Park Borough,1610,Passaic County,40.9370428,-74.1743111,,,,,0
+457,Ringwood Borough,1611,Passaic County,41.1134289,-74.2454254,,,,,357
+458,Totowa Borough,1612,Passaic County,40.9025415,-74.223802,,,,,351
+459,Wanaque Borough,1613,Passaic County,41.0381525,-74.2940378,,,,,253
+460,Wayne Township,1614,Passaic County,40.9253725,-74.2765441,,,,,435
+461,West Milford Township,1615,Passaic County,41.1311292,-74.3673254,,,,,357
+462,Woodland Park Borough,1616,Passaic County,40.8898212,-74.1948674,,,,,0
+463,Alloway Township,1701,Salem County,39.5556617,-75.3178952,,,,,143
+464,Carneys Point Township,1702,Salem County,39.7111989,-75.4701443,,,,,0
+465,Elmer Borough,1703,Salem County,39.5951147,-75.1701819,,,,,6
+466,Elsinboro Township,1704,Salem County,39.5273861,-75.4927278,,,,,0
+467,Lower Alloways Creek Township,1705,Salem County,39.4519933,-75.4577775,,,,,0
+468,Mannington Township,1706,Salem County,39.6127356,-75.4086309,,,,,0
+469,Oldmans Township,1707,Salem County,39.7409308,-75.422819,,,,,6
+470,Penns Grove Borough,1708,Salem County,39.7295581,-75.4679734,,,,,65
+471,Pennsville Township,1709,Salem County,39.6284514,-75.4984978,,,,,78
+473,Pilesgrove Township,1710,Salem County,39.6531394,-75.3146439,,,,,0
+474,Pittsgrove Township,1711,Salem County,39.5314846,-75.1311874,,,,,0
+475,Quinton Township,1712,Salem County,39.532777,-75.3761952,,,,,156
+476,Salem,1713,Salem County,39.5717796,-75.4671423,,,,,84
+477,Upper Pittsgrove Township,1714,Salem County,39.6245187,-75.2245693,,,,,13
+478,Woodstown Borough,1715,Salem County,39.6515027,-75.3282454,,,,,91
+479,Bedminster Township,1801,Somerset County,40.669264,-74.6804,,,,,357
+480,Bernards Township,1802,Somerset County,40.6669335,-74.5580454,,,,,182
+481,Bernardsville Borough,1803,Somerset County,40.7187119,-74.569324,,,,,305
+482,Bound Brook Borough,1804,Somerset County,40.5674044,-74.5375399,,,,,253
+483,Branchburg Township,1805,Somerset County,40.5868114,-74.6985891,,,,,19
+484,Bridgewater Township,1806,Somerset County,40.5939636,-74.6049061,,,,,409
+485,Far Hills Borough,1807,Somerset County,40.684268,-74.6357148,,,,,169
+486,Franklin Township,1808,Somerset County,40.4933734,-74.5228916,,,,,208
+487,Green Brook Township,1809,Somerset County,40.6049167,-74.4851659,,,,,0
+488,Hillsborough Township,1810,Somerset County,40.5106322,-74.6472522,,,,,13
+489,Manville Borough,1811,Somerset County,40.5409367,-74.5876569,,,,,208
+490,Millstone Borough,1812,Somerset County,40.4992706,-74.5887678,,,,,0
+491,Montgomery Township,1813,Somerset County,40.4329141,-74.663464,,,,,19
+492,North Plainfield Borough,1814,Somerset County,40.6301025,-74.4273743,,,,,0
+493,Peapack-Gladstone Borough,1815,Somerset County,40.7151691,-74.6576091,,,,,104
+494,Raritan Borough,1816,Somerset County,40.5695474,-74.6329363,,,,,331
+495,Rocky Hill Borough,1817,Somerset County,40.3998283,-74.6343244,,,,,130
+496,Somerville Borough,1818,Somerset County,40.5742696,-74.60988,,,,,162
+497,South Bound Brook Borough,1819,Somerset County,40.5534364,-74.531544,,,,,253
+498,Warren Township,1820,Somerset County,40.6342489,-74.5004796,,,,,396
+499,Watchung Borough,1821,Somerset County,40.63788,-74.4509863,,,,,377
+500,Andover Borough,1901,Sussex County,40.9859311,-74.7421089,,,,,39
+501,Andover Township,1902,Sussex County,41.0155479,-74.7295522,,,,,0
+502,Branchville Borough,1903,Sussex County,41.1464852,-74.7523874,,,,,6
+503,Byram Township,1904,Sussex County,40.9601024,-74.7227291,,,,,0
+504,Frankford Township,1905,Sussex County,41.1662778,-74.7454112,,,,,110
+505,Franklin Borough,1906,Sussex County,41.1220409,-74.5804378,,,,,429
+134,Fredon Township,1907,Sussex County,41.0392638,-74.8087781,,,,,0
+472,Green Township,1908,Sussex County,40.9708921,-74.788226,,,,,0
+506,Hamburg Borough,1909,Sussex County,41.1534294,-74.5762713,,,,,91
+507,Hampton Township,1910,Sussex County,41.1087588,-74.8011315,,,,,0
+508,Hardyston Township,1911,Sussex County,41.1137037,-74.5540506,,,,,318
+509,Hopatcong Borough,1912,Sussex County,40.9328762,-74.6593281,,,,,0
+510,Lafayette Township,1913,Sussex County,41.0984301,-74.6884965,,,,,351
+511,Montague Township,1914,Sussex County,41.2956937,-74.7839936,,,,,396
+512,Newton,1915,Sussex County,41.0581527,-74.7526651,,,,,58
+513,Ogdensburg Borough,1916,Sussex County,41.0817636,-74.5923824,,,,,58
+514,Sandyston Township,1917,Sussex County,41.2147006,-74.805317,,,,,6
+515,Sparta Township,1918,Sussex County,41.0360977,-74.6367057,,,,,195
+516,Stanhope Borough,1919,Sussex County,40.9115285,-74.7015158,,,,,188
+517,Stillwater Township,1920,Sussex County,41.0355622,-74.8763121,,,,,0
+518,Sussex Borough,1921,Sussex County,41.2098177,-74.6076614,,,,,6
+519,Vernon Township,1922,Sussex County,41.1947018,-74.4937943,,,,,52
+520,Walpack Township,1923,Sussex County,41.1292544,-74.9091853,,,,,201
+521,Wantage Township,1924,Sussex County,41.256843,-74.6166192,,,,,0
+522,Berkeley Heights Township,2001,Union County,40.6808726,-74.4310524,,,,,312
+523,Clark Township,2002,Union County,40.6278031,-74.3127631,,,,,390
+524,Cranford Township,2003,Union County,40.6584212,-74.2995928,,,,,383
+525,Elizabeth,2004,Union County,40.6639916,-74.2107006,,,,,383
+526,Fanwood Borough,2005,Union County,40.6409358,-74.383484,,,,,253
+527,Garwood Borough,2006,Union County,40.6517691,-74.3229264,,,,,240
+528,Hillside Township,2007,Union County,40.6955044,-74.2287333,,,,,383
+529,Kenilworth Borough,2008,Union County,40.6764911,-74.2907032,,,,,383
+530,Linden,2009,Union County,40.6220478,-74.2445902,,,,,403
+531,Mountainside Borough,2010,Union County,40.6723242,-74.3573722,,,,,331
+532,New Providence Borough,2011,Union County,40.6984348,-74.4015405,,,,,266
+533,Plainfield,2012,Union County,40.6337136,-74.4073736,,,,,383
+534,Rahway,2013,Union County,40.6081591,-74.2776468,,,,,370
+535,Roselle Borough,2014,Union County,40.6645469,-74.2643133,,,,,370
+536,Roselle Park Borough,2015,Union County,40.6640714,-74.2678169,,,,,221
+537,Scotch Plains Township,2016,Union County,40.6400404,-74.369018,,,,,383
+538,Springfield Township,2017,Union County,40.7016937,-74.3222146,,,,,370
+539,Summit,2018,Union County,40.7146376,-74.3646122,,,,,351
+540,Union Township,2019,Union County,40.6975898,-74.2631635,,,,,396
+541,Westfield,2020,Union County,40.6589912,-74.3473717,,,,,396
+542,Winfield Township,2021,Union County,40.636214,-74.2884806,,,,,0
+543,Allamuchy Township,2101,Warren County,40.921765,-74.8101664,,,,,344
+544,Alpha Borough,2102,Warren County,40.6643908,-75.1548362,,,,,0
+545,Belvidere,2103,Warren County,40.82982,-75.0776747,,,,,32
+546,Blairstown Township,2104,Warren County,40.9831018,-74.9589405,,,,,240
+547,Franklin Township,2105,Warren County,40.7214598,-75.0377502,,,,,39
+548,Frelinghuysen Township,2106,Warren County,40.9684103,-74.8857989,,,,,6
+549,Greenwich Township,2107,Warren County,40.6826198,-75.1195107,,,,,299
+550,Hackettstown,2108,Warren County,40.8539879,-74.8290555,,,,,247
+551,Hardwick Township,2109,Warren County,41.0543894,-74.9326129,,,,,0
+552,Harmony Township,2110,Warren County,40.746765,-75.1373974,,,,,0
+553,Hope Township,2111,Warren County,40.9111182,-74.9673626,,,,,175
+554,Independence Township,2112,Warren County,40.8893883,-74.8857989,,,,,26
+555,Knowlton Township,2113,Warren County,40.9308948,-75.0273583,,,,,6
+556,Liberty Township,2114,Warren County,40.8591879,-74.955948,,,,,0
+557,Lopatcong Township,2115,Warren County,40.7127921,-75.1603752,,,,,0
+558,Mansfield Township,2116,Warren County,40.8217167,-74.8974925,,,,,234
+559,Oxford Township,2117,Warren County,40.8132568,-74.999813,,,,,65
+560,Phillipsburg,2119,Warren County,40.6937099,-75.1901761,,,,,344
+561,Pohatcong Township,2120,Warren County,40.6333553,-75.1603752,,,,,0
+562,Washington Borough,2121,Warren County,40.7584326,-74.9793378,,,,,162
+563,Washington Township,2122,Warren County,40.7699173,-74.988468,,,,,0
+564,White Township,2123,Warren County,40.8121949,-75.0494329,,,,,52
