@@ -1,0 +1,415 @@
+Rank,School,Address,City,Municipal ID,Zip,District,Full_Address,Latitude,Longitude,EduScore
+1,Matawan Regional High School,450 Atlantic Avenue,Aberdeen,1301,7747,Matawan-Aberdeen Regional School District,"450 Atlantic Avenue, Aberdeen, NJ 07747",40.4112981,-74.2224919,391
+2,Northern Highlands Regional High School,298 Hillside Ave,Allendale,201,7401,Northern Highlands Regional High School District,"298 Hillside Ave, Allendale, NJ 07401",41.0357203,-74.1437679,463
+3,Allentown High School,27 High Street,Allentown,1303,8501,Upper Freehold Regional School District,"27 High Street, Allentown, NJ 08501",40.1732018,-74.5868772,380
+4,Hunterdon County Academies,1445 State Route 31,Annandale,1006,8801,Hunterdon County Vocational School District,"1445 State Route 31, Annandale, NJ 08801",40.6280379,-74.8834779,490
+5,North Hunterdon High School,1445 State Route 31,Annandale,1006,8801,North Hunterdon-Voorhees Regional High School District,"1445 State Route 31, Annandale, NJ 08801",40.6280379,-74.8834779,407
+6,Asbury Park High School,1001 Sunset Avenue,Asbury Park,1304,7712,Asbury Park School District,"1001 Sunset Avenue, Asbury Park, NJ 07712",40.2284978,-74.0131736,99
+7,Winslow Township High School,10 Cooper Folly Road,Atco,435,8004,Winslow Township School District,"10 Cooper Folly Road, Atco, NJ 08004",39.7454119,-74.9070824,162
+8,Atlantic City High School,1400 N Albany Avenue,Atlantic City,102,8401,Atlantic City School District,"1400 N Albany Avenue, Atlantic City, NJ 08401",39.366993,-74.477057,74
+9,Audubon Junior/Senior High School,350 Edgewood Avenue,Audubon,101,8106,Audubon Public School Disrict,"350 Edgewood Avenue, Audubon, NJ 08106",39.8844852,-75.0757598,254
+10,Barnegat High School,180 Bengal Blvd,Barnegat,1501,8005,Barnegat Township School District,"180 Bengal Blvd, Barnegat, NJ 08005",39.7729881,-74.2346316,184
+11,Ridge High School,268 South Finley Avenue,Basking Ridge,1802,7920,Bernards Township School District,"268 South Finley Avenue, Basking Ridge, NJ 07920",40.6943602,-74.5468722,460
+12,Bayonne High School,669 Avenue A,Bayonne,901,7002,Bayonne School District,"669 Avenue A, Bayonne, NJ 07002",40.6717314,-74.1215821,249
+13,Central Regional High School,509 Forest Hills Parkway,Bayville,1505,8721,Central Regional School District,"509 Forest Hills Parkway, Bayville, NJ 08721",39.8894224,-74.2105845,178
+14,Belleville High School,100 Passaic Ave,Belleville,701,7109,Belleville Public Schools,"100 Passaic Ave, Belleville, NJ 07109",40.8029973,-74.161613,175
+15,Belvidere High School,809 Oxford Street,Belvidere,2103,7823,Belvidere School District,"809 Oxford Street, Belvidere, NJ 07823",40.8249316,-75.0666626,228
+16,Bergenfield High School,80 S Prospect Ave,Bergenfield,203,7621,Bergenfield Borough School District,"80 S Prospect Ave, Bergenfield, NJ 07621",40.9252031,-74.0074272,309
+17,Governor Livingston High School,175 Watchung Boulevard,Berkeley Heights,2001,7922,Berkeley Heights School District,"175 Watchung Boulevard, Berkeley Heights, NJ 07922",40.6871612,-74.3868788,371
+18,Bernards High School,25 Olcott Avenue,Bernardsville,1803,7924,Somerset Hills Regional School District,"25 Olcott Avenue, Bernardsville, NJ 07924",40.7213623,-74.5671292,338
+19,Highland Regional High School,450 Erial Road,Blackwood,414,8012,Black Horse Pike Regional School District,"450 Erial Road, Blackwood, NJ 08012",39.801545,-75.049102,199
+20,North Warren Regional School,10 Noe Rd,Blairstown,2104,7825,North Warren Regional School District,"10 Noe Rd, Blairstown, NJ 07825",40.981884,-74.9907997,256
+21,Bloomfield High School,160 Broad Street,Bloomfield,702,7003,Bloomfield Township School District,"160 Broad Street, Bloomfield, NJ 07003",40.7994581,-74.1974797,217
+22,Bogota Junior/Senior High School,2 Henry C Luthin Place,Bogota,204,7603,Bogota Public School District,"2 Henry C Luthin Place, Bogota, NJ 07603",40.8776442,-74.0233171,273
+23,Boonton High School,306 Lathrop Avenue,Boonton,1401,7005,Boonton Town School District,"306 Lathrop Avenue, Boonton, NJ 07005",40.903221,-74.403031,335
+24,Bordentown Regional High School,318 Ward Ave,Bordentown,303,8505,Bordentown Regional School District,"318 Ward Ave, Bordentown, NJ 08505",40.1543033,-74.6840267,157
+25,Bound Brook High School,111 West Union Avenue,Bound Brook,1804,8805,Bound Brook School District,"111 West Union Avenue, Bound Brook, NJ 08805",40.5676296,-74.5363497,76
+26,Brick Township High School,346 Chambers Bridge Rd,Brick,1507,8723,Brick Township Public School District,"346 Chambers Bridge Rd, Brick, NJ 08723",40.073183,-74.1531728,301
+27,Brick Township Memorial High School,2001 Lanes Mill Rd,Brick,1507,8724,Brick Township Public School District,"2001 Lanes Mill Rd, Brick, NJ 08724",40.104411,-74.1291093,248
+28,Cumberland Regional High School,90 Silver Lake Road,Bridgeton,601,8302,Cumberland Regional School District,"90 Silver Lake Road, Bridgeton, NJ 08302",39.474169,-75.223569,117
+29,Bridgeton High School,111 N West Avenue,Bridgeton,601,8302,Bridgeton City School District,"111 N West Avenue, Bridgeton, NJ 08302",39.4377182,-75.244895,28
+30,Somerset County Vocational Technical High School,14 Vogt Drive,Bridgewater,1806,8807,Somerset County Vocational and Technical School District,"14 Vogt Drive, Bridgewater, NJ 08807",40.5881365,-74.6045157,413
+31,Bridgewater-Raritan High School,600 Garretson Road,Bridgewater,1806,8807,Bridgewater-Raritan Regional School District,"600 Garretson Road, Bridgewater, NJ 08807",40.5928178,-74.633384,412
+32,Buena Regional High School,125 Weymouth Road,Buena,104,8310,Buena Regional School District,"125 Weymouth Road, Buena, NJ 08310",39.5363866,-74.9187764,130
+33,Burlington Township High School,610 Fountain Avenue,Burlington,305,8016,Burlington Township School District,"610 Fountain Avenue, Burlington, NJ 08016",40.0641382,-74.8353596,190
+34,Florence Township Memorial High School,1050 Cedar Lane,Burlington,305,8016,Florence Township School District,"1050 Cedar Lane, Burlington, NJ 08016",40.093616,-74.7934719,153
+35,Burlington City High School,100 Blue Devil WAy,Burlington,305,8016,Burlington City Public School District,"100 Blue Devil WAy, Burlington, NJ 08016",40.0701318,-74.8516419,123
+36,Butler High School,38 Bartholdi Avenue,Butler,1403,7405,Butler Public School District,"38 Bartholdi Avenue, Butler, NJ 07405",40.9977954,-74.3396392,351
+37,Dr. Charles E. Brimm Medical Arts High School,1626 Copewood Street,Camden,408,8103,Camden City School District,"1626 Copewood Street, Camden, NJ 08103",39.9236995,-75.0953337,126
+38,Creative Arts Morgan Village Academy,990 Morgan Boulevard,Camden,408,8104,Camden City School District,"990 Morgan Boulevard, Camden, NJ 08104",39.9130015,-75.1097454,106
+39,Freedom Prep Charter School,1000 Atlantic AVE,Camden,408,8104,Freedom Prep Charter School,"1000 Atlantic AVE, Camden, NJ 08104",39.9286174,-75.1079913,72
+40,Leap Academy University Charter School,130 North Broadway,Camden,408,8102,LEAP Academy University Charter School,"130 North Broadway, Camden, NJ 08102",39.9460794,-75.1183046,64
+41,Camden's Promise Charter School,879 Beideman Ave,Camden,408,8105,Camden's Promise Charter School,"879 Beideman Ave, Camden, NJ 08105",39.9575369,-75.0857651,48
+42,Woodrow Wilson High School,3100 Federal Street,Camden,408,8105,Camden City School District,"3100 Federal Street, Camden, NJ 08105",39.9466205,-75.0775176,27
+43,Camden Big Picture Learning Academy,1725 Park Boulevard,Camden,408,8103,Camden City School District,"1725 Park Boulevard, Camden, NJ 08103",39.9338598,-75.0974265,25
+44,Camden High School,1875 Park Boulevard,Camden,408,8103,Camden City School District,"1875 Park Boulevard, Camden, NJ 08103",39.9309249,-75.0953337,6
+45,Lower Cape May Regional High School,687 Rt 9,Cape May,502,8204,Lower Cape May Regional School District,"687 Rt 9, Cape May, NJ 08204",38.9770839,-74.9039934,250
+46,Middle Township High School,300 East Atlantic Avenue,Cape May Court House,506,8210,Middle Township Public School District,"300 East Atlantic Avenue, Cape May Court House, NJ 08210",39.0753845,-74.8193095,135
+47,Cape May County Technical High SChool,188 Crest Haven Rd,Cape May Court House,506,8210,Cape May County Technical High School District,"188 Crest Haven Rd, Cape May Court House, NJ 08210",39.1045804,-74.7984624,104
+48,Penns Grove High School,334 Harding Highway,Carneys Point,1702,8069,Penns Grove-Carneys Point Regional School District,"334 Harding Highway, Carneys Point, NJ 08069",39.7158329,-75.4580026,97
+49,Carteret High School,199 Washington Avenue,Carteret,1201,7008,Carteret Public School District,"199 Washington Avenue, Carteret, NJ 07008",40.58031,-74.2273786,122
+50,Cedar Grove High School,90 Rugby Road,Cedar Grove,704,7009,Cedar Grove Township School District,"90 Rugby Road, Cedar Grove, NJ 07009",40.8513707,-74.2233547,262
+51,Chatham High School,255 Lafayette Avenue,Chatham,1404,7928,School District of the Chathams,"255 Lafayette Avenue, Chatham, NJ 07928",40.7315069,-74.4006307,436
+52,Cherry Hill High School East,1750 Kresson Rd.,Cherry Hill,409,8003,Cherry Hill School District,"1750 Kresson Rd., Cherry Hill, NJ 08003",39.8766671,-74.9641666,405
+53,Cherry Hill High School West,2101 Chapel Ave.,Cherry Hill,409,8034,Cherry Hill School District,"2101 Chapel Ave., Cherry Hill, NJ 08034",39.9296442,-75.0200399,187
+54,West Morris Central High School,259 Bartley Road,Chester,1406,7930,West Morris Regional High School District,"259 Bartley Road, Chester, NJ 07930",40.8122949,-74.7292699,461
+55,Cinnaminson High School,1197 Riverton Road,Cinnaminson,308,8077,Cinnaminson Township Public Schools,"1197 Riverton Road, Cinnaminson, NJ 08077",40.00753,-74.9963978,402
+56,Arthur L. Johnson High School,365 Westfield Avenue,Clark,2002,7066,Clark Township Public School District,"365 Westfield Avenue, Clark, NJ 07066",40.622651,-74.312659,234
+57,Clayton High School,55 Pop Kramer Blvd,Clayton,801,8312,Clayton Public School District,"55 Pop Kramer Blvd, Clayton, NJ 08312",39.6603501,-75.0838539,94
+58,Cliffside Park High School,64 Riverview Avenue,Cliffside Park,206,7010,Cliffside Park School District,"64 Riverview Avenue, Cliffside Park, NJ 07010",40.8215275,-73.9866968,197
+59,Clifton High School,333 Colfax Avenue,Clifton,1602,7013,Clifton Public School District,"333 Colfax Avenue, Clifton, NJ 07013",40.8696445,-74.1633561,182
+60,Collingswood High School,424 Collings Ave,Collingswood,412,8108,Collingswood Public School District,"424 Collings Ave, Collingswood, NJ 08108",39.91276,-75.077313,236
+61,Colonia High School,East Street,Colonia,1225,7067,Woodbridge Township School District,"East Street, Colonia, NJ 07067",40.5964971,-74.319605,204
+62,Colts Neck High School,59 Five Points Road,Colts Neck,1310,7722,Freehold Regional High School District,"59 Five Points Road, Colts Neck, NJ 07722",40.2762786,-74.2089446,345
+63,Northern Burlington County Regional High School,160 Mansfield Road East,Columbus,318,8022,Northern Burlington County Regional School District,"160 Mansfield Road East, Columbus, NJ 08022",40.0882,-74.6855999,290
+64,Cranford High School,201 West End Place,Cranford,2003,7016,Cranford Public School District,"201 West End Place, Cranford, NJ 07016",40.6620994,-74.3132307,298
+65,Cresskill High School,1 Lincoln Dr,Cresskill,208,7626,Cresskill Public School District,"1 Lincoln Dr, Cresskill, NJ 07626",40.9482849,-73.9640858,424
+66,Delran High School,50 Hartford Road,Delran,310,8075,Delran Township School District,"50 Hartford Road, Delran, NJ 08075",40.0132905,-74.9440595,227
+67,Northern Valley Regional High School At Demarest,150 Knickerbocker Road,Demarest,209,7627,Northern Valley Regional High School District,"150 Knickerbocker Road, Demarest, NJ 07627",40.9625641,-73.9740798,477
+68,Morris County School of Technology,400 East Main Street,Denville,1408,7834,Morris County Vocational School District,"400 East Main Street, Denville, NJ 07834",40.8785707,-74.4791225,483
+69,Morris Knolls High School,50 Knoll Drive,Denville,1408,7834,Morris Hills Regional School District,"50 Knoll Drive, Denville, NJ 07834",40.8856444,-74.5085822,372
+70,Deptford Township High School,575 S Fox Run Rd,Deptford,802,8096,Deptford Township Public School District,"575 S Fox Run Rd, Deptford, NJ 08096",39.81183,-75.110807,226
+71,Dover High School,100 Grace Street,Dover,1409,7801,Dover Public School District,"100 Grace Street, Dover, NJ 07801",40.8979444,-74.559693,237
+72,Dumont High School,101 New Milford Ave,Dumont,210,7628,Dumont Public School District,"101 New Milford Ave, Dumont, NJ 07628",40.9436379,-73.99797,408
+73,Dunellen High School,411 First Street,Dunellen,1203,8812,Dunellen Public School District,"411 First Street, Dunellen, NJ 08812",40.5922364,-74.4680411,168
+74,East Brunswick High School,380 Cranbury Road,E Brunswick,1204,8816,East Brunswick Township School District,"380 Cranbury Road, E Brunswick, NJ 08816",40.4328315,-74.3982401,377
+75,Middlesex County Vocational School East Brunswick,112 Rues Lane,East Brunswick,1204,8816,Middlesex County Vocational and Technical School District,"112 Rues Lane, East Brunswick, NJ 08816",40.4220816,-74.3860123,144
+76,Middlesex County Vocational School East Bruns. School of Career Develop,112 Rues Lane,East Brunswick,1204,8816,Middlesex County Vocational and Technical School District,"112 Rues Lane, East Brunswick, NJ 08816",40.4220816,-74.3860123,24
+77,Hanover Park High School,63 Mt Pleasant Avenue,East Hanover,1410,7936,Hanover Park Regional High School District,"63 Mt Pleasant Avenue, East Hanover, NJ 07936",40.8041642,-74.3730725,403
+78,East Orange STEM Academy High School,129 Renshaw Avenue,East Orange,705,7017,East Orange School District,"129 Renshaw Avenue, East Orange, NJ 07017",40.7768634,-74.2037167,353
+79,Cicely L. Tyson Community Middle/High School,35 Winans Street,East Orange,705,7017,East Orange School District,"35 Winans Street, East Orange, NJ 07017",40.764012,-74.210664,188
+80,East Orange Campus High School,344 Prospect Street,East Orange,705,7017,East Orange School District,"344 Prospect Street, East Orange, NJ 07017",40.776098,-74.2074603,30
+81,Henry P. Becton Regional High School,120 Paterson Avenue,East Rutherford,212,7073,Carlstadt-East Rutherford Regional High School District,"120 Paterson Avenue, East Rutherford, NJ 07073",40.8322214,-74.0929792,150
+82,Middlesex County Vocational Academy Math Science &Engineering Techn,100 Technology Drive,Edison,1205,8837,Middlesex County Vocational and Technical School District,"100 Technology Drive, Edison, NJ 08837",40.5045558,-74.3695502,498
+83,John P. Stevens High School,855 Grove Avenue,Edison,1205,8820,Edison Township School District,"855 Grove Avenue, Edison, NJ 08820",40.5802663,-74.3614965,465
+84,Edison High School,50 Boulevard Of The Eagles,Edison,1205,8817,Edison Township School District,"50 Boulevard Of The Eagles, Edison, NJ 08817",40.5143871,-74.3863107,325
+85,Cedar Creek High School,1701 New York Ave.,Egg Harbor City,107,8215,Greater Egg Harbor Regional High School District,"1701 New York Ave., Egg Harbor City, NJ 08215",39.5517617,-74.6280383,200
+86,Egg Harbor Township High School,24 High School Drive,Egg Harbor Township,108,8234,Egg Harbor Township School District,"24 High School Drive, Egg Harbor Township, NJ 08234",39.3947754,-74.6285146,292
+87,Elizabeth High School - Frank J Cicarell Academy,40 Morrell Street,Elizabeth,2004,7202,Elizabeth Public Schools,"40 Morrell Street, Elizabeth, NJ 07202",40.6634263,-74.2105038,315
+88,Alexander Hamilton Preparatory Academy,310 Cherry St,Elizabeth,2004,7208,Elizabeth Public Schools,"310 Cherry St, Elizabeth, NJ 07208",40.6680001,-74.221922,216
+89,Thomas Jefferson Arts Academy,27 Martin Luther King Jr Plaza,Elizabeth,2004,7201,Elizabeth Public Schools,"27 Martin Luther King Jr Plaza, Elizabeth, NJ 07201",40.6627922,-74.2109136,107
+90,John E. Dwyer Technology Academy,123 Pearl St,Elizabeth,2004,7202,Elizabeth Public Schools,"123 Pearl St, Elizabeth, NJ 07202",40.6603569,-74.212429,52
+91,Thomas A. Edison Career and Technical Academy,625 Summer St,Elizabeth,2004,7202,Elizabeth Public Schools,"625 Summer St, Elizabeth, NJ 07202",40.6507362,-74.2116043,35
+92,J. Christian Bollwage Finance Academy,447 Richmond Street,Elizabeth,2004,7202,Elizabeth Public Schools,"447 Richmond Street, Elizabeth, NJ 07202",40.6448049,-74.2095864,33
+93,Admiral William F. Halsey Junior Health & Public Safety Academy,641 South Street,Elizabeth,2004,7202,Elizabeth Public Schools,"641 South Street, Elizabeth, NJ 07202",40.6591685,-74.2120274,31
+94,Memorial Senior High School,375 River Dr,Elmwood Park,1704,7407,Elmwood Park School District,"375 River Dr, Elmwood Park, NJ 07407",40.9095873,-74.1295931,180
+95,Emerson Junior Senior High,131 Main Street,Emerson,214,7630,Emerson Public School District,"131 Main Street, Emerson, NJ 07630",40.9726428,-74.0175265,313
+96,Dwight Morrow High School/Academies@Englewood,274 Knickerbocker Rd,Englewood,215,7631,Englewood Public School District,"274 Knickerbocker Rd, Englewood, NJ 07631",40.9073806,-73.9832784,205
+97,Manalapan High School,20 Church Lane,Englishtown,1313,7726,Freehold Regional High School District,"20 Church Lane, Englishtown, NJ 07726",40.290075,-74.3351859,258
+98,Timber Creek Regional High School,501 Jarvis Road,Erial,414,8081,Black Horse Pike Regional School District,"501 Jarvis Road, Erial, NJ 08081",39.7616794,-75.0178513,232
+99,Ewing High School,900 Parkway Ave,Ewing,1102,8618,Ewing Township School District,"900 Parkway Ave, Ewing, NJ 08618",40.25495,-74.7906435,105
+100,Trenton Stem-to-Civics Charter School,1555 Pennington Raod,Ewing,1102,8618,Trenton Stem-to-Civics Charter School,"1555 Pennington Raod, Ewing, NJ 08618",40.2519224,-74.7778907,34
+101,Fair Lawn High School,14 00 Berdan Avenue,Fair Lawn,217,7410,Fair Lawn Public School District,"14 00 Berdan Avenue, Fair Lawn, NJ 07410",40.9325867,-74.1245849,443
+102,Howell High School,405 Squankum Yellowbrook Road,Farmingdale,1315,7727,Freehold Regional High School District,"405 Squankum Yellowbrook Road, Farmingdale, NJ 07727",40.1862284,-74.1790427,203
+103,Mount Olive High School,18 Corey Road,Flanders,1427,7836,Mount Olive Township School District,"18 Corey Road, Flanders, NJ 07836",40.858616,-74.713984,364
+104,Hunterdon Central Regional High School District,84 Route 31,Flemington,1009,8822,Hunterdon Central Regional High School District,"84 Route 31, Flemington, NJ 08822",40.5171201,-74.851901,441
+105,Fort Lee High School,3000 Lemoine Ave,Fort Lee,219,7024,Fort Lee School District,"3000 Lemoine Ave, Fort Lee, NJ 07024",40.858348,-73.964789,327
+106,Ramapo High School,331 George Street,Franklin Lakes,220,7417,Ramapo Indian Hills Regional High School District,"331 George Street, Franklin Lakes, NJ 07417",40.9981332,-74.1926112,447
+107,Delsea Regional High School,242 Fries Mill Rd,Franklinville,805,8322,Delsea Regional High School District,"242 Fries Mill Rd, Franklinville, NJ 08322",39.6083488,-75.0653126,192
+108,Biotechnology High School,5000 Kozloski Road,Freehold,1316,7728,Monmouth County Vocational School District,"5000 Kozloski Road, Freehold, NJ 07728",40.2611895,-74.2510375,492
+109,Freehold Township High School,281 Elton Adelphia Road,Freehold,1316,7728,Freehold Regional High School District,"281 Elton Adelphia Road, Freehold, NJ 07728",40.2201507,-74.2826357,300
+110,Freehold Borough High School,2 Robertsville Road,Freehold,1316,7728,Freehold Regional High School District,"2 Robertsville Road, Freehold, NJ 07728",40.2677271,-74.268367,280
+111,Delaware Valley Regional High School,19 Senator Stout Rd,Frenchtown,1011,8825,Delaware Valley Regional High School District,"19 Senator Stout Rd, Frenchtown, NJ 08825",40.5626984,-75.0057424,373
+112,Absegami High School,201 S Wrangleboro Road,Galloway,111,8205,Greater Egg Harbor Regional High School District,"201 S Wrangleboro Road, Galloway, NJ 08205",39.4807236,-74.5161163,225
+113,Bergen Arts and Sciences Charter School,200 MacArthur Avenue,Garfield,221,7026,Bergen Arts and Science Charter School,"200 MacArthur Avenue, Garfield, NJ 07026",40.8741284,-74.0985314,379
+114,Garfield High School,500 Palisade Ave,Garfield,221,7026,Garfield Public School District,"500 Palisade Ave, Garfield, NJ 07026",40.8826883,-74.1125259,114
+115,Glassboro High School,560 Joseph L Bowe Blvd,Glassboro,806,8028,Glassboro School District,"560 Joseph L Bowe Blvd, Glassboro, NJ 08028",39.715868,-75.121398,149
+116,Voorhees High School,256 County Route 513,Glen Gardner,1012,8826,North Hunterdon-Voorhees Regional High School District,"256 County Route 513, Glen Gardner, NJ 08826",40.6957702,-74.8868766,401
+117,Glen Ridge High School,200 Ridgewood Ave,Glen Ridge,708,7028,Glen Ridge Public School District,"200 Ridgewood Ave, Glen Ridge, NJ 07028",40.7993268,-74.2064682,470
+118,Glen Rock High School,400 Hamilton Avenue,Glen Rock,222,7452,Glen Rock Public School District,"400 Hamilton Avenue, Glen Rock, NJ 07452",40.955201,-74.1226189,400
+119,Gloucester City Junior Senior High School,1300 Market Street,Gloucester City,414,8030,Gloucester City Public School District,"1300 Market Street, Gloucester City, NJ 08030",39.8851676,-75.1109651,244
+120,Bergen County Academies,200 Hackensack Avenue,Hackensack,223,7601,Bergen County Vocational Technical School District,"200 Hackensack Avenue, Hackensack, NJ 07601",40.9017414,-74.0335932,493
+121,Hackensack High School,First & Beech Streets,Hackensack,223,7601,Hackensack School District,"First & Beech Streets, Hackensack, NJ 07601",36.321633,-95.848855,215
+122,Hackettstown High School,599 Warren Street,Hackettstown,2108,7840,Hackettstown Public School District,"599 Warren Street, Hackettstown, NJ 07840",40.843186,-74.830174,339
+123,Haddon Heights Junior/Senior High School,301 Second Avenue,Haddon Heights,418,8035,HADDON HEIGHTS School District,"301 Second Avenue, Haddon Heights, NJ 08035",39.88413,-75.0502024,222
+124,Haddonfield Memorial High School,401 Kings Highway East,Haddonfield,417,8033,Haddonfield School District,"401 Kings Highway East, Haddonfield, NJ 08033",39.9019489,-75.0264294,459
+125,Passaic County-Manchester Regional High School,70 Church Street,Haledon,1603,7508,Passaic County Manchester Regional High School District,"70 Church Street, Haledon, NJ 07508",40.9415722,-74.1785841,83
+126,Wallkill Valley Regional High School,10 Grumm Road,Hamburg,1909,7419,Wallkill Valley Regional High School,"10 Grumm Road, Hamburg, NJ 07419",41.154101,-74.590924,202
+127,Hamilton East - Steinert,2900 Klockner Road,Hamilton,1103,8690,Hamilton Township Public School District,"2900 Klockner Road, Hamilton, NJ 08690",40.2162325,-74.6618173,173
+128,Hamilton North - Nottingham,1055 Klockner Road,Hamilton,1103,8619,Hamilton Township Public School District,"1055 Klockner Road, Hamilton, NJ 08619",40.2297455,-74.7092898,139
+129,Hamilton West-Watson,2720 South Clinton Avenue,Hamilton,1103,8610,Hamilton Township Public School District,"2720 South Clinton Avenue, Hamilton, NJ 08610",40.199059,-74.723361,121
+130,Hammonton High School,566 Old Forks Road,Hammonton,113,8037,Hammonton School District,"566 Old Forks Road, Hammonton, NJ 08037",39.6565046,-74.8073024,284
+131,Harrison High School,401 Kingsland Avenue,Harrison,904,7029,Harrison Public Schools,"401 Kingsland Avenue, Harrison, NJ 07029",40.7497787,-74.1476681,111
+132,Hasbrouck Heights High School,365 Boulevard,Hasbrouck Heights,225,7604,Hasbrouck Heights School District,"365 Boulevard, Hasbrouck Heights, NJ 07604",40.8667137,-74.0738908,349
+133,Hawthorne High School,160 Parmelee Avenue,Hawthorne,1604,7506,Hawthorne Public School District,"160 Parmelee Avenue, Hawthorne, NJ 07506",40.9533911,-74.1596865,233
+134,Raritan High School,419 Middle Road,Hazlet,1318,7730,Hazlet Township Public School District,"419 Middle Road, Hazlet, NJ 07730",40.4275234,-74.1513146,266
+135,Highland Park High School,102 North Fifth Avenue,Highland Park,1207,8904,Highland Park Boro School District,"102 North Fifth Avenue, Highland Park, NJ 08904",40.5025008,-74.4255851,238
+136,Marine Academy Of Science And Technology,305 Mast Way,Highlands,1319,7732,Monmouth County Vocational School District,"305 Mast Way, Highlands, NJ 07732",40.4602808,-73.9996845,479
+137,Henry Hudson Regional School,1 Grand Tour,Highlands,1319,7732,Henry Hudson Regional School District,"1 Grand Tour, Highlands, NJ 07732",40.3923689,-73.9852986,308
+138,Hightstown High School,25 Leshin Lane,Hightstown,1104,8520,East Windsor Regional School District,"25 Leshin Lane, Hightstown, NJ 08520",40.2608493,-74.5312858,239
+139,Hillsborough High School,466 Raider Boulevard,Hillsborough,1810,8844,Hillsborough Township Public School District,"466 Raider Boulevard, Hillsborough, NJ 08844",40.4961069,-74.6559624,423
+140,Pascack Valley High School,200 Piermont Avenue,Hillsdale,227,7642,Pascack Valley Regional High School District,"200 Piermont Avenue, Hillsdale, NJ 07642",41.0090971,-74.0290024,430
+141,Hillside High School,1085 Liberty Ave,Hillside,2007,7205,Hillside Public School District,"1085 Liberty Ave, Hillside, NJ 07205",40.6913258,-74.2360149,88
+142,Hoboken Charter School,713 Washington St,Hoboken,905,7030,Hoboken Charter School,"713 Washington St, Hoboken, NJ 07030",40.7452277,-74.0281532,145
+143,Hoboken High School,Ninth & Clinton Sts,Hoboken,905,7030,Hoboken Public School District,"Ninth & Clinton Sts, Hoboken, NJ 07030",40.7606894,-73.9703853,100
+144,Holmdel High School,36 Crawfords Corner Road,Holmdel,1320,7733,Holmdel Township School District,"36 Crawfords Corner Road, Holmdel, NJ 07733",40.3813183,-74.1787577,425
+145,Hopatcong High School,2A Windsor Ave,Hopatcong,1912,7843,Hopatcong Borough School District,"2A Windsor Ave, Hopatcong, NJ 07843",40.9266352,-74.6708538,112
+146,Irvington High School,1253 Clinton Ave,Irvington,709,7111,Irvington Public School District,"1253 Clinton Ave, Irvington, NJ 07111",40.7297385,-74.234324,29
+147,John F. Kennedy Memorial High School,200 Washington Avenue,Iselin,1225,8830,Woodbridge Township School District,"200 Washington Avenue, Iselin, NJ 08830",40.5724891,-74.3036398,291
+148,Jackson Memorial High School,101 Don Connor Boulevard,Jackson,1512,8527,Jackson Township School District,"101 Don Connor Boulevard, Jackson, NJ 08527",40.1071828,-74.3457318,272
+149,Jackson Liberty High School,125 North Hope Chapel Road,Jackson,1512,8527,Jackson Township School District,"125 North Hope Chapel Road, Jackson, NJ 08527",40.0893078,-74.2614617,170
+150,Dr Ronald McNair High School,123 Coles Street,Jersey City,906,7302,Jersey City Public Schools,"123 Coles Street, Jersey City, NJ 07302",40.7268302,-74.0474017,482
+151,Infinity Institute,193 Old Bergen Road,Jersey City,906,7305,Jersey City Public Schools,"193 Old Bergen Road, Jersey City, NJ 07305",40.6963392,-74.0941384,466
+152,County Prep High School,525 Montgomery Street,Jersey City,906,7306,Hudson County Schools of Technology School District,"525 Montgomery Street, Jersey City, NJ 07306",40.7216797,-74.059479,370
+153,Liberty High School,299 Sip Avenue,Jersey City,906,7306,Jersey City Public Schools,"299 Sip Avenue, Jersey City, NJ 07306",40.7324362,-74.0741188,365
+154,Innovation High School,239 Bergen Avenue,Jersey City,906,7305,Jersey City Public Schools,"239 Bergen Avenue, Jersey City, NJ 07305",40.7103941,-74.0846276,181
+155,Academy of Technology Design,525 Montgomery Street,Jersey City,906,7302,Hudson County Schools of Technology School District,"525 Montgomery Street, Jersey City, NJ 07302",40.7216797,-74.059479,91
+156,William L Dickinson High School,2 Palisade Ave,Jersey City,906,7306,Jersey City Public Schools,"2 Palisade Ave, Jersey City, NJ 07306",40.729802,-74.053841,81
+157,University Academy Charter High School,275 West Side Avenue,Jersey City,906,7305,University Academy Charter High School,"275 West Side Avenue, Jersey City, NJ 07305",40.712294,-74.0919894,62
+158,Henry Snyder High School,239 Bergen Ave,Jersey City,906,7305,Jersey City Public Schools,"239 Bergen Ave, Jersey City, NJ 07305",40.7103941,-74.0846276,60
+159,M.E.T.S. Charter School,211 Sherman Ave,Jersey City,906,7307,M.E.T.S. Charter School,"211 Sherman Ave, Jersey City, NJ 07307",40.7479383,-74.0451185,51
+160,Lincoln High School,60 Crescent Ave,Jersey City,906,7304,Jersey City Public Schools,"60 Crescent Ave, Jersey City, NJ 07304",40.7174208,-74.0700804,41
+161,James J Ferris High School,35 Colgate St,Jersey City,906,7302,Jersey City Public Schools,"35 Colgate St, Jersey City, NJ 07302",40.7217188,-74.0528731,39
+162,Keansburg High School,140 Port Monmouth Road,Keansburg,1323,7734,Keansburg School District,"140 Port Monmouth Road, Keansburg, NJ 07734",40.4399536,-74.1238641,65
+163,Kearny High School,336 Devon St,Kearny,907,7032,Kearny,"336 Devon St, Kearny, NJ 07032",40.7618388,-74.1472093,86
+164,David Brearley Middle/High School,401 Monroe Avenue,Kenilworth,2008,7033,Kenilworth School District,"401 Monroe Avenue, Kenilworth, NJ 07033",40.6797075,-74.2955015,93
+165,Keyport High School,351 Broad Street,Keyport,1324,7735,Keyport School District,"351 Broad Street, Keyport, NJ 07735",40.428409,-74.1961956,132
+166,Kinnelon High School,121 Kinnelon Road,Kinnelon,1415,7405,Kinnelon School District,"121 Kinnelon Road, Kinnelon, NJ 07405",40.9963753,-74.377956,426
+167,Academy Charter High School,1725 Main Street,Lake Como,1346,7719,Academy Charter High School,"1725 Main Street, Lake Como, NJ 07719",40.1712029,-74.0278548,77
+168,Lakewood High School,855 Somerset Avenue,Lakewood,1515,8701,Lakewood Township School District,"855 Somerset Avenue, Lakewood, NJ 08701",40.0992708,-74.1931363,66
+169,South Hunterdon Regional High School,301 Mt Airy Harbourton Rd,Lambertville,1017,8530,South Hunterdon Regional School District,"301 Mt Airy Harbourton Rd, Lambertville, NJ 08530",40.386799,-74.892948,316
+170,Lacey Township High School,73 Haines Street,Lanoka Harbor,1513,8734,Lacey Township School District,"73 Haines Street, Lanoka Harbor, NJ 08734",39.8606743,-74.1948641,179
+171,Lawrence High School,2525 Princeton Pike,Lawrenceville,1107,8648,Lawrence Township Public School District,"2525 Princeton Pike, Lawrenceville, NJ 08648",40.2648678,-74.7297736,268
+172,Leonia High School,100 Christie Heights Street,Leonia,229,7605,Leonia Public School District,"100 Christie Heights Street, Leonia, NJ 07605",40.870303,-73.9889034,385
+173,High Technology High School,765 Newman Springs Road,Lincroft,1332,7738,Monmouth County Vocational School District,"765 Newman Springs Road, Lincroft, NJ 07738",40.3263561,-74.1311317,488
+174,Linden High School,121 W St George Ave,Linden,2009,7036,Linden Public School District,"121 W St George Ave, Linden, NJ 07036",40.6347422,-74.2650663,101
+175,Lindenwold High School,801 Egg Harbor Road,Lindenwold,422,8021,Lindenwold Public School District,"801 Egg Harbor Road, Lindenwold, NJ 08021",39.820611,-74.9755382,45
+176,Mainland Regional High School,1301 Oak Avenue,Linwood,114,8221,Mainland Regional High School,"1301 Oak Avenue, Linwood, NJ 08221",39.3467747,-74.5774348,344
+177,Pinelands Regional High School,565 Nugentown Road,Little Egg Harbor,1517,8087,Pinelands Regional School District,"565 Nugentown Road, Little Egg Harbor, NJ 08087",39.6098794,-74.3596761,289
+178,Passaic Valley Regional High School,170 East Main Street,Little Falls,1605,7424,Passaic Valley Regional High School District #1,"170 East Main Street, Little Falls, NJ 07424",40.879005,-74.21701,246
+179,Red Bank Regional High School,101 Ridge Road,Little Silver,1325,7739,Red Bank Regional School District,"101 Ridge Road, Little Silver, NJ 07739",40.3496858,-74.0388763,389
+180,Livingston High School,30 Robert Harp Drive,Livingston,71,7039,Livingston Board of Education School District,"30 Robert Harp Drive, Livingston, NJ 07039",40.7839726,-74.3209948,454
+181,Lodi High School,99 Putnam Street,Lodi,231,7644,Lodi School District,"99 Putnam Street, Lodi, NJ 07644",40.8866422,-74.0870138,306
+182,Long Branch High School,404 Indiana Avenue,Long Branch,1327,7740,LONG BRANCH PUBLIC SCHOOL District,"404 Indiana Avenue, Long Branch, NJ 07740",40.2902774,-73.9901132,146
+183,Lyndhurst High School,400 Weart Avenue,Lyndhurst,232,7071,Lyndhurst School District,"400 Weart Avenue, Lyndhurst, NJ 07071",40.809043,-74.1272075,252
+184,Madison High School,170 Ridgedale Avenue,Madison,1417,7940,Madison Public School District,"170 Ridgedale Avenue, Madison, NJ 07940",40.76975,-74.4087761,437
+185,Mahwah High School,50 Ridge Road,Mahwah,233,7430,Mahwah Township Public School District,"50 Ridge Road, Mahwah, NJ 07430",41.0921068,-74.1581842,435
+186,Marine Academy of Technology and Environmental Science,195 Cedar Bridge Road,Manahawkin,1531,8050,Ocean County Vocational Technical School District,"195 Cedar Bridge Road, Manahawkin, NJ 08050",39.7162774,-74.255668,476
+187,Southern Regional High School,90 Cedar Bridge Road,Manahawkin,1531,8050,Southern Regional School District,"90 Cedar Bridge Road, Manahawkin, NJ 08050",39.7118241,-74.25388,229
+188,Manasquan High School,167 Broad Street,Manasquan,1329,8736,Manasquan School District,"167 Broad Street, Manasquan, NJ 08736",40.1276872,-74.0491983,383
+189,Manchester Township High School,101 S Colonial Dr,Manchester,1519,8759,Manchester Township School District,"101 S Colonial Dr, Manchester, NJ 08759",40.0055734,-74.3101712,169
+190,Manville High School,1100 Brooks Boulevard,Manville,1811,8835,Manville Board of Education,"1100 Brooks Boulevard, Manville, NJ 08835",40.5445655,-74.5982255,213
+191,Maple Shade High School,180 Frederick Ave,Maple Shade,319,8052,Maple Shade School District,"180 Frederick Ave, Maple Shade, NJ 08052",39.9477723,-75.006075,134
+192,Columbia High School,17 Parker Ave,Maplewood,711,7040,South Orange-Maplewood School District,"17 Parker Ave, Maplewood, NJ 07040",40.7354856,-74.2663475,341
+193,Marlboro High School,95 North Main Street,Marlboro,1330,7746,Freehold Regional High School District,"95 North Main Street, Marlboro, NJ 07746",40.329545,-74.2470946,420
+194,Cherokee High School,120 Tomlinson Mill Road,Marlton,313,8053,Lenape Regional High School District,"120 Tomlinson Mill Road, Marlton, NJ 08053",39.8738383,-74.8994508,303
+195,Old Bridge High School,4209 Route 516,Matawan,1331,7747,Old Bridge Township School District,"4209 Route 516, Matawan, NJ 07747",40.4069153,-74.2720614,221
+196,Atlantic County Institute of Technology,5080 Atlantic Avenue,Mays Landing,112,8330,Atlantic County Vocational School District,"5080 Atlantic Avenue, Mays Landing, NJ 08330",39.4422898,-74.6965544,223
+197,Oakcrest High School,1824 Dr Dennis Foreman Drive,Mays Landing,112,8330,Greater Egg Harbor Regional High School District,"1824 Dr Dennis Foreman Drive, Mays Landing, NJ 08330",39.4547918,-74.6755437,161
+198,Shawnee High School,600 Tabernacle Road,Medford,320,8055,Lenape Regional High School District,"600 Tabernacle Road, Medford, NJ 08055",39.855589,-74.7753636,362
+199,Lenape High School,235 Hartford Road,Medford,320,8055,Lenape Regional High School District,"235 Hartford Road, Medford, NJ 08055",39.9208626,-74.854551,293
+200,Burlington County Institute of Technology - Medford,10 Hawkin Road,Medford,320,8055,Burlington County Institute of Technology School District,"10 Hawkin Road, Medford, NJ 08055",39.8943912,-74.8026686,163
+201,West Morris Mendham High School,65 East Main Street,Mendham,1418,7945,West Morris Regional High School District,"65 East Main Street, Mendham, NJ 07945",40.7761621,-74.5920761,457
+202,Metuchen High School,400 Grove Ave,Metuchen,1209,8840,Metuchen Public School District,"400 Grove Ave, Metuchen, NJ 08840",40.5536644,-74.3544671,395
+203,Middlesex High School,300 John F. Kennedy Drive,Middlesex,1210,8846,Middlesex Borough School District,"300 John F. Kennedy Drive, Middlesex, NJ 08846",40.5824689,-74.4946344,367
+204,Middletown High School South,900 Nut Swamp Road,Middletown,1332,7748,Middletown Township Public School District,"900 Nut Swamp Road, Middletown, NJ 07748",40.3632816,-74.1151895,386
+205,Middletown High School North,63 Tindall Road,Middletown,1332,7748,Middletown Township Public School District,"63 Tindall Road, Middletown, NJ 07748",40.4023311,-74.0975797,174
+206,Midland Park Junior/Senior High School,250 Prospect St,Midland Park,235,7432,Midland Park School District,"250 Prospect St, Midland Park, NJ 07432",41.0001462,-74.1365664,397
+207,Millburn High School,462 Millburn Ave,Millburn,712,7041,Millburn Township School District,"462 Millburn Ave, Millburn, NJ 07041",40.7204896,-74.3156957,458
+208,Memorial High School,504 East Broad Street,Millville,610,8332,Millville School District,"504 East Broad Street, Millville, NJ 08332",39.4029937,-75.0325475,57
+209,South Brunswick High School,750 Ridge Road,Monmouth Junction,1221,8852,South Brunswick School District,"750 Ridge Road, Monmouth Junction, NJ 08852",40.3738104,-74.5640925,348
+210,Monroe Township High School,200 Schoolhouse Road,Monroe Township,811,8831,Monroe Township School District,"200 Schoolhouse Road, Monroe Township, NJ 08831",40.3279448,-74.4358921,374
+211,Montclair High School,100 Chestnut St,Montclair,713,7042,Montclair Public School District,"100 Chestnut St, Montclair, NJ 07042",40.8232208,-74.2128884,357
+212,Pascack Hills High School,225 West Grand Avenue,Montvale,236,7645,Pascack Valley Regional High School District,"225 West Grand Avenue, Montvale, NJ 07645",41.0495456,-74.0495917,473
+213,Montville Township High School,100 Horseneck Road,Montville,1421,7045,Montville Township School District,"100 Horseneck Road, Montville, NJ 07045",40.8933696,-74.3604198,444
+214,Moorestown High School,350 Bridgeboro Road,Moorestown,322,8057,Moorestown Township Public School District,"350 Bridgeboro Road, Moorestown, NJ 08057",39.9857575,-74.9446082,455
+215,Parsippany Hills High School,20 Rita Drive,Morris Plains,1423,7950,Parsippany-Troy Hills Township School District,"20 Rita Drive, Morris Plains, NJ 07950",40.86156,-74.4564095,411
+216,Morristown High School,50 Early Street,Morristown,1424,7960,Morris School District,"50 Early Street, Morristown, NJ 07960",40.8011472,-74.4864486,283
+217,Rancocas Valley Regional High School,520 Jacksonville Road,Mount Holly,323,8060,Rancocas Valley Regional High School District,"520 Jacksonville Road, Mount Holly, NJ 08060",40.0025146,-74.7829875,337
+218,Burlington County Alternative High School,1020 Briggs Road,Mount Laurel,324,8054,Burlington County Special Services School District,"1020 Briggs Road, Mount Laurel, NJ 08054",39.9718969,-74.8990455,2
+219,Academy for Biotechnology,96 Powerville Road,Mountain Lakes,1425,7046,Morris County Vocational School District,"96 Powerville Road, Mountain Lakes, NJ 07046",40.8952526,-74.4271898,486
+220,Mountain Lakes High School,96 Powerville Rd.,Mountain Lakes,1425,7046,Mountain Lakes Public School District,"96 Powerville Rd., Mountain Lakes, NJ 07046",40.8952526,-74.4271898,409
+221,Clearview Regional High School,625 Breakneck Rd,Mullica Hill,117,8062,Clearview Regional High School District,"625 Breakneck Rd, Mullica Hill, NJ 08062",39.7508447,-75.2064892,415
+222,Monmouth County Academy of Allied Health and Science,2325 Heck Avenue,Neptune,1334,7753,Monmouth County Vocational School District,"2325 Heck Avenue, Neptune, NJ 07753",40.2146818,-74.0378187,494
+223,Neptune High School,55 Neptune Boulevard,Neptune,1334,7753,Neptune Township School District,"55 Neptune Boulevard, Neptune, NJ 07753",40.2126432,-74.0362548,54
+224,New Brunswick High School,1000 Somerset St,New Brunswick,1213,8901,New Brunswick School District,"1000 Somerset St, New Brunswick, NJ 08901",40.4807916,-74.482053,71
+225,New Egypt High School,117 Evergreen Road,New Egypt,1524,8533,Plumsted Township School District,"117 Evergreen Road, New Egypt, NJ 08533",40.0802066,-74.529223,355
+226,New Milford High School,330 River Road,New Milford,238,7646,New Milford Public School District,"330 River Road, New Milford, NJ 07646",40.941883,-74.021696,347
+227,New Providence High School,35 Pioneer Dr,New Providence,2011,7974,New Providence School District,"35 Pioneer Dr, New Providence, NJ 07974",40.7006081,-74.4087203,467
+228,Technology High School,223 Broadway,Newark,714,7102,Newark Public School District,"223 Broadway, Newark, NJ 07102",40.7573799,-74.1690896,471
+229,Science Park High School,260 Norfolk Street,Newark,714,7102,Newark Public School District,"260 Norfolk Street, Newark, NJ 07102",40.739939,-74.1854638,429
+230,North Star Academy Charter School,10 Washington Place,Newark,714,7102,North Star Academy Charter School,"10 Washington Place, Newark, NJ 07102",40.7423008,-74.1699335,329
+231,Bard Early College High School,321 Bergen Street,Newark,714,7103,Newark Public School District,"321 Bergen Street, Newark, NJ 07103",40.7349262,-74.1954618,322
+232,Essex County Newark Technical,91 West Market Street,Newark,714,7103,Essex County Vocational Technical Schools,"91 West Market Street, Newark, NJ 07103",40.740262,-74.1817029,295
+233,Essex County Donald M. Payne Senior School of Technology,498-544 West Market St,Newark,714,7107,Essex County Vocational Technical Schools,"498-544 West Market St, Newark, NJ 07107",40.7506839,-74.1938246,278
+234,Great Oaks Legacy Charter School,24 Maiden Lane,Newark,714,7102,Great Oaks Legacy Charter School,"24 Maiden Lane, Newark, NJ 07102",40.7344063,-74.1749387,269
+235,TEAM Academy Charter School,60 Park Place,Newark,714,7102,TEAM Academy Charter School,"60 Park Place, Newark, NJ 07102",40.7382754,-74.1689062,165
+236,Arts High School,550 M L King Blvd,Newark,714,7102,Newark Public School District,"550 M L King Blvd, Newark, NJ 07102",40.7340495,-74.1800976,147
+237,American History High School,74 Montgomery St,Newark,714,7103,Newark Public School District,"74 Montgomery St, Newark, NJ 07103",40.730577,-74.1864728,75
+238,East Side High School,238 Van Buren St,Newark,714,7105,Newark Public School District,"238 Van Buren St, Newark, NJ 07105",40.7240215,-74.1587232,63
+239,University High School,55 Clinton Pl,Newark,714,7108,Newark Public School District,"55 Clinton Pl, Newark, NJ 07108",40.7213685,-74.2112375,59
+240,Peoples Preparatory Charter School,321 Bergen Street,Newark,714,7103,Peoples Preparatory Charter School District,"321 Bergen Street, Newark, NJ 07103",40.7349262,-74.1954618,42
+241,Malcolm X Shabazz High School,80 Johnson Ave,Newark,714,7108,Newark Public School District,"80 Johnson Ave, Newark, NJ 07108",40.7182491,-74.1917012,40
+242,Barringer Arts High School,90 Parker St,Newark,714,7104,Newark Public School District,"90 Parker St, Newark, NJ 07104",40.7554216,-74.179852,36
+243,LEAD Charter School,201 Bergen Street,Newark,714,7103,LEAD Charter School,"201 Bergen Street, Newark, NJ 07103",40.738519,-74.193546,23
+244,Weequahic High School,279 Chancellor Ave,Newark,714,7112,Newark Public School District,"279 Chancellor Ave, Newark, NJ 07112",40.7093041,-74.2200419,18
+245,Central High School,250 18th Avenue,Newark,714,7103,Newark Public School District,"250 18th Avenue, Newark, NJ 07103",40.7296139,-74.1935817,14
+246,Eagle Academy for Young Men of Newark,279 Chancellor Avenue,Newark,714,7112,Newark Public School District,"279 Chancellor Avenue, Newark, NJ 07112",40.7093041,-74.2200419,4
+247,Marion P. Thomas Charter School,88-108 Shipman Street,Newark,714,7102,Marion P. Thomas Charter School,"88-108 Shipman Street, Newark, NJ 07102",40.732852,-74.1798224,1
+248,Kittatinny Regional High School,77 Halsey Road,Newton,1915,7860,Kittatinny Regional School District,"77 Halsey Road, Newton, NJ 07860",41.0879186,-74.7435225,361
+249,Newton High School,44 Ryerson Avenue,Newton,1915,7860,Newton Public School District,"44 Ryerson Avenue, Newton, NJ 07860",41.0508407,-74.7604988,260
+250,North Arlington High School,222 Ridge Road,North Arlington,239,7031,North Arlington School District,"222 Ridge Road, North Arlington, NJ 07031",40.7890856,-74.1323458,155
+251,North Bergen High School,7417 Kennedy Blvd,North Bergen,908,7047,North Bergen School District,"7417 Kennedy Blvd, North Bergen, NJ 07047",40.8015384,-74.0139459,85
+252,North Brunswick Township High School,98 Raider Road,North Brunswick,1214,8902,North Brunswick Township School District,"98 Raider Road, North Brunswick, NJ 08902",40.45293,-74.4692317,186
+253,West Essex High School,65 West Greenbrook Rd,North Caldwell,715,7006,West Essex Regional School District,"65 West Greenbrook Rd, North Caldwell, NJ 07006",40.8745177,-74.2692037,452
+254,North Plainfield Middle School,34 Wilson Avenue,North Plainfield,1814,7060,North Plainfield School District,"34 Wilson Avenue, North Plainfield, NJ 07060",40.62277,-74.438452,140
+255,Nutley High School,300 Franklin Ave,Nutley,716,7110,Nutley Public School District,"300 Franklin Ave, Nutley, NJ 07110",40.8172969,-74.1601452,330
+256,Academy for Environmental Science,1010 Weldon Road,Oak Ridge,1615,7438,Morris County Vocational School District,"1010 Weldon Road, Oak Ridge, NJ 07438",41.0165134,-74.5535337,478
+257,Jefferson Township High School,1010 Weldon Rd Rd2,Oak Ridge,1615,7438,Jefferson Township Public School District,"1010 Weldon Rd Rd2, Oak Ridge, NJ 07438",41.016582,-74.5527361,263
+258,Ocean Township High School,550 West Park Avenue,Oakhurst,1337,7755,Township of Ocean School District,"550 West Park Avenue, Oakhurst, NJ 07755",40.2671832,-74.0293352,220
+259,Indian Hills High School,97 Yawpo Ave,Oakland,242,7436,Ramapo Indian Hills Regional High School District,"97 Yawpo Ave, Oakland, NJ 07436",41.022626,-74.23127,438
+260,Ocean City High School,501 Atlantic Avenue,Ocean City,508,8226,Ocean City School District,"501 Atlantic Avenue, Ocean City, NJ 08226",39.2798001,-74.5673819,285
+261,Northern Valley Regional High School at Old Tappan,140 Central Avenue,Old Tappan,243,7675,Northern Valley Regional High School District,"140 Central Avenue, Old Tappan, NJ 07675",41.009123,-73.97879,469
+262,River Dell Regional High School,55 Pyle Street,Oradell,244,7649,River Dell Regional School District,"55 Pyle Street, Oradell, NJ 07649",40.9443083,-74.0363466,464
+263,Orange High School,400 Lincoln Ave,Orange,717,7050,Orange Board Of Education School District,"400 Lincoln Ave, Orange, NJ 07050",40.7658026,-74.2395074,115
+264,Palisades Park Junior-Senior High School,Veterans Plaza,Palisades Park,245,7650,Palisades Park School District,"Veterans Plaza, Palisades Park, NJ 07650",40.8387582,-73.9938533,167
+265,Palmyra High School,5th & Weart Boulevard,Palmyra,327,8065,Palmyra Public School District,"5th & Weart Boulevard, Palmyra, NJ 08065",36.8820451,-94.8783414,196
+266,Applied Technology High School,400 Paramus Road,Paramus,246,7652,Bergen County Vocational Technical School District,"400 Paramus Road, Paramus, NJ 07652",40.9516735,-74.0939011,440
+267,Paramus High School,99 East Century Road,Paramus,246,7652,Paramus Public School District,"99 East Century Road, Paramus, NJ 07652",40.9283274,-74.0612748,376
+268,Park Ridge High School,2 Park Ave,Park Ridge,247,7656,Park Ridge School District,"2 Park Ave, Park Ridge, NJ 07656",41.0346734,-74.0427237,431
+269,Sayreville War Memorial High School,820 Washington Road,Parlin,1219,8859,Sayreville School District,"820 Washington Road, Parlin, NJ 08859",40.4630356,-74.3172733,176
+270,Parsippany High School,309 Baldwin Rd,Parsippany,1429,7054,Parsippany-Troy Hills Township School District,"309 Baldwin Rd, Parsippany, NJ 07054",40.8697257,-74.3919421,393
+271,Passaic Arts and Science Charter School,7 St. Francis Way,Passaic,1607,7055,Passaic Arts and Science Charter School,"7 St. Francis Way, Passaic, NJ 07055",40.8590314,-74.123216,194
+272,Passaic High School No. 12,170 Paulison Ave.,Passaic,1607,7055,Passaic City School District,"170 Paulison Ave., Passaic, NJ 07055",40.8567838,-74.1276323,11
+273,Paterson Charter School for Science/Technology,196 West Railway Avenue,Paterson,1608,7503,Paterson Charter School for Science and Technology,"196 West Railway Avenue, Paterson, NJ 07503",40.8959184,-74.1550994,129
+274,Garrett Morgan Academy,200 Grand Street,Paterson,1608,7501,Paterson Public School District,"200 Grand Street, Paterson, NJ 07501",40.9093835,-74.1796848,89
+275,International High School,200 Grand Street,Paterson,1608,7501,Paterson Public School District,"200 Grand Street, Paterson, NJ 07501",40.9093835,-74.1796848,82
+276,School Of Earth And Space Science,201 Memorial Drive,Paterson,1608,7505,Paterson Public School District,"201 Memorial Drive, Paterson, NJ 07505",40.9166966,-74.1681264,70
+277,School of Health Science,5-7 Colt St,Paterson,1608,7505,Paterson Public School District,"5-7 Colt St, Paterson, NJ 07505",40.9170996,-74.1713061,58
+278,School Of Science Technology Engineering And Mathematics,61-127 Preakness Avenue,Paterson,1608,7502,Paterson Public School District,"61-127 Preakness Avenue, Paterson, NJ 07502",40.9145333,-74.1872983,50
+279,Rosa L. Parks School of Fine and Performing Arts,413 12th Avenue,Paterson,1608,7514,Paterson Public School District,"413 12th Avenue, Paterson, NJ 07514",40.9207407,-74.1464754,43
+280,School of Business Technology Marketing and Finance,61-127 Preakness Avenue,Paterson,1608,7502,Paterson Public School District,"61-127 Preakness Avenue, Paterson, NJ 07502",40.9145333,-74.1872983,22
+281,Alternative High School,350 Market Street,Paterson,1608,7501,Paterson Public School District,"350 Market Street, Paterson, NJ 07501",40.9143119,-74.1638507,17
+282,School Of Information Technology,150 Park Avenue,Paterson,1608,7501,Paterson Public School District,"150 Park Avenue, Paterson, NJ 07501",40.9143052,-74.15987,16
+283,School Of Culinary Arts Hospitality And Tourism,150 Park Avenue,Paterson,1608,7501,Paterson Public School District,"150 Park Avenue, Paterson, NJ 07501",40.9143052,-74.15987,12
+284,School Of Education And Training,61-127 Preakness Avenue,Paterson,1608,7502,Paterson Public School District,"61-127 Preakness Avenue, Paterson, NJ 07502",40.9145333,-74.1872983,10
+285,School Of Architecture And Construction Trades,61-127 Preakness Avenue,Paterson,1608,7502,Paterson Public School District,"61-127 Preakness Avenue, Paterson, NJ 07502",40.9145333,-74.1872983,8
+286,School of Government and Public Administration,150 Park Avenue,Paterson,1608,7501,Paterson Public School District,"150 Park Avenue, Paterson, NJ 07501",40.9143052,-74.15987,5
+287,Paulsboro High School,670 N Delaware St,Paulsboro,814,8066,Paulsboro School District,"670 N Delaware St, Paulsboro, NJ 08066",39.8368692,-75.2448026,19
+288,Pemberton Township High School,148 Arneys Mount Road,Pemberton,328,8068,Pemberton Township School District,"148 Arneys Mount Road, Pemberton, NJ 08068",39.9928022,-74.6858262,110
+289,Mercer County Technical School STEM Academy,229 Bull Run Road,Pennington,1108,8534,Area Vocational Technical Schools of Mercer County,"229 Bull Run Road, Pennington, NJ 08534",40.2888417,-74.7828448,399
+290,Hopewell Valley Central High School,259 Pennington Titusville Rd,Pennington,1108,8534,Hopewell Valley Regional School District,"259 Pennington Titusville Rd, Pennington, NJ 08534",40.327897,-74.8040552,356
+291,Mercer County Technical School Culinary Arts Academy,129 Bull Run Road,Pennington,1108,8534,Area Vocational Technical Schools of Mercer County,"129 Bull Run Road, Pennington, NJ 08534",40.2866799,-74.768413,92
+292,Camden County Technical School-Pennsauken,6008 Browning Road,Pennsauken,427,8109,Camden County Technical School District,"6008 Browning Road, Pennsauken, NJ 08109",39.9392068,-75.0668952,127
+293,Pennsauken High School,800 Hylton Road,Pennsauken,427,8110,Pennsauken Township Board Of Education School District,"800 Hylton Road, Pennsauken, NJ 08110",39.986962,-75.026188,37
+294,Pennsville Memorial High School,110 S Broadway,Pennsville,1709,8070,Pennsville Public School District,"110 S Broadway, Pennsville, NJ 08070",39.6510907,-75.5178918,118
+295,Middlesex County Vocational School Perth Amboy,457 High Street,Perth Amboy,1216,8861,Middlesex County Vocational and Technical School District,"457 High Street, Perth Amboy, NJ 08861",40.5141188,-74.2628199,171
+296,Perth Amboy High School,300 Eagle Ave,Perth Amboy,1216,8861,Perth Amboy Public School District,"300 Eagle Ave, Perth Amboy, NJ 08861",40.5236523,-74.2702924,138
+297,Academy for Urban Leadership Charter School,612 Amboy Ave,Perth Amboy,1216,8861,Academy for Urban Leadership Charter School,"612 Amboy Ave, Perth Amboy, NJ 08861",40.5210369,-74.2757477,79
+298,Phillipsburg High School,1 Stateliner Blvd.,Phillipsburg,2119,8865,Phillipsburg School District,"1 Stateliner Blvd., Phillipsburg, NJ 08865",40.7145973,-75.1832095,296
+299,Overbrook Senior High School,1200 Turnersville Road,Pine Hill,428,8021,Pine Hill School District,"1200 Turnersville Road, Pine Hill, NJ 08021",39.7778281,-74.9659929,133
+300,Piscataway Township High School,100 Behmer Road,Piscataway,1217,8854,Piscataway Township School District,"100 Behmer Road, Piscataway, NJ 08854",40.5457326,-74.4710634,287
+301,Middlesex County Vocational School Piscataway,21 Suttons Lane,Piscataway,1217,8854,Middlesex County Vocational and Technical School District,"21 Suttons Lane, Piscataway, NJ 08854",40.5249182,-74.4281013,128
+302,Pitman High School,225 Linden Avenue,Pitman,815,8071,Pitman Boro School District,"225 Linden Avenue, Pitman, NJ 08071",39.7406336,-75.1270824,243
+303,Arthur P. Schalick High School,718 Centerton Road,Pittsgrove,1711,8318,Pittsgrove Township School District,"718 Centerton Road, Pittsgrove, NJ 08318",39.5288419,-75.1631113,136
+304,Plainfield Academy For The Arts & Advanced Studies,1700 West Front St,Plainfield,2012,7063,Plainfield Public School District,"1700 West Front St, Plainfield, NJ 07063",40.597847,-74.4550484,208
+305,Union County TEAMS Charter School,515 517 West Fourth Street,Plainfield,2012,7060,Union County TEAMS Charter School-High School/College LA,"515 517 West Fourth Street, Plainfield, NJ 07060",40.6119038,-74.4258677,159
+306,The Barack Obama Green Charter High School,35 Watchung ave,Plainfield,2012,7060,The Barack Obama Green Charter High School District,"35 Watchung ave, Plainfield, NJ 07060",40.6205342,-74.4232781,116
+307,Plainfield High School,950 Park Avenue,Plainfield,2012,7060,Plainfield Public School District,"950 Park Avenue, Plainfield, NJ 07060",40.6114376,-74.413301,47
+308,West Windsor-Plainsboro High School North,90 Grovers Mill Road,Plainsboro,1218,8536,West Windsor-Plainsboro Regional School District,"90 Grovers Mill Road, Plainsboro, NJ 08536",40.3224272,-74.6006964,417
+309,Pleasantville High School,701 Mill Road,Pleasantville,119,8232,Pleasantville Public School District,"701 Mill Road, Pleasantville, NJ 08232",39.406362,-74.52615,7
+310,Point Pleasant Beach High School,700 Trenton Avenue,Point Pleasant Beach,1526,8742,Point Pleasant Beach School District,"700 Trenton Avenue, Point Pleasant Beach, NJ 08742",40.0888635,-74.0521586,378
+311,Point Pleasant Borough High School,Laura Herbert Dr,Point Pleasant Beach,1526,8742,Point Pleasant Borough School District,"Laura Herbert Dr, Point Pleasant Beach, NJ 08742",40.079162,-74.0718299,324
+312,Pompton Lakes High School,44 Lakeside Avenue,Pompton Lakes,1525,7442,Pompton Lakes School District,"44 Lakeside Avenue, Pompton Lakes, NJ 07442",41.0045131,-74.2886286,368
+313,Pequannock Township High School,85 Sunset Road,Pompton Plains,1431,7444,Pequannock Township School District,"85 Sunset Road, Pompton Plains, NJ 07444",40.9605569,-74.3056796,434
+314,Princeton High School,151 Moore Street,Princeton,1114,8540,Princeton Public Schools,"151 Moore Street, Princeton, NJ 08540",40.3572615,-74.6555009,396
+315,Rahway High School,1012 Madison Ave,Rahway,2013,7065,Rahway Public School District,"1012 Madison Ave, Rahway, NJ 07065",40.6108308,-74.2941291,56
+316,Ramsey High School,256 E Main Street,Ramsey,248,7446,Ramsey School District,"256 E Main Street, Ramsey, NJ 07446",41.0568526,-74.1344231,418
+317,Randolph High School,511 Millbrook Avenue,Randolph,1432,7869,Randolph Township School District,"511 Millbrook Avenue, Randolph, NJ 07869",40.8464632,-74.5666272,382
+318,Ridgefield Memorial High School,555 Walnut St,Ridgefield,249,7657,Ridgefield School District,"555 Walnut St, Ridgefield, NJ 07657",40.8309951,-73.9998064,297
+319,Ridgefield Park Junior Senior High School,1 Ozzie Nelson Drive,Ridgefield Park,250,7660,Ridgefield Park School District,"1 Ozzie Nelson Drive, Ridgefield Park, NJ 07660",40.8587951,-74.0139041,219
+320,Ridgewood High School,627 East Ridgewood Ave,Ridgewood,251,7451,Ridgewood Public School District,"627 East Ridgewood Ave, Ridgewood, NJ 07451",40.977754,-74.105593,448
+321,Riverside High School,112 E Washington Street,Riverside,330,8075,Riverside Township School District,"112 E Washington Street, Riverside, NJ 08075",40.0340813,-74.9553087,69
+322,Robbinsville High School,155 Robbinsville Edinburg Rd,Robbinsville,1112,8691,Robbinsville Public Schools,"155 Robbinsville Edinburg Rd, Robbinsville, NJ 08691",40.2381163,-74.6182663,414
+323,Academy for Mathematics Science and Engineering,520 West Main Street,Rockaway,1434,7866,Morris County Vocational School District,"520 West Main Street, Rockaway, NJ 07866",40.890836,-74.52918,487
+324,Morris Hills High School,520 West Main Street,Rockaway,1434,7866,Morris Hills Regional School District,"520 West Main Street, Rockaway, NJ 07866",40.890836,-74.52918,326
+325,Abraham Clark High School,122 East 6th Ave,Roselle,2014,7203,Roselle Public Schools,"122 East 6th Ave, Roselle, NJ 07203",40.653543,-74.2616738,53
+326,Roselle Park High School,185 W Webster Ave,Roselle Park,2015,7204,Roselle Park Public School District,"185 W Webster Ave, Roselle Park, NJ 07204",40.6660149,-74.2713821,207
+327,Rumson-Fair Haven Regional High School,74 Ridge Road,Rumson,1341,7760,Rumson-Fair Haven Regional High School District,"74 Ridge Road, Rumson, NJ 07760",40.3692353,-74.0019122,421
+328,Triton Regional High School,250 Schubert Ave,Runnemede,430,8078,Black Horse Pike Regional School District,"250 Schubert Ave, Runnemede, NJ 08078",39.8493802,-75.0622801,209
+329,Rutherford High School,56 Elliott Pl,Rutherford,256,7070,Rutherford School District,"56 Elliott Pl, Rutherford, NJ 07070",40.8288417,-74.1083965,318
+330,Saddle Brook Middle/High School,355 Mayhill Street,Saddle Brook,257,7663,Saddle Brook School District,"355 Mayhill Street, Saddle Brook, NJ 07663",40.9049018,-74.0908684,302
+331,Salem High School,219 Walnut St,Salem,1713,8079,Salem City School District,"219 Walnut St, Salem, NJ 08079",39.5607665,-75.4836415,87
+332,Academy For Information Technology,1776 Raritan Road,Scotch Plains,2016,7076,Union County Vocational-Technical School District,"1776 Raritan Road, Scotch Plains, NJ 07076",40.6180513,-74.3570355,500
+333,Union County Magnet High School,1776 Raritan Road,Scotch Plains,2016,7076,Union County Vocational-Technical School District,"1776 Raritan Road, Scotch Plains, NJ 07076",40.6180513,-74.3570355,499
+334,Academy For Allied Health Sciences,1776 Raritan Road,Scotch Plains,2016,7076,Union County Vocational-Technical School District,"1776 Raritan Road, Scotch Plains, NJ 07076",40.6180513,-74.3570355,496
+335,Union County Technical,1776 Raritan Rd,Scotch Plains,2016,7076,Union County Vocational-Technical School District,"1776 Raritan Rd, Scotch Plains, NJ 07076",40.6180513,-74.3570355,489
+336,Academy For Performing Arts,1776 Raritan Road,Scotch Plains,2016,7076,Union County Vocational-Technical School District,"1776 Raritan Road, Scotch Plains, NJ 07076",40.6180513,-74.3570355,472
+337,Scotch Plains-Fanwood High School,667 Westfield Road,Scotch Plains,2016,7076,Scotch Plains-Fanwood School District,"667 Westfield Road, Scotch Plains, NJ 07076",40.6530424,-74.3850627,406
+338,Secaucus High School,11 Mill Ridge Road,Secaucus,909,7094,Secaucus School District,"11 Mill Ridge Road, Secaucus, NJ 07094",40.8033613,-74.0508855,314
+339,High Technical High School,1 High Tech Way,Secaucus,909,7094,Hudson County Schools of Technology School District,"1 High Tech Way, Secaucus, NJ 07094",40.7611192,-74.0828525,312
+340,Gloucester County Institute of Technology,1360 Tanyard Road,Sewell,810,8080,Gloucester County Vocational-Technical School District,"1360 Tanyard Road, Sewell, NJ 08080",39.7882239,-75.1234675,332
+341,Washington Township High School,519 Hurffville Crosskeys Rd,Sewell,810,8080,Washington Township School District,"519 Hurffville Crosskeys Rd, Sewell, NJ 08080",39.7421989,-75.0767266,185
+342,Camden County Technical School-GTC,343 Berlin Cross Keys Road,Sicklerville,436,8081,Camden County Technical School District,"343 Berlin Cross Keys Road, Sicklerville, NJ 08081",39.765079,-74.975851,193
+343,Montgomery High School,1016 Route 601,Skillman,1813,8558,Montgomery Township School District,"1016 Route 601, Skillman, NJ 08558",40.4174592,-74.7064384,453
+344,Sterling High School,501 South Warwick Road,Somerdale,431,8083,Sterling Regional School District,"501 South Warwick Road, Somerdale, NJ 08083",39.8360706,-75.0258842,95
+345,Chartertech High School for the Performing Arts,413 New Road,Somers Point,121,8244,Chartertech High School for the Performing Arts,"413 New Road, Somers Point, NJ 08244",39.3273841,-74.6000558,80
+346,Central Jersey College Prep Charter School,101 Mettlers Road,Somerset,1801,8873,Central Jersey College Prep Charter School,"101 Mettlers Road, Somerset, NJ 08873",40.5136425,-74.5655513,432
+347,Franklin High School,500 Elizabeth Avenue,Somerset,1801,8873,Franklin Township Public Schools,"500 Elizabeth Avenue, Somerset, NJ 08873",40.5202296,-74.55237,255
+348,Somerville High School,222 Davenport St.,Somerville,1818,8876,Somerville Public School District,"222 Davenport St., Somerville, NJ 08876",40.578621,-74.611487,231
+349,South Amboy Middle/High School,200 Governor Harold G Hoffman,South Amboy,1220,8879,South Amboy School District,"200 Governor Harold G Hoffman, South Amboy, NJ 08879",40.4814528,-74.2741291,109
+350,South Plainfield High School,200 Lake Street,South Plainfield,1222,7080,South Plainfield School District,"200 Lake Street, South Plainfield, NJ 07080",40.5891604,-74.4124407,271
+351,South River High School,11 Montgomery Street,South River,1223,8882,South River Public School District,"11 Montgomery Street, South River, NJ 08882",40.4395491,-74.3804649,156
+352,Sparta High School,70 West Mountain Road,Sparta,1918,7871,Sparta Township Public School District,"70 West Mountain Road, Sparta, NJ 07871",41.0542749,-74.624737,394
+353,Sussex County Technical School,105 North Church Road,Sparta,1918,7871,Sussex County Technical School District,"105 North Church Road, Sparta, NJ 07871",41.0974433,-74.6521228,211
+354,Spotswood High School,105 Summerhill Road,Spotswood,1224,8884,Spotswood Public School District,"105 Summerhill Road, Spotswood, NJ 08884",40.3985818,-74.3884155,310
+355,Jonathan Dayton High School,139 Mountain Ave.,Springfield,2017,7081,Springfield Public School District,"139 Mountain Ave., Springfield, NJ 07081",40.7061943,-74.3142961,242
+356,Lenape Valley Regional High School,28 Sparta Road,Stanhope,1919,7874,Lenape Valley Regional High School District,"28 Sparta Road, Stanhope, NJ 07874",40.91974,-74.700322,359
+357,Roxbury High School,One Bryant Drive,Succasunna,1436,7876,Roxbury Township School District,"One Bryant Drive, Succasunna, NJ 07876",40.8619227,-74.6407752,331
+358,Summit High School,125 Kent Place Blvd,Summit,2018,7901,Summit Public School District,"125 Kent Place Blvd, Summit, NJ 07901",40.720822,-74.370617,475
+359,High Point Regional High School District,299 Pidgeon Hill Road,Sussex,1921,7461,High Point Regional High School District,"299 Pidgeon Hill Road, Sussex, NJ 07461",41.1998479,-74.6461236,320
+360,Seneca High School,110 Carranza Road,Tabernacle,335,8088,Lenape Regional High School District,"110 Carranza Road, Tabernacle, NJ 08088",39.8573385,-74.717795,274
+361,Teaneck High School,100 Elizabeth Ave,Teaneck,260,7666,Teaneck School District,"100 Elizabeth Ave, Teaneck, NJ 07666",40.8911578,-74.0083768,275
+362,Tenafly High School,19 Columbus Drive,Tenafly,261,7670,Tenafly Public School District,"19 Columbus Drive, Tenafly, NJ 07670",40.9332115,-73.9662898,450
+363,Bergen County Technical High School - Teterboro,504 Route 46 West,Teterboro,262,7608,Bergen County Vocational Technical School District,"504 Route 46 West, Teterboro, NJ 07608",40.8604412,-74.0547977,484
+364,Monmouth Regional High School,One Norman J Field Way,Tinton Falls,1349,7724,Monmouth Regional High School,"One Norman J Field Way, Tinton Falls, NJ 07724",40.303775,-74.091048,261
+365,Toms River High School North,1245 Old Freehold Road,Toms River,1508,8753,Toms River Regional School District,"1245 Old Freehold Road, Toms River, NJ 08753",39.9823146,-74.1918678,264
+366,Toms River High School East,1225 Raider Way,Toms River,1508,8753,Toms River Regional School District,"1225 Raider Way, Toms River, NJ 08753",39.9649789,-74.141908,214
+367,Toms River High School South,55 Hyers Street,Toms River,1508,8753,Toms River Regional School District,"55 Hyers Street, Toms River, NJ 08753",39.955879,-74.195262,164
+368,Westwood Junior/Senior High School,701 Ridgewood Road,Township Of Washington,267,7676,Westwood Regional School District,"701 Ridgewood Road, Township Of Washington, NJ 07676",40.9796629,-74.0611312,366
+369,Mercer County Technical School Health Sciences Academy,1085 Old Trenton Road,Trenton,1111,8690,Area Vocational Technical Schools of Mercer County,"1085 Old Trenton Road, Trenton, NJ 08690",40.2492664,-74.6536295,350
+370,Foundation Academy Charter School,363 West State Street,Trenton,1111,8608,Foundation Academy Charter School,"363 West State Street, Trenton, NJ 08608",40.22375,-74.7773196,307
+371,Trenton Central High School - Main Campus,171 Division Street,Trenton,1111,8611,Trenton Public School District,"171 Division Street, Trenton, NJ 08611",40.2119251,-74.7455255,46
+372,Daylight/Twilight High School,501 Edgewood Avenue,Trenton,1111,8618,Trenton Public School District,"501 Edgewood Avenue, Trenton, NJ 08618",40.2284489,-74.7803364,13
+373,Union High School,2350 North Third Street,Union,2019,7083,Township of Union School District,"2350 North Third Street, Union, NJ 07083",40.7035758,-74.2837697,240
+374,Union City High School,2500 Kennedy Blvd,Union City,910,7087,Union City School District,"2500 Kennedy Blvd, Union City, NJ 07087",40.7703761,-74.0367623,281
+375,Vernon Township High School,1832 Route 565,Vernon,1922,7462,Vernon Township School District,"1832 Route 565, Vernon, NJ 07462",41.1946438,-74.6252779,304
+376,Verona High School,151 Fairview Ave,Verona,720,7044,Verona Public School District,"151 Fairview Ave, Verona, NJ 07044",40.8412784,-74.2480376,360
+377,John F. Scarpa Technical Education Center of Cumberland Coun,3400 College Drive,Vineland,614,8360,Cumberland County Board of Vocational Education,"3400 College Drive, Vineland, NJ 08360",39.4352094,-75.055202,446
+378,Vineland Senior High School,2880 E Chestnut Ave,Vineland,614,8360,Vineland Public School District,"2880 E Chestnut Ave, Vineland, NJ 08360",39.4775542,-74.9725718,68
+379,Eastern Regional High School,1401 Laurel Oak Road,Voorhees,434,8043,Eastern Camden County Regional School District,"1401 Laurel Oak Road, Voorhees, NJ 08043",39.849156,-74.966819,319
+380,Waldwick High School,155 Wyckoff Avenue,Waldwick,264,7463,Waldwick School District,"155 Wyckoff Avenue, Waldwick, NJ 07463",41.0117019,-74.1334468,343
+381,Communications High School,1740 New Bedford Road,Wall,1352,7719,Monmouth County Vocational School District,"1740 New Bedford Road, Wall, NJ 07719",40.1699009,-74.0620491,495
+382,Wall High School,1630 18th Ave,Wall,1352,7719,Wall Township Public School District,"1630 18th Ave, Wall, NJ 07719",40.1685461,-74.0610266,321
+383,Wallington Junior Senior High School,234 Main Ave,Wallington,265,7057,Wallington Boro School District,"234 Main Ave, Wallington, NJ 07057",40.8549136,-74.1068364,158
+384,Lakeland Regional High School,205 Conklintown Road,Wanaque,1613,7465,Lakeland Regional High School District,"205 Conklintown Road, Wanaque, NJ 07465",41.059251,-74.282753,384
+385,Watchung Hills Regional High School,108 Stirling Rd.,Warren,1820,7059,Watchung Hills Regional High School District,"108 Stirling Rd., Warren, NJ 07059",40.6525753,-74.4754909,336
+386,Warren Hills Regional High School,41 Jackson Valley Road,Washington,2121,7882,Warren Hills Regional School District,"41 Jackson Valley Road, Washington, NJ 07882",40.7743941,-74.9838878,286
+387,Warren County Vocational Technical School,1500 Route 57,Washington,2121,7882,Warren County Technical School District,"1500 Route 57, Washington, NJ 07882",40.7420608,-75.0241055,103
+388,Wayne Hills High School,272 Berdan Avenue,Wayne,1614,7470,Wayne Township Public School District,"272 Berdan Avenue, Wayne, NJ 07470",40.9683449,-74.2390272,428
+389,Wayne Valley High School,551 Valley Road,Wayne,1614,7470,Wayne Township Public School District,"551 Valley Road, Wayne, NJ 07470",40.9306949,-74.23068,419
+390,Passaic County Technical Institute,45 Reinhardt Road,Wayne,1614,7470,Passaic County Vocational School District,"45 Reinhardt Road, Wayne, NJ 07470",40.9309012,-74.2023751,342
+391,Weehawken High School,53 Liberty Place,Weehawken,911,7086,Weehawken Public School District,"53 Liberty Place, Weehawken, NJ 07086",40.7738908,-74.0179416,198
+392,James Caldwell High School,265 Westville Ave,West Caldwell,21,7006,Caldwell-West Caldwell School District,"265 Westville Ave, West Caldwell, NJ 07006",40.8421379,-74.2963789,354
+393,Essex County West Caldwell Technical,620 Passaic Ave,West Caldwell,721,7006,Essex County Vocational Technical Schools,"620 Passaic Ave, West Caldwell, NJ 07006",40.8530822,-74.2925706,191
+394,West Deptford High School,1600 Old Crown Point Rd,West Deptford,820,8093,West Deptford Township School District,"1600 Old Crown Point Rd, West Deptford, NJ 08093",39.8548757,-75.1619512,257
+395,Shore Regional High School,132 Monmouth Park Highway 36,West Long Branch,1353,7764,Shore Regional High School District,"132 Monmouth Park Highway 36, West Long Branch, NJ 07764",40.2992882,-74.0262591,277
+396,West Milford High School,67 Highlander Drive,West Milford,1615,7480,West Milford Township Public School District,"67 Highlander Drive, West Milford, NJ 07480",41.0791232,-74.3812895,245
+397,Memorial High School,5501 Park Ave,West New York,912,7093,West New York Board Of Education,"5501 Park Ave, West New York, NJ 07093",40.7834587,-74.0126605,120
+398,West Orange High School,51 Conforti Ave,West Orange,722,7052,West Orange Public Schools,"51 Conforti Ave, West Orange, NJ 07052",40.8066775,-74.2602068,151
+399,West Windsor-Plainsboro High School South,346 Clarksville Road,West Windsor,1113,8550,West Windsor-Plainsboro Regional School District,"346 Clarksville Road, West Windsor, NJ 08550",40.305586,-74.618714,388
+400,Burlington County Institute of Technology - Westampton,695 Woodlane Road,Westampton,337,8060,Burlington County Institute of Technology School District,"695 Woodlane Road, Westampton, NJ 08060",40.0181596,-74.8232872,152
+401,Westfield Senior High School,550 Dorian Road,Westfield,2020,7090,Westfield Public School District,"550 Dorian Road, Westfield, NJ 07090",40.644764,-74.3492799,442
+402,Haddon Township High School,406 Memorial Avenue,Westmont,416,8108,Haddon Township School District,"406 Memorial Avenue, Westmont, NJ 08108",39.9042379,-75.0565516,267
+403,Whippany Park High School,165 Whippany Road,Whippany,1412,7981,Hanover Park Regional High School District,"165 Whippany Road, Whippany, NJ 07981",40.8142162,-74.4237087,449
+404,Wildwood High School,4300 Pacific Ave,Wildwood,514,8260,Wildwood City School District,"4300 Pacific Ave, Wildwood, NJ 08260",38.9857374,-74.8197327,141
+405,Willliamstown High School,700 N Tuckahoe Rd,Williamstown,811,8094,Monroe Township Public School District,"700 N Tuckahoe Rd, Williamstown, NJ 08094",39.6822522,-75.0105483,279
+406,Willingboro High School,20 Jfk Way,Willingboro,338,8046,Willingboro Public School District,"20 Jfk Way, Willingboro, NJ 08046",40.0170627,-74.8859271,21
+407,Wood-Ridge Junior/Senior High School,258 Hackensack St,Wood Ridge,269,7075,Wood-Ridge School District,"258 Hackensack St, Wood Ridge, NJ 07075",40.8481199,-74.0802328,210
+408,Middlesex County Vocational Academy Allied Health & Biomedical Science,1 Convery Boulevard,Woodbridge,1225,7095,Middlesex County Vocational and Technical School District,"1 Convery Boulevard, Woodbridge, NJ 07095",40.5406408,-74.278351,481
+409,Woodbridge High School,25 Samuel Lupo Place,Woodbridge,1225,7095,Woodbridge Township School District,"25 Samuel Lupo Place, Woodbridge, NJ 07095",40.5660641,-74.2870106,124
+410,Woodbury Junior-Senior High School,25 N. Broad Street,Woodbury,822,8096,Woodbury City Public School District,"25 N. Broad Street, Woodbury, NJ 08096",39.8397915,-75.1536716,98
+411,Gateway Regional High School,775 Tanyard Rd,Woodbury Hts,823,8096,Gateway Regional School District,"775 Tanyard Rd, Woodbury Hts, NJ 08096",39.8174389,-75.1406849,143
+412,Woodstown High School,140 East Avenue,Woodstown,1715,8098,Woodstown-Pilesgrove Regional School District,"140 East Avenue, Woodstown, NJ 08098",39.6506458,-75.321535,333
+413,Salem County Career and Technical High School,880 Route 45,Woodstown,1715,8098,Salem County Vocational Technical School District,"880 Route 45, Woodstown, NJ 08098",39.6287177,-75.3667787,251
+414,Kingsway Regional High School,201 Kings Highway,Woolwich Twp,824,8085,Kingsway Regional School District,"201 Kings Highway, Woolwich Twp, NJ 08085",39.761012,-75.2907417,390

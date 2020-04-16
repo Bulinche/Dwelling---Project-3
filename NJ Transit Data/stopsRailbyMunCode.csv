@@ -1,566 +1,566 @@
-MUNICIPALITY_NAME_COMMON,MUNICIPALITY_NAME_NJ-1040,MUNICIPALITY_CODE_NJ-1040,Num Rail Stops
-Absecon,Absecon City,101,1
-Atlantic City,Atlantic City,102,1
-Brigantine,Brigantine City,103,0
-Buena Borough,Buena Borough,104,0
-Buena Vista Township,Buena Vista Township,105,0
-Corbin City,Corbin City,106,0
-Egg Harbor City,Egg Harbor City,107,1
-Egg Harbor Township,Egg Harbor Township,108,0
-Estell Manor,Estell Manor City,109,0
-Folsom Borough,Folsom Borough,110,0
-Galloway Township,Galloway Township,111,0
-Hamilton Township,Hamilton Township,112,0
-Hammonton,Hammonton Town,113,1
-Linwood,Linwood City,114,0
-Longport Borough,Longport Borough,115,0
-Margate City,Margate City,116,0
-Mullica Township,Mullica Township,117,0
-Northfield,Northfield City,118,0
-Pleasantville,Pleasantville City,119,0
-Port Republic,Port Republic City,120,0
-Somers Point,Somers Point City,121,0
-Ventnor City,Ventnor City,122,0
-Weymouth Township,Weymouth Township,123,0
-Allendale Borough,Allendale Borough,201,1
-Alpine Borough,Alpine Borough,202,0
-Bergenfield Borough,Bergenfield Borough,203,0
-Bogota Borough,Bogota Borough,204,0
-Carlstadt Borough,Carlstadt Borough,205,0
-Cliffside Park Borough,Cliffside Park Borough,206,0
-Closter Borough,Closter Borough,207,0
-Cresskill Borough,Cresskill Borough,208,0
-Demarest Borough,Demarest Borough,209,0
-Dumont Borough,Dumont Borough,210,0
-East Rutherford Borough,East Rutherford Borough,212,1
-Edgewater Borough,Edgewater Borough,213,0
-Elmwood Park Borough,Elmwood Park Borough,211,0
-Emerson Borough,Emerson Borough,214,1
-Englewood,Englewood City,215,0
-Englewood Cliffs Borough,Englewood Cliffs Borough,216,0
-Fair Lawn Borough,Fair Lawn Borough,217,2
-Fairview Borough,Fairview Borough,218,0
-Fort Lee Borough,Fort Lee Borough,219,0
-Franklin Lakes Borough,Franklin Lakes Borough,220,0
-Garfield,Garfield City,221,2
-Glen Rock Borough,Glen Rock Borough,222,2
-Hackensack,Hackensack City,223,2
-Harrington Park Borough,Harrington Park Borough,224,0
-Hasbrouck Heights Borough,Hasbrouck Heights Borough,225,1
-Haworth Borough,Haworth Borough,226,0
-Hillsdale Borough,Hillsdale Borough,227,1
-Ho-Ho-Kus Borough,Ho-Ho-Kus Borough,228,1
-Leonia Borough,Leonia Borough,229,0
-Little Ferry Borough,Little Ferry Borough,230,0
-Lodi Borough,Lodi Borough,231,0
-Lyndhurst Township,Lyndhurst Township,232,2
-Mahwah Township,Mahwah Township,233,1
-Maywood Borough,Maywood Borough,234,0
-Midland Park Borough,Midland Park Borough,235,0
-Montvale Borough,Montvale Borough,236,1
-Moonachie Borough,Moonachie Borough,237,0
-New Milford Borough,New Milford Borough,238,0
-North Arlington Borough,North Arlington Borough,239,0
-Northvale Borough,Northvale Borough,240,0
-Norwood Borough,Norwood Borough,241,0
-Oakland Borough,Oakland Borough,242,0
-Old Tappan Borough,Old Tappan Borough,243,0
-Oradell Borough,Oradell Borough,244,1
-Palisades Park Borough,Palisades Park Borough,245,0
-Paramus Borough,Paramus Borough,246,0
-Park Ridge Borough,Park Ridge Borough,247,0
-Ramsey Borough,Ramsey Borough,248,2
-Ridgefield Borough,Ridgefield Borough,249,0
-Ridgefield Park Village,Ridgefield Park Village,250,0
-Ridgewood Village,Ridgewood Village,251,1
-River Edge Borough,River Edge Borough,252,2
-River Vale Township,River Vale Township,253,0
-Rochelle Park Township,Rochelle Park Township,254,0
-Rockleigh Borough,Rockleigh Borough,255,0
-Rutherford Borough,Rutherford Borough,256,0
-Saddle Brook Township,Saddle Brook Township,257,0
-Saddle River Borough,Saddle River Borough,258,0
-South Hackensack Township,South Hackensack Township,259,0
-Teaneck Township,Teaneck Township,260,0
-Tenafly Borough,Tenafly Borough,261,0
-Teterboro Borough,Teterboro Borough,262,0
-Upper Saddle River Borough,Upper Saddle River Borough,263,0
-Waldwick Borough,Waldwick Borough,264,1
-Wallington Borough,Wallington Borough,265,0
-Washington Township,Washington Township,266,0
-Westwood Borough,Westwood Borough,267,1
-Woodcliff Lake Borough,Woodcliff Lake Borough,268,1
-Wood-Ridge Borough,Wood-Ridge Borough,269,2
-Wyckoff Township,Wyckoff Township,270,0
-Bass River Township,Bass River Township,301,0
-Beverly,Beverly City,302,1
-Bordentown,Bordentown City,303,1
-Bordentown Township,Bordentown Township,304,0
-Burlington,Burlington City,305,2
-Burlington Township,Burlington Township,306,0
-Chesterfield Township,Chesterfield Township,307,0
-Cinnaminson Township,Cinnaminson Township,308,1
-Delanco Township,Delanco Township,309,1
-Delran Township,Delran Township,310,0
-Eastampton Township,Eastampton Township,311,0
-Edgewater Park Township,Edgewater Park Township,312,0
-Evesham Township,Evesham Township,313,0
-Fieldsboro Borough,Fieldsboro Borough,314,0
-Florence Township,Florence Township,315,2
-Hainesport Township,Hainesport Township,316,0
-Lumberton Township,Lumberton Township,317,0
-Mansfield Township,Mansfield Township,318,0
-Maple Shade Township,Maple Shade Township,319,0
-Medford Lakes Borough,Medford Lakes Borough,321,0
-Medford Township,Medford Township,320,0
-Moorestown Township,Moorestown Township,322,0
-Mount Holly Township,Mount Holly Township,323,0
-Mount Laurel Township,Mount Laurel Township,324,0
-New Hanover Township,New Hanover Township,325,0
-North Hanover Township,North Hanover Township,326,0
-Palmyra Borough,Palmyra Borough,327,1
-Pemberton Borough,Pemberton Borough,328,0
-Pemberton Township,Pemberton Township,329,0
-Riverside Township,Riverside Township,330,1
-Riverton Borough,Riverton Borough,331,1
-Shamong Township,Shamong Township,332,0
-Southampton Township,Southampton Township,333,0
-Springfield Township,Springfield Township,334,0
-Tabernacle Township,Tabernacle Township,335,0
-Washington Township,Washington Township,336,0
-Westampton Township,Westampton Township,337,0
-Willingboro Township,Willingboro Township,338,0
-Woodland Township,Woodland Township,339,0
-Wrightstown Borough,Wrightstown Borough,340,0
-Audubon Borough,Audubon Borough,401,0
-Fredon Township,Fredon Township,1907,0
-Audubon Park Borough,Audubon Park Borough,402,0
-Barrington Borough,Barrington Borough,403,0
-Bellmawr Borough,Bellmawr Borough,404,0
-Berlin Borough,Berlin Borough,405,0
-Berlin Township,Berlin Township,406,0
-Brooklawn Borough,Brooklawn Borough,407,0
-Camden,Camden City,408,4
-Cherry Hill Township,Cherry Hill Township,409,0
-Chesilhurst Borough,Chesilhurst Borough,410,1
-Clementon Borough,Clementon Borough,411,0
-Collingswood Borough,Collingswood Borough,412,0
-Gibbsboro Borough,Gibbsboro Borough,413,0
-Gloucester City,Gloucester City,414,0
-Gloucester Township,Gloucester Township,415,0
-Haddon Heights Borough,Haddon Heights Borough,418,0
-Haddon Township,Haddon Township,416,0
-Haddonfield Borough,Haddonfield Borough,417,0
-Hi-Nella Borough,Hi-Nella Borough,419,0
-Laurel Springs Borough,Laurel Springs Borough,420,0
-Lawnside Borough,Lawnside Borough,421,0
-Lindenwold Borough,Lindenwold Borough,422,1
-Magnolia Borough,Magnolia Borough,423,0
-Merchantville Borough,Merchantville Borough,424,0
-Mount Ephraim Borough,Mount Ephraim Borough,425,0
-Oaklyn Borough,Oaklyn Borough,426,0
-Pennsauken Township,Pennsauken Township,427,4
-Pine Hill Borough,Pine Hill Borough,428,0
-Pine Valley Borough,Pine Valley Borough,429,0
-Runnemede Borough,Runnemede Borough,430,0
-Somerdale Borough,Somerdale Borough,431,0
-Stratford Borough,Stratford Borough,432,0
-Tavistock Borough,Tavistock Borough,433,0
-Voorhees Township,Voorhees Township,434,0
-Waterford Township,Waterford Township,435,1
-Winslow Township,Winslow Township,436,0
-Woodlynne Borough,Woodlynne Borough,437,0
-Avalon Borough,Avalon Borough,501,0
-Cape May,Cape May City,502,0
-Cape May Point Borough,Cape May Point Borough,503,0
-Dennis Township,Dennis Township,504,0
-Lower Township,Lower Township,505,0
-Middle Township,Middle Township,506,0
-North Wildwood,North Wildwood City,507,0
-Ocean City,Ocean City,508,0
-Sea Isle City,Sea Isle City,509,0
-Stone Harbor Borough,Stone Harbor Borough,510,0
-Upper Township,Upper Township,511,0
-West Cape May Borough,West Cape May Borough,512,0
-West Wildwood Borough,West Wildwood Borough,513,0
-Wildwood,Wildwood City,514,0
-Wildwood Crest Borough,Wildwood Crest Borough,515,0
-Woodbine Borough,Woodbine Borough,516,0
-Bridgeton,Bridgeton City,601,0
-Commercial Township,Commercial Township,602,0
-Deerfield Township,Deerfield Township,603,0
-Downe Township,Downe Township,604,0
-Fairfield Township,Fairfield Township,605,0
-Greenwich Township,Greenwich Township,606,0
-Hopewell Township,Hopewell Township,607,0
-Lawrence Township,Lawrence Township,608,0
-Maurice River Township,Maurice River Township,609,0
-Millville,Millville City,610,0
-Shiloh Borough,Shiloh Borough,611,0
-Stow Creek Township,Stow Creek Township,612,0
-Upper Deerfield Township,Upper Deerfield Township,613,0
-Vineland,Vineland City,614,0
-Belleville Township,Belleville Township,701,1
-Bloomfield Township,Bloomfield Township,702,3
-Caldwell Borough,Caldwell Borough,703,0
-Cedar Grove Township,Cedar Grove Township,704,0
-City of Orange Township,City of Orange Township,717,2
-East Orange,East Orange City,705,2
-Essex Fells Borough,Essex Fells Borough,706,0
-Fairfield Township,Fairfield Township,707,0
-Glen Ridge Borough,Glen Ridge Borough,708,1
-Irvington Township,Irvington Township,709,0
-Livingston Township,Livingston Township,710,0
-Maplewood Township,Maplewood Township,711,1
-Millburn Township,Millburn Township,712,2
-Montclair Township,Montclair Township,713,6
-Newark,Newark City,714,19
-North Caldwell Borough,North Caldwell Borough,715,0
-Nutley Township,Nutley Township,716,0
-Roseland Borough,Roseland Borough,718,0
-South Orange Village Township,South Orange Village Township,719,2
-Verona Township,Verona Township,720,0
-West Caldwell Township,West Caldwell Township,721,0
-West Orange Township,West Orange Township,722,0
-Clayton Borough,Clayton Borough,801,0
-Deptford Township,Deptford Township,802,0
-East Greenwich Township,East Greenwich Township,803,0
-Elk Township,Elk Township,804,0
-Franklin Township,Franklin Township,805,0
-Glassboro Borough,Glassboro Borough,806,0
-Greenwich Township,Greenwich Township,807,0
-Harrison Township,Harrison Township,808,0
-Logan Township,Logan Township,809,0
-Mantua Township,Mantua Township,810,0
-Monroe Township,Monroe Township,811,0
-National Park Borough,National Park Borough,812,0
-Newfield Borough,Newfield Borough,813,0
-Paulsboro Borough,Paulsboro Borough,814,0
-Pitman Borough,Pitman Borough,815,0
-South Harrison Township,South Harrison Township,816,0
-Swedesboro Borough,Swedesboro Borough,817,0
-Washington Township,Washington Township,818,0
-Wenonah Borough,Wenonah Borough,819,0
-West Deptford Township,West Deptford Township,820,0
-Westville Borough,Westville Borough,821,0
-Woodbury,Woodbury City,822,0
-Woodbury Heights Borough,Woodbury Heights Borough,823,0
-Woolwich Township,Woolwich Township,824,0
-Bayonne,Bayonne City,901,4
-East Newark Borough,East Newark Borough,902,0
-Guttenberg,Guttenberg Town,903,0
-Harrison,Harrison Town,904,0
-Hoboken,Hoboken City,905,2
-Jersey City,Jersey City,906,12
-Kearny,Kearny Town,907,0
-North Bergen Township,North Bergen Township,908,1
-Secaucus,Secaucus Town,909,2
-Union City,Union City,910,1
-Weehawken Township,Weehawken Township,911,2
-West New York,West New York Town,912,0
-Alexandria Township,Alexandria Township,1001,0
-Bethlehem Township,Bethlehem Township,1002,0
-Bloomsbury Borough,Bloomsbury Borough,1003,0
-Califon Borough,Califon Borough,1004,0
-Clinton,Clinton Town,1005,1
-Clinton Township,Clinton Township,1006,0
-Delaware Township,Delaware Township,1007,0
-East Amwell Township,East Amwell Township,1008,0
-Flemington Borough,Flemington Borough,1009,0
-Franklin Township,Franklin Township,1010,0
-Frenchtown Borough,Frenchtown Borough,1011,0
-Glen Gardner Borough,Glen Gardner Borough,1012,0
-Hampton Borough,Hampton Borough,1013,0
-High Bridge Borough,High Bridge Borough,1014,1
-Holland Township,Holland Township,1015,0
-Kingwood Township,Kingwood Township,1016,0
-Lambertville,Lambertville City,1017,0
-Lebanon Borough,Lebanon Borough,1018,1
-Lebanon Township,Lebanon Township,1019,0
-Milford Borough,Milford Borough,1020,0
-Raritan Township,Raritan Township,1021,0
-Readington Township,Readington Township,1022,0
-Stockton Borough,Stockton Borough,1023,0
-Tewksbury Township,Tewksbury Township,1024,0
-Union Township,Union Township,1025,0
-West Amwell Township,West Amwell Township,1026,0
-East Windsor Township,East Windsor Township,1101,0
-Ewing Township,Ewing Township,1102,0
-Hamilton Township,Hamilton Township,1103,1
-Hightstown Borough,Hightstown Borough,1104,0
-Hopewell Borough,Hopewell Borough,1105,0
-Hopewell Township,Hopewell Township,1106,0
-Lawrence Township,Lawrence Township,1107,0
-Pennington Borough,Pennington Borough,1108,0
-Princeton,Princeton,1114,1
-Robbinsville Township,Robbinsville Township,1112,0
-Trenton,Trenton City,1111,4
-West Windsor Township,West Windsor Township,1113,1
-Carteret Borough,Carteret Borough,1201,0
-Cranbury Township,Cranbury Township,1202,0
-Dunellen Borough,Dunellen Borough,1203,1
-East Brunswick Township,East Brunswick Township,1204,0
-Edison Township,Edison Township,1205,1
-Helmetta Borough,Helmetta Borough,1206,0
-Highland Park Borough,Highland Park Borough,1207,0
-Jamesburg Borough,Jamesburg Borough,1208,0
-Metuchen Borough,Metuchen Borough,1209,1
-Middlesex Borough,Middlesex Borough,1210,0
-Milltown Borough,Milltown Borough,1211,0
-Monroe Township,Monroe Township,1212,0
-New Brunswick,New Brunswick City,1213,2
-North Brunswick Township,North Brunswick Township,1214,0
-Old Bridge Township,Old Bridge Township,1215,0
-Perth Amboy,Perth Amboy City,1216,1
-Piscataway Township,Piscataway Township,1217,0
-Plainsboro Township,Plainsboro Township,1218,0
-Sayreville Borough,Sayreville Borough,1219,0
-South Amboy,South Amboy City,1220,1
-South Brunswick Township,South Brunswick Township,1221,0
-South Plainfield Borough,South Plainfield Borough,1222,0
-South River Borough,South River Borough,1223,0
-Spotswood Borough,Spotswood Borough,1224,0
-Woodbridge Township,Woodbridge Township,1225,3
-Aberdeen Township,Aberdeen Township,1301,0
-Allenhurst Borough,Allenhurst Borough,1302,1
-Allentown Borough,Allentown Borough,1303,0
-Asbury Park,Asbury Park City,1304,1
-Atlantic Highlands Borough,Atlantic Highlands Borough,1305,0
-Avon-by-the-Sea Borough,Avon-by-the-Sea Borough,1306,0
-Belmar Borough,Belmar Borough,1307,1
-Bradley Beach Borough,Bradley Beach Borough,1308,1
-Brielle Borough,Brielle Borough,1309,0
-Colts Neck Township,Colts Neck Township,1310,0
-Deal Borough,Deal Borough,1311,0
-Eatontown Borough,Eatontown Borough,1312,0
-Englishtown Borough,Englishtown Borough,1313,0
-Fair Haven Borough,Fair Haven Borough,1314,0
-Farmingdale Borough,Farmingdale Borough,1315,0
-Freehold Borough,Freehold Borough,1316,0
-Freehold Township,Freehold Township,1317,0
-Hazlet Township,Hazlet Township,1318,1
-Highlands Borough,Highlands Borough,1319,0
-Holmdel Township,Holmdel Township,1320,0
-Howell Township,Howell Township,1321,0
-Interlaken Borough,Interlaken Borough,1322,0
-Keansburg Borough,Keansburg Borough,1323,0
-Keyport Borough,Keyport Borough,1324,0
-Lake Como Borough,Lake Como Borough,1346,0
-Little Silver Borough,Little Silver Borough,1325,1
-Loch Arbour Village,Loch Arbour Village,1326,0
-Long Branch,Long Branch City,1327,2
-Manalapan Township,Manalapan Township,1328,0
-Manasquan Borough,Manasquan Borough,1329,1
-Marlboro Township,Marlboro Township,1330,0
-Matawan Borough,Matawan Borough,1331,1
-Middletown Township,Middletown Township,1332,1
-Millstone Township,Millstone Township,1333,0
-Monmouth Beach Borough,Monmouth Beach Borough,1334,0
-Neptune City Borough,Neptune City Borough,1336,0
-Neptune Township,Neptune Township,1335,0
-Ocean Township,Ocean Township,1337,0
-Oceanport Borough,Oceanport Borough,1338,0
-Red Bank Borough,Red Bank Borough,1339,1
-Roosevelt Borough,Roosevelt Borough,1340,0
-Rumson Borough,Rumson Borough,1341,0
-Sea Bright Borough,Sea Bright Borough,1342,0
-Sea Girt Borough,Sea Girt Borough,1343,0
-Shrewsbury Borough,Shrewsbury Borough,1344,0
-Shrewsbury Township,Shrewsbury Township,1345,0
-Spring Lake Borough,Spring Lake Borough,1347,1
-Spring Lake Heights Borough,Spring Lake Heights Borough,1348,0
-Tinton Falls Borough,Tinton Falls Borough,1349,0
-Union Beach Borough,Union Beach Borough,1350,0
-Upper Freehold Township,Upper Freehold Township,1351,0
-Wall Township,Wall Township,1352,0
-West Long Branch Borough,West Long Branch Borough,1353,0
-Boonton,Boonton Town,1401,1
-Boonton Township,Boonton Township,1402,0
-Butler Borough,Butler Borough,1403,0
-Chatham Borough,Chatham Borough,1404,1
-Chatham Township,Chatham Township,1405,0
-Chester Borough,Chester Borough,1406,0
-Chester Township,Chester Township,1407,0
-Denville Township,Denville Township,1408,2
-Dover,Dover Town,1409,1
-East Hanover Township,East Hanover Township,1410,0
-Florham Park Borough,Florham Park Borough,1411,0
-Hanover Township,Hanover Township,1412,0
-Harding Township,Harding Township,1413,0
-Jefferson Township,Jefferson Township,1414,0
-Kinnelon Borough,Kinnelon Borough,1415,0
-Lincoln Park Borough,Lincoln Park Borough,1416,0
-Long Hill Township,Long Hill Township,1430,2
-Madison Borough,Madison Borough,1417,1
-Mendham Borough,Mendham Borough,1418,0
-Mendham Township,Mendham Township,1419,0
-Mine Hill Township,Mine Hill Township,1420,0
-Montville Township,Montville Township,1421,2
-Morris Plains Borough,Morris Plains Borough,1423,1
-Morris Township,Morris Township,1422,0
-Morristown,Morristown Town,1424,1
-Mount Arlington Borough,Mount Arlington Borough,1426,0
-Mount Olive Township,Mount Olive Township,1427,1
-Mountain Lakes Borough,Mountain Lakes Borough,1425,1
-Netcong Borough,Netcong Borough,1428,1
-Parsippany-Troy Hills Township,Parsippany-Troy Hills Township,1429,0
-Pequannock Township,Pequannock Township,1431,0
-Randolph Township,Randolph Township,1432,0
-Riverdale Borough,Riverdale Borough,1433,0
-Rockaway Borough,Rockaway Borough,1434,0
-Rockaway Township,Rockaway Township,1435,0
-Roxbury Township,Roxbury Township,1436,2
-Victory Gardens Borough,Victory Gardens Borough,1437,0
-Washington Township,Washington Township,1438,0
-Wharton Borough,Wharton Borough,1439,0
-Barnegat Light Borough,Barnegat Light Borough,1502,0
-Barnegat Township,Barnegat Township,1501,0
-Bay Head Borough,Bay Head Borough,1503,0
-Beach Haven Borough,Beach Haven Borough,1504,0
-Beachwood Borough,Beachwood Borough,1505,0
-Berkeley Township,Berkeley Township,1506,0
-Brick Township,Brick Township,1507,0
-Eagleswood Township,Eagleswood Township,1509,0
-Harvey Cedars Borough,Harvey Cedars Borough,1510,0
-Island Heights Borough,Island Heights Borough,1511,0
-Jackson Township,Jackson Township,1512,0
-Lacey Township,Lacey Township,1513,0
-Lakehurst Borough,Lakehurst Borough,1514,0
-Lakewood Township,Lakewood Township,1515,0
-Lavallette Borough,Lavallette Borough,1516,0
-Little Egg Harbor Township,Little Egg Harbor Township,1517,0
-Long Beach Township,Long Beach Township,1518,0
-Manchester Township,Manchester Township,1519,0
-Mantoloking Borough,Mantoloking Borough,1520,0
-Ocean Gate Borough,Ocean Gate Borough,1522,0
-Ocean Township,Ocean Township,1521,0
-Pine Beach Borough,Pine Beach Borough,1523,0
-Plumsted Township,Plumsted Township,1524,0
-Point Pleasant Beach Borough,Point Pleasant Beach Borough,1526,1
-Point Pleasant Borough,Point Pleasant Borough,1525,0
-Seaside Heights Borough,Seaside Heights Borough,1527,0
-Seaside Park Borough,Seaside Park Borough,1528,0
-Ship Bottom Borough,Ship Bottom Borough,1529,0
-South Toms River Borough,South Toms River Borough,1530,0
-Stafford Township,Stafford Township,1531,0
-Surf City Borough,Surf City Borough,1532,0
-Toms River Township,Toms River Township,1508,1
-Tuckerton Borough,Tuckerton Borough,1533,0
-Bloomingdale Borough,Bloomingdale Borough,1601,0
-Clifton,Clifton City,1602,2
-Haledon Borough,Haledon Borough,1603,0
-Hawthorne Borough,Hawthorne Borough,1604,1
-Little Falls Township,Little Falls Township,1605,2
-North Haledon Borough,North Haledon Borough,1606,0
-Passaic,Passaic City,1607,1
-Paterson,Paterson City,1608,1
-Pompton Lakes Borough,Pompton Lakes Borough,1609,0
-Prospect Park Borough,Prospect Park Borough,1610,0
-Ringwood Borough,Ringwood Borough,1611,0
-Totowa Borough,Totowa Borough,1612,0
-Wanaque Borough,Wanaque Borough,1613,0
-Wayne Township,Wayne Township,1614,3
-West Milford Township,West Milford Township,1615,0
-Woodland Park Borough,Woodland Park Borough,1616,0
-Alloway Township,Alloway Township,1701,0
-Carneys Point Township,Carneys Point Township,1702,0
-Elmer Borough,Elmer Borough,1703,0
-Elsinboro Township,Elsinboro Township,1704,0
-Lower Alloways Creek Township,Lower Alloways Creek Township,1705,0
-Mannington Township,Mannington Township,1706,0
-Oldmans Township,Oldmans Township,1707,0
-Penns Grove Borough,Penns Grove Borough,1708,0
-Pennsville Township,Pennsville Township,1709,0
-Green Township,Green Township,1908,0
-Pilesgrove Township,Pilesgrove Township,1710,0
-Pittsgrove Township,Pittsgrove Township,1711,0
-Quinton Township,Quinton Township,1712,0
-Salem,Salem City,1713,0
-Upper Pittsgrove Township,Upper Pittsgrove Township,1714,0
-Woodstown Borough,Woodstown Borough,1715,0
-Bedminster Township,Bedminster Township,1801,0
-Bernards Township,Bernards Township,1802,2
-Bernardsville Borough,Bernardsville Borough,1803,1
-Bound Brook Borough,Bound Brook Borough,1804,1
-Branchburg Township,Branchburg Township,1805,1
-Bridgewater Township,Bridgewater Township,1806,1
-Far Hills Borough,Far Hills Borough,1807,1
-Franklin Township,Franklin Township,1808,0
-Green Brook Township,Green Brook Township,1809,0
-Hillsborough Township,Hillsborough Township,1810,0
-Manville Borough,Manville Borough,1811,0
-Millstone Borough,Millstone Borough,1812,0
-Montgomery Township,Montgomery Township,1813,0
-North Plainfield Borough,North Plainfield Borough,1814,0
-Peapack-Gladstone Borough,Peapack-Gladstone Borough,1815,2
-Raritan Borough,Raritan Borough,1816,1
-Rocky Hill Borough,Rocky Hill Borough,1817,0
-Somerville Borough,Somerville Borough,1818,1
-South Bound Brook Borough,South Bound Brook Borough,1819,0
-Warren Township,Warren Township,1820,0
-Watchung Borough,Watchung Borough,1821,0
-Andover Borough,Andover Borough,1901,0
-Andover Township,Andover Township,1902,0
-Branchville Borough,Branchville Borough,1903,0
-Byram Township,Byram Township,1904,0
-Frankford Township,Frankford Township,1905,0
-Franklin Borough,Franklin Borough,1906,0
-Hamburg Borough,Hamburg Borough,1909,0
-Hampton Township,Hampton Township,1910,0
-Hardyston Township,Hardyston Township,1911,0
-Hopatcong Borough,Hopatcong Borough,1912,0
-Lafayette Township,Lafayette Township,1913,0
-Montague Township,Montague Township,1914,0
-Newton,Newton Town,1915,0
-Ogdensburg Borough,Ogdensburg Borough,1916,0
-Sandyston Township,Sandyston Township,1917,0
-Sparta Township,Sparta Township,1918,0
-Stanhope Borough,Stanhope Borough,1919,0
-Stillwater Township,Stillwater Township,1920,0
-Sussex Borough,Sussex Borough,1921,0
-Vernon Township,Vernon Township,1922,0
-Walpack Township,Walpack Township,1923,0
-Wantage Township,Wantage Township,1924,0
-Berkeley Heights Township,Berkeley Heights Township,2001,1
-Clark Township,Clark Township,2002,0
-Cranford Township,Cranford Township,2003,1
-Elizabeth,Elizabeth City,2004,2
-Fanwood Borough,Fanwood Borough,2005,1
-Garwood Borough,Garwood Borough,2006,1
-Hillside Township,Hillside Township,2007,0
-Kenilworth Borough,Kenilworth Borough,2008,0
-Linden,Linden City,2009,1
-Mountainside Borough,Mountainside Borough,2010,0
-New Providence Borough,New Providence Borough,2011,1
-Plainfield,Plainfield City,2012,2
-Rahway,Rahway City,2013,1
-Roselle Borough,Roselle Borough,2014,0
-Roselle Park Borough,Roselle Park Borough,2015,1
-Scotch Plains Township,Scotch Plains Township,2016,0
-Springfield Township,Springfield Township,2017,0
-Summit,Summit City,2018,2
-Union Township,Union Township,2019,1
-Westfield,Westfield Town,2020,1
-Winfield Township,Winfield Township,2021,0
-Allamuchy Township,Allamuchy Township,2101,0
-Alpha Borough,Alpha Borough,2102,0
-Belvidere,Belvidere Town,2103,0
-Blairstown Township,Blairstown Township,2104,0
-Franklin Township,Franklin Township,2105,0
-Frelinghuysen Township,Frelinghuysen Township,2106,0
-Greenwich Township,Greenwich Township,2107,0
-Hackettstown,Hackettstown Town,2108,1
-Hardwick Township,Hardwick Township,2109,0
-Harmony Township,Harmony Township,2110,0
-Hope Township,Hope Township,2111,0
-Independence Township,Independence Township,2112,0
-Knowlton Township,Knowlton Township,2113,0
-Liberty Township,Liberty Township,2114,0
-Lopatcong Township,Lopatcong Township,2115,0
-Mansfield Township,Mansfield Township,2116,0
-Oxford Township,Oxford Township,2117,0
-Phillipsburg,Phillipsburg Town,2119,0
-Pohatcong Township,Pohatcong Township,2120,0
-Washington Borough,Washington Borough,2121,0
-Washington Township,Washington Township,2122,0
-White Township,White Township,2123,0
+MUNICIPALITY_NAME_COMMON,MUNICIPALITY_NAME_NJ-1040,MUNICIPALITY_CODE_NJ-1040,Num_Rail_Stops,Num_Bus_Stops,Total_Transit,Transit_Score_1,Xscore
+Newark,Newark City,714,19,802,821,500,500
+Jersey City,Jersey City,906,12,519,531,500,412
+Paterson,Paterson City,1608,1,314,315,500,346
+Camden,Camden City,408,4,310,314,500,346
+Trenton,Trenton City,1111,4,295,299,500,341
+Clifton,Clifton City,1602,2,272,274,500,333
+Atlantic City,Atlantic City,102,1,220,221,500,317
+Elizabeth,Elizabeth City,2004,2,213,215,500,315
+Hamilton Township,Hamilton Township,1103,1,209,210,500,314
+East Orange,East Orange City,705,2,202,204,500,312
+Wayne Township,Wayne Township,1614,3,200,203,500,312
+Plainfield,Plainfield City,2012,2,197,199,500,311
+Union Township,Union Township,2019,1,184,185,500,306
+Edison Township,Edison Township,1205,1,182,183,500,306
+Pennsauken Township,Pennsauken Township,427,4,175,179,500,305
+Woodbridge Township,Woodbridge Township,1225,3,169,172,500,302
+North Bergen Township,North Bergen Township,908,1,159,160,500,299
+Hackensack,Hackensack City,223,2,156,158,500,298
+Secaucus,Secaucus Town,909,2,146,148,500,295
+Union City,Union City,910,1,134,135,500,291
+Bloomfield Township,Bloomfield Township,702,3,129,132,500,290
+Passaic,Passaic City,1607,1,125,126,500,288
+Bayonne,Bayonne City,901,4,120,124,500,288
+Linden,Linden City,2009,1,115,116,500,285
+Fair Lawn Borough,Fair Lawn Borough,217,2,111,113,500,284
+Perth Amboy,Perth Amboy City,1216,1,106,107,500,283
+Montclair Township,Montclair Township,713,6,92,98,500,280
+Princeton,Princeton,1114,1,93,94,500,279
+Garfield,Garfield City,221,2,80,82,500,275
+Middletown Township,Middletown Township,1332,1,72,73,500,272
+City of Orange Township,City of Orange Township,717,2,69,71,500,272
+Toms River Township,Toms River Township,1508,1,70,71,500,272
+Summit,Summit City,2018,2,67,69,500,271
+Little Falls Township,Little Falls Township,1605,2,66,68,500,271
+New Brunswick,New Brunswick City,1213,2,60,62,500,269
+Rahway,Rahway City,2013,1,56,57,500,267
+Ridgewood Village,Ridgewood Village,251,1,48,49,500,265
+Lyndhurst Township,Lyndhurst Township,232,2,44,46,500,264
+Belleville Township,Belleville Township,701,1,45,46,500,264
+Westfield,Westfield Town,2020,1,45,46,500,264
+Hoboken,Hoboken City,905,2,43,45,500,264
+Lindenwold Borough,Lindenwold Borough,422,1,43,44,500,263
+Weehawken Township,Weehawken Township,911,2,42,44,500,263
+Asbury Park,Asbury Park City,1304,1,42,43,500,263
+Matawan Borough,Matawan Borough,1331,1,41,42,500,263
+Florence Township,Florence Township,315,2,37,39,500,262
+East Rutherford Borough,East Rutherford Borough,212,1,37,38,500,262
+Absecon,Absecon City,101,1,36,37,500,261
+Long Branch,Long Branch City,1327,2,32,34,500,260
+Glen Rock Borough,Glen Rock Borough,222,2,31,33,500,260
+Red Bank Borough,Red Bank Borough,1339,1,32,33,500,260
+Hasbrouck Heights Borough,Hasbrouck Heights Borough,225,1,31,32,500,260
+Montville Township,Montville Township,1421,2,30,32,500,260
+Morristown,Morristown Town,1424,1,31,32,500,260
+Hawthorne Borough,Hawthorne Borough,1604,1,31,32,500,260
+Oradell Borough,Oradell Borough,244,1,29,30,500,259
+Burlington,Burlington City,305,2,28,30,500,259
+Roselle Park Borough,Roselle Park Borough,2015,1,29,30,500,259
+West Windsor Township,West Windsor Township,1113,1,28,29,500,259
+Maplewood Township,Maplewood Township,711,1,27,28,500,259
+River Edge Borough,River Edge Borough,252,2,25,27,500,258
+Wood-Ridge Borough,Wood-Ridge Borough,269,2,22,24,500,257
+South Amboy,South Amboy City,1220,1,23,24,500,257
+Cinnaminson Township,Cinnaminson Township,308,1,22,23,500,257
+Millburn Township,Millburn Township,712,2,21,23,500,257
+Morris Plains Borough,Morris Plains Borough,1423,1,22,23,500,257
+Cranford Township,Cranford Township,2003,1,22,23,500,257
+Fanwood Borough,Fanwood Borough,2005,1,22,23,500,257
+Hammonton,Hammonton Town,113,1,21,22,500,257
+New Providence Borough,New Providence Borough,2011,1,21,22,500,257
+Waterford Township,Waterford Township,435,1,20,21,500,256
+Dover,Dover Town,1409,1,20,21,500,256
+Garwood Borough,Garwood Borough,2006,1,20,21,500,256
+Boonton,Boonton Town,1401,1,18,19,500,256
+Chatham Borough,Chatham Borough,1404,1,18,19,500,256
+Somerville Borough,Somerville Borough,1818,1,18,19,500,256
+South Orange Village Township,South Orange Village Township,719,2,15,17,500,255
+Bridgewater Township,Bridgewater Township,1806,1,16,17,500,255
+Madison Borough,Madison Borough,1417,1,15,16,500,255
+Berkeley Heights Township,Berkeley Heights Township,2001,1,15,16,500,255
+Bordentown,Bordentown City,303,1,13,14,500,254
+Chesilhurst Borough,Chesilhurst Borough,410,1,13,14,500,254
+Denville Township,Denville Township,1408,2,12,14,500,254
+Bound Brook Borough,Bound Brook Borough,1804,1,13,14,500,254
+Egg Harbor City,Egg Harbor City,107,1,12,13,500,254
+Palmyra Borough,Palmyra Borough,327,1,12,13,500,254
+Dunellen Borough,Dunellen Borough,1203,1,12,13,500,254
+Metuchen Borough,Metuchen Borough,1209,1,12,13,500,254
+Belmar Borough,Belmar Borough,1307,1,12,13,500,254
+Manasquan Borough,Manasquan Borough,1329,1,11,12,500,254
+Spring Lake Borough,Spring Lake Borough,1347,1,11,12,500,254
+Westwood Borough,Westwood Borough,267,1,10,11,500,253
+Riverton Borough,Riverton Borough,331,1,9,10,500,253
+Glen Ridge Borough,Glen Ridge Borough,708,1,9,10,500,253
+Emerson Borough,Emerson Borough,214,1,8,9,500,253
+Point Pleasant Beach Borough,Point Pleasant Beach Borough,1526,1,8,9,500,253
+Riverside Township,Riverside Township,330,1,6,7,500,252
+Bradley Beach Borough,Bradley Beach Borough,1308,1,6,7,500,252
+Hazlet Township,Hazlet Township,1318,1,6,7,500,252
+Roxbury Township,Roxbury Township,1436,2,2,4,500,251
+Allenhurst Borough,Allenhurst Borough,1302,1,2,3,500,251
+Beverly,Beverly City,302,1,1,2,500,251
+Cherry Hill Township,Cherry Hill Township,409,0,231,231,250,250
+Teaneck Township,Teaneck Township,260,0,185,185,250,200
+Irvington Township,Irvington Township,709,0,167,167,250,181
+Paramus Borough,Paramus Borough,246,0,154,154,250,167
+West Orange Township,West Orange Township,722,0,124,124,250,134
+Parsippany-Troy Hills Township,Parsippany-Troy Hills Township,1429,0,124,124,250,134
+Old Bridge Township,Old Bridge Township,1215,0,117,117,250,127
+Ewing Township,Ewing Township,1102,0,111,111,250,120
+Gloucester Township,Gloucester Township,415,0,109,109,250,118
+Fort Lee Borough,Fort Lee Borough,219,0,99,99,250,107
+Lawrence Township,Lawrence Township,1107,0,98,98,250,106
+Washington Township,Washington Township,818,0,97,97,250,105
+Deptford Township,Deptford Township,802,0,92,92,250,100
+Livingston Township,Livingston Township,710,0,91,91,250,98
+Kearny,Kearny Town,907,0,91,91,250,98
+Vineland,Vineland City,614,0,85,85,250,92
+Winslow Township,Winslow Township,436,0,84,84,250,91
+Englewood,Englewood City,215,0,81,81,250,88
+West Deptford Township,West Deptford Township,820,0,79,79,250,85
+Millville,Millville City,610,0,78,78,250,84
+Nutley Township,Nutley Township,716,0,78,78,250,84
+Hamilton Township,Hamilton Township,112,0,73,73,250,79
+Galloway Township,Galloway Township,111,0,72,72,250,78
+Elmwood Park Borough,Elmwood Park Borough,211,0,66,66,250,71
+West New York,West New York Town,912,0,66,66,250,71
+Ridgefield Park Village,Ridgefield Park Village,250,0,65,65,250,70
+Middle Township,Middle Township,506,0,65,65,250,70
+Roselle Borough,Roselle Borough,2014,0,65,65,250,70
+South Plainfield Borough,South Plainfield Borough,1222,0,64,64,250,69
+Linwood,Linwood City,114,0,62,62,250,67
+Moorestown Township,Moorestown Township,322,0,62,62,250,67
+Springfield Township,Springfield Township,2017,0,62,62,250,67
+Saddle Brook Township,Saddle Brook Township,257,0,61,61,250,66
+Scotch Plains Township,Scotch Plains Township,2016,0,59,59,250,64
+Brigantine,Brigantine City,103,0,58,58,250,63
+Ridgefield Borough,Ridgefield Borough,249,0,58,58,250,63
+Phillipsburg,Phillipsburg Town,2119,0,56,56,250,61
+Pleasantville,Pleasantville City,119,0,55,55,250,60
+East Brunswick Township,East Brunswick Township,1204,0,55,55,250,60
+Hillside Township,Hillside Township,2007,0,55,55,250,60
+Lower Township,Lower Township,505,0,54,54,250,58
+Monroe Township,Monroe Township,811,0,53,53,250,57
+Egg Harbor Township,Egg Harbor Township,108,0,52,52,250,56
+Willingboro Township,Willingboro Township,338,0,52,52,250,56
+Mount Laurel Township,Mount Laurel Township,324,0,51,51,250,55
+Voorhees Township,Voorhees Township,434,0,51,51,250,55
+Cedar Grove Township,Cedar Grove Township,704,0,50,50,250,54
+Cliffside Park Borough,Cliffside Park Borough,206,0,46,46,250,50
+Maywood Borough,Maywood Borough,234,0,46,46,250,50
+Woodbury,Woodbury City,822,0,46,46,250,50
+Lakewood Township,Lakewood Township,1515,0,46,46,250,50
+New Milford Borough,New Milford Borough,238,0,45,45,250,49
+Rutherford Borough,Rutherford Borough,256,0,45,45,250,49
+Dumont Borough,Dumont Borough,210,0,44,44,250,48
+Ventnor City,Ventnor City,122,0,43,43,250,47
+Plainsboro Township,Plainsboro Township,1218,0,43,43,250,47
+West Milford Township,West Milford Township,1615,0,43,43,250,47
+Bergenfield Borough,Bergenfield Borough,203,0,42,42,250,45
+Edgewater Borough,Edgewater Borough,213,0,42,42,250,45
+Howell Township,Howell Township,1321,0,42,42,250,45
+Freehold Township,Freehold Township,1317,0,41,41,250,44
+Hanover Township,Hanover Township,1412,0,41,41,250,44
+Burlington Township,Burlington Township,306,0,40,40,250,43
+Lodi Borough,Lodi Borough,231,0,39,39,250,42
+Sayreville Borough,Sayreville Borough,1219,0,39,39,250,42
+Runnemede Borough,Runnemede Borough,430,0,38,38,250,41
+Carlstadt Borough,Carlstadt Borough,205,0,37,37,250,40
+Audubon Borough,Audubon Borough,401,0,37,37,250,40
+Northfield,Northfield City,118,0,36,36,250,39
+Leonia Borough,Leonia Borough,229,0,36,36,250,39
+Haddon Township,Haddon Township,416,0,36,36,250,39
+Verona Township,Verona Township,720,0,35,35,250,38
+Collingswood Borough,Collingswood Borough,412,0,34,34,250,37
+Ocean Township,Ocean Township,1337,0,34,34,250,37
+Wallington Borough,Wallington Borough,265,0,33,33,250,36
+Carteret Borough,Carteret Borough,1201,0,33,33,250,36
+Kenilworth Borough,Kenilworth Borough,2008,0,33,33,250,36
+Fairview Borough,Fairview Borough,218,0,32,32,250,35
+Tenafly Borough,Tenafly Borough,261,0,32,32,250,35
+Brick Township,Brick Township,1507,0,32,32,250,35
+Somers Point,Somers Point City,121,0,31,31,250,34
+Haledon Borough,Haledon Borough,1603,0,31,31,250,34
+Wanaque Borough,Wanaque Borough,1613,0,31,31,250,34
+Pennsville Township,Pennsville Township,1709,0,31,31,250,34
+Bridgeton,Bridgeton City,601,0,30,30,250,32
+Glassboro Borough,Glassboro Borough,806,0,29,29,250,31
+Little Egg Harbor Township,Little Egg Harbor Township,1517,0,29,29,250,31
+Carneys Point Township,Carneys Point Township,1702,0,29,29,250,31
+Buena Vista Township,Buena Vista Township,105,0,28,28,250,30
+Hainesport Township,Hainesport Township,316,0,28,28,250,30
+Manalapan Township,Manalapan Township,1328,0,28,28,250,30
+Marlboro Township,Marlboro Township,1330,0,28,28,250,30
+Union Beach Borough,Union Beach Borough,1350,0,28,28,250,30
+Pompton Lakes Borough,Pompton Lakes Borough,1609,0,28,28,250,30
+Totowa Borough,Totowa Borough,1612,0,28,28,250,30
+North Plainfield Borough,North Plainfield Borough,1814,0,28,28,250,30
+Berlin Borough,Berlin Borough,405,0,27,27,250,29
+Haddonfield Borough,Haddonfield Borough,417,0,27,27,250,29
+West Caldwell Township,West Caldwell Township,721,0,27,27,250,29
+Westville Borough,Westville Borough,821,0,27,27,250,29
+Neptune Township,Neptune Township,1335,0,27,27,250,29
+Penns Grove Borough,Penns Grove Borough,1708,0,27,27,250,29
+Clementon Borough,Clementon Borough,411,0,26,26,250,28
+Haddon Heights Borough,Haddon Heights Borough,418,0,26,26,250,28
+Highland Park Borough,Highland Park Borough,1207,0,26,26,250,28
+North Brunswick Township,North Brunswick Township,1214,0,26,26,250,28
+Keansburg Borough,Keansburg Borough,1323,0,26,26,250,28
+Margate City,Margate City,116,0,25,25,250,27
+Rochelle Park Township,Rochelle Park Township,254,0,25,25,250,27
+Maple Shade Township,Maple Shade Township,319,0,25,25,250,27
+Merchantville Borough,Merchantville Borough,424,0,25,25,250,27
+Pine Hill Borough,Pine Hill Borough,428,0,25,25,250,27
+Mantua Township,Mantua Township,810,0,25,25,250,27
+Freehold Borough,Freehold Borough,1316,0,25,25,250,27
+Stratford Borough,Stratford Borough,432,0,24,24,250,26
+Upper Deerfield Township,Upper Deerfield Township,613,0,24,24,250,26
+Harrison,Harrison Town,904,0,24,24,250,26
+Middlesex Borough,Middlesex Borough,1210,0,24,24,250,26
+Morris Township,Morris Township,1422,0,24,24,250,26
+North Wildwood,North Wildwood City,507,0,23,23,250,25
+Fairfield Township,Fairfield Township,707,0,23,23,250,25
+Greenwich Township,Greenwich Township,807,0,23,23,250,25
+Florham Park Borough,Florham Park Borough,1411,0,23,23,250,25
+Midland Park Borough,Midland Park Borough,235,0,22,22,250,24
+Mount Ephraim Borough,Mount Ephraim Borough,425,0,22,22,250,24
+Logan Township,Logan Township,809,0,22,22,250,24
+Palisades Park Borough,Palisades Park Borough,245,0,21,21,250,23
+South Hackensack Township,South Hackensack Township,259,0,21,21,250,23
+Aberdeen Township,Aberdeen Township,1301,0,21,21,250,23
+Eatontown Borough,Eatontown Borough,1312,0,21,21,250,23
+Pequannock Township,Pequannock Township,1431,0,21,21,250,23
+Jackson Township,Jackson Township,1512,0,21,21,250,23
+Salem,Salem City,1713,0,21,21,250,23
+Mullica Township,Mullica Township,117,0,20,20,250,22
+Bogota Borough,Bogota Borough,204,0,20,20,250,22
+Evesham Township,Evesham Township,313,0,20,20,250,22
+Mount Holly Township,Mount Holly Township,323,0,20,20,250,22
+East Greenwich Township,East Greenwich Township,803,0,20,20,250,22
+Colts Neck Township,Colts Neck Township,1310,0,20,20,250,22
+Clark Township,Clark Township,2002,0,20,20,250,22
+Longport Borough,Longport Borough,115,0,19,19,250,21
+Moonachie Borough,Moonachie Borough,237,0,19,19,250,21
+Teterboro Borough,Teterboro Borough,262,0,19,19,250,21
+Delran Township,Delran Township,310,0,19,19,250,21
+Barrington Borough,Barrington Borough,403,0,19,19,250,21
+Caldwell Borough,Caldwell Borough,703,0,19,19,250,21
+Milltown Borough,Milltown Borough,1211,0,19,19,250,21
+Riverdale Borough,Riverdale Borough,1433,0,19,19,250,21
+Little Ferry Borough,Little Ferry Borough,230,0,18,18,250,19
+North Arlington Borough,North Arlington Borough,239,0,18,18,250,19
+Gloucester City,Gloucester City,414,0,18,18,250,19
+Franklin Township,Franklin Township,805,0,18,18,250,19
+Piscataway Township,Piscataway Township,1217,0,18,18,250,19
+Rumson Borough,Rumson Borough,1341,0,18,18,250,19
+Wharton Borough,Wharton Borough,1439,0,18,18,250,19
+Woodland Park Borough,Woodland Park Borough,1616,0,18,18,250,19
+Guttenberg,Guttenberg Town,903,0,17,17,250,18
+East Hanover Township,East Hanover Township,1410,0,17,17,250,18
+Lincoln Park Borough,Lincoln Park Borough,1416,0,17,17,250,18
+Randolph Township,Randolph Township,1432,0,17,17,250,18
+Avalon Borough,Avalon Borough,501,0,16,16,250,17
+Fairfield Township,Fairfield Township,605,0,16,16,250,17
+Fair Haven Borough,Fair Haven Borough,1314,0,16,16,250,17
+West Long Branch Borough,West Long Branch Borough,1353,0,16,16,250,17
+Butler Borough,Butler Borough,1403,0,16,16,250,17
+Lacey Township,Lacey Township,1513,0,16,16,250,17
+Pemberton Township,Pemberton Township,329,0,15,15,250,16
+Cresskill Borough,Cresskill Borough,208,0,14,14,250,15
+Franklin Lakes Borough,Franklin Lakes Borough,220,0,14,14,250,15
+Wyckoff Township,Wyckoff Township,270,0,14,14,250,15
+Wildwood,Wildwood City,514,0,14,14,250,15
+Pitman Borough,Pitman Borough,815,0,14,14,250,15
+Robbinsville Township,Robbinsville Township,1112,0,14,14,250,15
+Ocean Township,Ocean Township,1521,0,14,14,250,15
+Woodstown Borough,Woodstown Borough,1715,0,14,14,250,15
+Englewood Cliffs Borough,Englewood Cliffs Borough,216,0,13,13,250,14
+Bellmawr Borough,Bellmawr Borough,404,0,13,13,250,14
+Somerdale Borough,Somerdale Borough,431,0,13,13,250,14
+Clayton Borough,Clayton Borough,801,0,13,13,250,14
+Harrison Township,Harrison Township,808,0,13,13,250,14
+Spring Lake Heights Borough,Spring Lake Heights Borough,1348,0,13,13,250,14
+Wall Township,Wall Township,1352,0,13,13,250,14
+Berlin Township,Berlin Township,406,0,12,12,250,13
+National Park Borough,National Park Borough,812,0,12,12,250,13
+Swedesboro Borough,Swedesboro Borough,817,0,12,12,250,13
+Woodbury Heights Borough,Woodbury Heights Borough,823,0,12,12,250,13
+South River Borough,South River Borough,1223,0,12,12,250,13
+Atlantic Highlands Borough,Atlantic Highlands Borough,1305,0,12,12,250,13
+Highlands Borough,Highlands Borough,1319,0,12,12,250,13
+Keyport Borough,Keyport Borough,1324,0,12,12,250,13
+Rockaway Borough,Rockaway Borough,1434,0,12,12,250,13
+Berkeley Township,Berkeley Township,1506,0,12,12,250,13
+Point Pleasant Borough,Point Pleasant Borough,1525,0,12,12,250,13
+Upper Pittsgrove Township,Upper Pittsgrove Township,1714,0,12,12,250,13
+Bass River Township,Bass River Township,301,0,11,11,250,12
+Oaklyn Borough,Oaklyn Borough,426,0,11,11,250,12
+Dennis Township,Dennis Township,504,0,11,11,250,12
+Roseland Borough,Roseland Borough,718,0,11,11,250,12
+Monroe Township,Monroe Township,1212,0,11,11,250,12
+Deal Borough,Deal Borough,1311,0,11,11,250,12
+Shrewsbury Borough,Shrewsbury Borough,1344,0,11,11,250,12
+Bordentown Township,Bordentown Township,304,0,10,10,250,11
+Woodlynne Borough,Woodlynne Borough,437,0,10,10,250,11
+West Cape May Borough,West Cape May Borough,512,0,10,10,250,11
+Woodbine Borough,Woodbine Borough,516,0,10,10,250,11
+Elk Township,Elk Township,804,0,10,10,250,11
+Wenonah Borough,Wenonah Borough,819,0,10,10,250,11
+Spotswood Borough,Spotswood Borough,1224,0,10,10,250,11
+Barnegat Township,Barnegat Township,1501,0,10,10,250,11
+Tuckerton Borough,Tuckerton Borough,1533,0,10,10,250,11
+Mannington Township,Mannington Township,1706,0,10,10,250,11
+Mansfield Township,Mansfield Township,318,0,9,9,250,10
+Westampton Township,Westampton Township,337,0,9,9,250,10
+Upper Township,Upper Township,511,0,9,9,250,10
+Essex Fells Borough,Essex Fells Borough,706,0,9,9,250,10
+Pennington Borough,Pennington Borough,1108,0,9,9,250,10
+Sea Girt Borough,Sea Girt Borough,1343,0,9,9,250,10
+Bloomingdale Borough,Bloomingdale Borough,1601,0,9,9,250,10
+Pilesgrove Township,Pilesgrove Township,1710,0,9,9,250,10
+New Hanover Township,New Hanover Township,325,0,8,8,250,9
+Southampton Township,Southampton Township,333,0,8,8,250,9
+Magnolia Borough,Magnolia Borough,423,0,8,8,250,9
+Paulsboro Borough,Paulsboro Borough,814,0,8,8,250,9
+Lake Como Borough,Lake Como Borough,1346,0,8,8,250,9
+Green Brook Township,Green Brook Township,1809,0,8,8,250,9
+Montgomery Township,Montgomery Township,1813,0,8,8,250,9
+Mountainside Borough,Mountainside Borough,2010,0,8,8,250,9
+Closter Borough,Closter Borough,207,0,7,7,250,8
+Haworth Borough,Haworth Borough,226,0,7,7,250,8
+Oakland Borough,Oakland Borough,242,0,7,7,250,8
+Brooklawn Borough,Brooklawn Borough,407,0,7,7,250,8
+Brielle Borough,Brielle Borough,1309,0,7,7,250,8
+Plumsted Township,Plumsted Township,1524,0,7,7,250,8
+Lopatcong Township,Lopatcong Township,2115,0,7,7,250,8
+Folsom Borough,Folsom Borough,110,0,6,6,250,6
+North Hanover Township,North Hanover Township,326,0,6,6,250,6
+Lawnside Borough,Lawnside Borough,421,0,6,6,250,6
+Sea Isle City,Sea Isle City,509,0,6,6,250,6
+Maurice River Township,Maurice River Township,609,0,6,6,250,6
+Woolwich Township,Woolwich Township,824,0,6,6,250,6
+Avon-by-the-Sea Borough,Avon-by-the-Sea Borough,1306,0,6,6,250,6
+Tinton Falls Borough,Tinton Falls Borough,1349,0,6,6,250,6
+Beachwood Borough,Beachwood Borough,1505,0,6,6,250,6
+Prospect Park Borough,Prospect Park Borough,1610,0,6,6,250,6
+Oldmans Township,Oldmans Township,1707,0,6,6,250,6
+Edgewater Park Township,Edgewater Park Township,312,0,5,5,250,5
+Fieldsboro Borough,Fieldsboro Borough,314,0,5,5,250,5
+Newfield Borough,Newfield Borough,813,0,5,5,250,5
+Hopewell Township,Hopewell Township,1106,0,5,5,250,5
+Stafford Township,Stafford Township,1531,0,5,5,250,5
+Winfield Township,Winfield Township,2021,0,5,5,250,5
+Estell Manor,Estell Manor City,109,0,4,4,250,4
+Lumberton Township,Lumberton Township,317,0,4,4,250,4
+Wrightstown Borough,Wrightstown Borough,340,0,4,4,250,4
+Laurel Springs Borough,Laurel Springs Borough,420,0,4,4,250,4
+Stone Harbor Borough,Stone Harbor Borough,510,0,4,4,250,4
+Neptune City Borough,Neptune City Borough,1336,0,4,4,250,4
+Sea Bright Borough,Sea Bright Borough,1342,0,4,4,250,4
+Rockaway Township,Rockaway Township,1435,0,4,4,250,4
+Eagleswood Township,Eagleswood Township,1509,0,4,4,250,4
+Ringwood Borough,Ringwood Borough,1611,0,4,4,250,4
+Corbin City,Corbin City,106,0,3,3,250,3
+Oceanport Borough,Oceanport Borough,1338,0,3,3,250,3
+Watchung Borough,Watchung Borough,1821,0,3,3,250,3
+Pohatcong Township,Pohatcong Township,2120,0,3,3,250,3
+Buena Borough,Buena Borough,104,0,2,2,250,2
+Port Republic,Port Republic City,120,0,2,2,250,2
+Weymouth Township,Weymouth Township,123,0,2,2,250,2
+Ramsey Borough,Ramsey Borough,248,2,0,2,250,2
+Pemberton Borough,Pemberton Borough,328,0,2,2,250,2
+Cape May,Cape May City,502,0,2,2,250,2
+Ocean City,Ocean City,508,0,2,2,250,2
+East Newark Borough,East Newark Borough,902,0,2,2,250,2
+Loch Arbour Village,Loch Arbour Village,1326,0,2,2,250,2
+Long Hill Township,Long Hill Township,1430,2,0,2,250,2
+Victory Gardens Borough,Victory Gardens Borough,1437,0,2,2,250,2
+Bernards Township,Bernards Township,1802,2,0,2,250,2
+Peapack-Gladstone Borough,Peapack-Gladstone Borough,1815,2,0,2,250,2
+Allendale Borough,Allendale Borough,201,1,0,1,250,1
+Harrington Park Borough,Harrington Park Borough,224,0,1,1,250,1
+Hillsdale Borough,Hillsdale Borough,227,1,0,1,250,1
+Ho-Ho-Kus Borough,Ho-Ho-Kus Borough,228,1,0,1,250,1
+Mahwah Township,Mahwah Township,233,1,0,1,250,1
+Montvale Borough,Montvale Borough,236,1,0,1,250,1
+Waldwick Borough,Waldwick Borough,264,1,0,1,250,1
+Woodcliff Lake Borough,Woodcliff Lake Borough,268,1,0,1,250,1
+Delanco Township,Delanco Township,309,1,0,1,250,1
+Audubon Park Borough,Audubon Park Borough,402,0,1,1,250,1
+Clinton,Clinton Town,1005,1,0,1,250,1
+High Bridge Borough,High Bridge Borough,1014,1,0,1,250,1
+Lebanon Borough,Lebanon Borough,1018,1,0,1,250,1
+Little Silver Borough,Little Silver Borough,1325,1,0,1,250,1
+Kinnelon Borough,Kinnelon Borough,1415,0,1,1,250,1
+Mount Olive Township,Mount Olive Township,1427,1,0,1,250,1
+Mountain Lakes Borough,Mountain Lakes Borough,1425,1,0,1,250,1
+Netcong Borough,Netcong Borough,1428,1,0,1,250,1
+Bernardsville Borough,Bernardsville Borough,1803,1,0,1,250,1
+Branchburg Township,Branchburg Township,1805,1,0,1,250,1
+Far Hills Borough,Far Hills Borough,1807,1,0,1,250,1
+Raritan Borough,Raritan Borough,1816,1,0,1,250,1
+Hardyston Township,Hardyston Township,1911,0,1,1,250,1
+Hackettstown,Hackettstown Town,2108,1,0,1,250,1
+Alpine Borough,Alpine Borough,202,0,0,0,0,0
+Demarest Borough,Demarest Borough,209,0,0,0,0,0
+Northvale Borough,Northvale Borough,240,0,0,0,0,0
+Norwood Borough,Norwood Borough,241,0,0,0,0,0
+Old Tappan Borough,Old Tappan Borough,243,0,0,0,0,0
+Park Ridge Borough,Park Ridge Borough,247,0,0,0,0,0
+River Vale Township,River Vale Township,253,0,0,0,0,0
+Rockleigh Borough,Rockleigh Borough,255,0,0,0,0,0
+Saddle River Borough,Saddle River Borough,258,0,0,0,0,0
+Upper Saddle River Borough,Upper Saddle River Borough,263,0,0,0,0,0
+Washington Township,Washington Township,266,0,0,0,0,0
+Chesterfield Township,Chesterfield Township,307,0,0,0,0,0
+Eastampton Township,Eastampton Township,311,0,0,0,0,0
+Medford Lakes Borough,Medford Lakes Borough,321,0,0,0,0,0
+Medford Township,Medford Township,320,0,0,0,0,0
+Shamong Township,Shamong Township,332,0,0,0,0,0
+Springfield Township,Springfield Township,334,0,0,0,0,0
+Tabernacle Township,Tabernacle Township,335,0,0,0,0,0
+Washington Township,Washington Township,336,0,0,0,0,0
+Woodland Township,Woodland Township,339,0,0,0,0,0
+Fredon Township,Fredon Township,1907,0,0,0,0,0
+Gibbsboro Borough,Gibbsboro Borough,413,0,0,0,0,0
+Hi-Nella Borough,Hi-Nella Borough,419,0,0,0,0,0
+Pine Valley Borough,Pine Valley Borough,429,0,0,0,0,0
+Tavistock Borough,Tavistock Borough,433,0,0,0,0,0
+Cape May Point Borough,Cape May Point Borough,503,0,0,0,0,0
+West Wildwood Borough,West Wildwood Borough,513,0,0,0,0,0
+Wildwood Crest Borough,Wildwood Crest Borough,515,0,0,0,0,0
+Commercial Township,Commercial Township,602,0,0,0,0,0
+Deerfield Township,Deerfield Township,603,0,0,0,0,0
+Downe Township,Downe Township,604,0,0,0,0,0
+Greenwich Township,Greenwich Township,606,0,0,0,0,0
+Hopewell Township,Hopewell Township,607,0,0,0,0,0
+Lawrence Township,Lawrence Township,608,0,0,0,0,0
+Shiloh Borough,Shiloh Borough,611,0,0,0,0,0
+Stow Creek Township,Stow Creek Township,612,0,0,0,0,0
+North Caldwell Borough,North Caldwell Borough,715,0,0,0,0,0
+South Harrison Township,South Harrison Township,816,0,0,0,0,0
+Alexandria Township,Alexandria Township,1001,0,0,0,0,0
+Bethlehem Township,Bethlehem Township,1002,0,0,0,0,0
+Bloomsbury Borough,Bloomsbury Borough,1003,0,0,0,0,0
+Califon Borough,Califon Borough,1004,0,0,0,0,0
+Clinton Township,Clinton Township,1006,0,0,0,0,0
+Delaware Township,Delaware Township,1007,0,0,0,0,0
+East Amwell Township,East Amwell Township,1008,0,0,0,0,0
+Flemington Borough,Flemington Borough,1009,0,0,0,0,0
+Franklin Township,Franklin Township,1010,0,0,0,0,0
+Frenchtown Borough,Frenchtown Borough,1011,0,0,0,0,0
+Glen Gardner Borough,Glen Gardner Borough,1012,0,0,0,0,0
+Hampton Borough,Hampton Borough,1013,0,0,0,0,0
+Holland Township,Holland Township,1015,0,0,0,0,0
+Kingwood Township,Kingwood Township,1016,0,0,0,0,0
+Lambertville,Lambertville City,1017,0,0,0,0,0
+Lebanon Township,Lebanon Township,1019,0,0,0,0,0
+Milford Borough,Milford Borough,1020,0,0,0,0,0
+Raritan Township,Raritan Township,1021,0,0,0,0,0
+Readington Township,Readington Township,1022,0,0,0,0,0
+Stockton Borough,Stockton Borough,1023,0,0,0,0,0
+Tewksbury Township,Tewksbury Township,1024,0,0,0,0,0
+Union Township,Union Township,1025,0,0,0,0,0
+West Amwell Township,West Amwell Township,1026,0,0,0,0,0
+East Windsor Township,East Windsor Township,1101,0,0,0,0,0
+Hightstown Borough,Hightstown Borough,1104,0,0,0,0,0
+Hopewell Borough,Hopewell Borough,1105,0,0,0,0,0
+Cranbury Township,Cranbury Township,1202,0,0,0,0,0
+Helmetta Borough,Helmetta Borough,1206,0,0,0,0,0
+Jamesburg Borough,Jamesburg Borough,1208,0,0,0,0,0
+South Brunswick Township,South Brunswick Township,1221,0,0,0,0,0
+Allentown Borough,Allentown Borough,1303,0,0,0,0,0
+Englishtown Borough,Englishtown Borough,1313,0,0,0,0,0
+Farmingdale Borough,Farmingdale Borough,1315,0,0,0,0,0
+Holmdel Township,Holmdel Township,1320,0,0,0,0,0
+Interlaken Borough,Interlaken Borough,1322,0,0,0,0,0
+Millstone Township,Millstone Township,1333,0,0,0,0,0
+Monmouth Beach Borough,Monmouth Beach Borough,1334,0,0,0,0,0
+Roosevelt Borough,Roosevelt Borough,1340,0,0,0,0,0
+Shrewsbury Township,Shrewsbury Township,1345,0,0,0,0,0
+Upper Freehold Township,Upper Freehold Township,1351,0,0,0,0,0
+Boonton Township,Boonton Township,1402,0,0,0,0,0
+Chatham Township,Chatham Township,1405,0,0,0,0,0
+Chester Borough,Chester Borough,1406,0,0,0,0,0
+Chester Township,Chester Township,1407,0,0,0,0,0
+Harding Township,Harding Township,1413,0,0,0,0,0
+Jefferson Township,Jefferson Township,1414,0,0,0,0,0
+Mendham Borough,Mendham Borough,1418,0,0,0,0,0
+Mendham Township,Mendham Township,1419,0,0,0,0,0
+Mine Hill Township,Mine Hill Township,1420,0,0,0,0,0
+Mount Arlington Borough,Mount Arlington Borough,1426,0,0,0,0,0
+Washington Township,Washington Township,1438,0,0,0,0,0
+Barnegat Light Borough,Barnegat Light Borough,1502,0,0,0,0,0
+Bay Head Borough,Bay Head Borough,1503,0,0,0,0,0
+Beach Haven Borough,Beach Haven Borough,1504,0,0,0,0,0
+Harvey Cedars Borough,Harvey Cedars Borough,1510,0,0,0,0,0
+Island Heights Borough,Island Heights Borough,1511,0,0,0,0,0
+Lakehurst Borough,Lakehurst Borough,1514,0,0,0,0,0
+Lavallette Borough,Lavallette Borough,1516,0,0,0,0,0
+Long Beach Township,Long Beach Township,1518,0,0,0,0,0
+Manchester Township,Manchester Township,1519,0,0,0,0,0
+Mantoloking Borough,Mantoloking Borough,1520,0,0,0,0,0
+Ocean Gate Borough,Ocean Gate Borough,1522,0,0,0,0,0
+Pine Beach Borough,Pine Beach Borough,1523,0,0,0,0,0
+Seaside Heights Borough,Seaside Heights Borough,1527,0,0,0,0,0
+Seaside Park Borough,Seaside Park Borough,1528,0,0,0,0,0
+Ship Bottom Borough,Ship Bottom Borough,1529,0,0,0,0,0
+South Toms River Borough,South Toms River Borough,1530,0,0,0,0,0
+Surf City Borough,Surf City Borough,1532,0,0,0,0,0
+North Haledon Borough,North Haledon Borough,1606,0,0,0,0,0
+Alloway Township,Alloway Township,1701,0,0,0,0,0
+Elmer Borough,Elmer Borough,1703,0,0,0,0,0
+Elsinboro Township,Elsinboro Township,1704,0,0,0,0,0
+Lower Alloways Creek Township,Lower Alloways Creek Township,1705,0,0,0,0,0
+Green Township,Green Township,1908,0,0,0,0,0
+Pittsgrove Township,Pittsgrove Township,1711,0,0,0,0,0
+Quinton Township,Quinton Township,1712,0,0,0,0,0
+Bedminster Township,Bedminster Township,1801,0,0,0,0,0
+Franklin Township,Franklin Township,1808,0,0,0,0,0
+Hillsborough Township,Hillsborough Township,1810,0,0,0,0,0
+Manville Borough,Manville Borough,1811,0,0,0,0,0
+Millstone Borough,Millstone Borough,1812,0,0,0,0,0
+Rocky Hill Borough,Rocky Hill Borough,1817,0,0,0,0,0
+South Bound Brook Borough,South Bound Brook Borough,1819,0,0,0,0,0
+Warren Township,Warren Township,1820,0,0,0,0,0
+Andover Borough,Andover Borough,1901,0,0,0,0,0
+Andover Township,Andover Township,1902,0,0,0,0,0
+Branchville Borough,Branchville Borough,1903,0,0,0,0,0
+Byram Township,Byram Township,1904,0,0,0,0,0
+Frankford Township,Frankford Township,1905,0,0,0,0,0
+Franklin Borough,Franklin Borough,1906,0,0,0,0,0
+Hamburg Borough,Hamburg Borough,1909,0,0,0,0,0
+Hampton Township,Hampton Township,1910,0,0,0,0,0
+Hopatcong Borough,Hopatcong Borough,1912,0,0,0,0,0
+Lafayette Township,Lafayette Township,1913,0,0,0,0,0
+Montague Township,Montague Township,1914,0,0,0,0,0
+Newton,Newton Town,1915,0,0,0,0,0
+Ogdensburg Borough,Ogdensburg Borough,1916,0,0,0,0,0
+Sandyston Township,Sandyston Township,1917,0,0,0,0,0
+Sparta Township,Sparta Township,1918,0,0,0,0,0
+Stanhope Borough,Stanhope Borough,1919,0,0,0,0,0
+Stillwater Township,Stillwater Township,1920,0,0,0,0,0
+Sussex Borough,Sussex Borough,1921,0,0,0,0,0
+Vernon Township,Vernon Township,1922,0,0,0,0,0
+Walpack Township,Walpack Township,1923,0,0,0,0,0
+Wantage Township,Wantage Township,1924,0,0,0,0,0
+Allamuchy Township,Allamuchy Township,2101,0,0,0,0,0
+Alpha Borough,Alpha Borough,2102,0,0,0,0,0
+Belvidere,Belvidere Town,2103,0,0,0,0,0
+Blairstown Township,Blairstown Township,2104,0,0,0,0,0
+Franklin Township,Franklin Township,2105,0,0,0,0,0
+Frelinghuysen Township,Frelinghuysen Township,2106,0,0,0,0,0
+Greenwich Township,Greenwich Township,2107,0,0,0,0,0
+Hardwick Township,Hardwick Township,2109,0,0,0,0,0
+Harmony Township,Harmony Township,2110,0,0,0,0,0
+Hope Township,Hope Township,2111,0,0,0,0,0
+Independence Township,Independence Township,2112,0,0,0,0,0
+Knowlton Township,Knowlton Township,2113,0,0,0,0,0
+Liberty Township,Liberty Township,2114,0,0,0,0,0
+Mansfield Township,Mansfield Township,2116,0,0,0,0,0
+Oxford Township,Oxford Township,2117,0,0,0,0,0
+Washington Borough,Washington Borough,2121,0,0,0,0,0
+Washington Township,Washington Township,2122,0,0,0,0,0
+White Township,White Township,2123,0,0,0,0,0
