@@ -109,7 +109,7 @@ Home Page:<br>
 
 Map with the filters:<br>
 
-![MapFilters](WebInterface/static/img/Presentation/App.PNG)
+![MapFilters](WebInterface/static/img/Presentation/App.png)
 
 <br>
 
