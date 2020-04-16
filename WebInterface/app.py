@@ -45,6 +45,22 @@ def heat():
     
     return jsonify(munis)
 
+@app.route("/dscore")
+def dScore():
+    # Create connection variable
+    # conn2 = 'mongodb://localhost:27017'
+    dScores = []
+
+    # Pass connection to the pymongo instance.
+    client2 = pymongo.MongoClient(conn2)
+
+    # Connect to a database. Will create one if not already available.
+    db2 = client2.Dwelling_db
+    
+    dScores = [doc for doc in db2.Summary.find({}, {'_id':False})]
+    
+    return jsonify(dScores)
+
 @app.route("/hs/<muni>")
 def highSchoolMarkers(muni):
     # Create connection variable
