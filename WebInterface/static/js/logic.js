@@ -291,6 +291,16 @@ function clearHeatMaps() {
 
 }
 
+function resetMap(){
+  clearMarkers();
+    var coord = {
+      'lat': "40.0583",
+      'lon': "-74.4057"
+    }
+    map.flyTo(coord, 8);
+    drawHeatMaps()
+}
+
 
 //***************************************
 //       POPULATE TABLE
@@ -523,17 +533,8 @@ d3.select("#DwellMe")
     // safeHeat(eval(d3.select("#Safety").property('value')))
     drawHeatMaps();
   })
-d3.select("#resetMap")
-  .on("click", function () {
-    clearMarkers();
-    var coord = {
-      'lat': "40.0583",
-      'lon': "-74.4057"
-    }
-    map.flyTo(coord, 8);
-    drawHeatMaps()
-  })
 
+  
 // CitySelect = d3.select("#City");
 // CitySelect.on("change", function () {
 //   currentCity = d3.select('#City option:checked').text();

@@ -218,10 +218,7 @@
         </div>
       </div>
       <div class="row" style="width:100%;">
-        <div class="col-sm-1" style="padding-top: 10px; padding-bottom: 10px;">
-          <button type="submit" class="btn btn-info" style="height:700px; width:5px; padding:0px" id="resetMap"></button>
-        </div>
-        <div class="col-sm-11" id="ret">
+        <div class="col-sm-12" id="ret">
           <!-- map div -->
           <div id="map"></div>
           <!-- Leaflet heatmap plugin-->
@@ -235,6 +232,11 @@
           <script type="text/javascript" src="static/js/logic.js"></script>
 
           <script src="static/js/leaflet.extra-markers.min.js"></script>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-12" style="padding-top: 10px; padding-bottom: 10px;">
+            <button type="button" class="btn btn-info" style="width:30%; padding:0px" onclick="resetMap()">Reset Map</button>
         </div>
       </div>
       <div class="row">
