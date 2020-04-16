@@ -112,7 +112,19 @@ A machine learning algorithm uses data sources to predict fair prices per each a
 ![Reg4](WebInterface/static/img/Presentation/Reg4.PNG)
 ![Reg5](WebInterface/static/img/Presentation/Reg5.PNG)
 ![Reg6](WebInterface/static/img/Presentation/Reg6.PNG)
-![Reg7](WebInterface/static/img/Presentation/Reg7.PNG)
+
+<br><br>
+
+## VARIABLES THAT IMPACT THE MODEL
+
+![Var1](WebInterface/static/img/Presentation/Variables1.PNG)
+![Var2](WebInterface/static/img/Presentation/Variables2.PNG)
+
+<br><br>
+
+## VISUALIZATION OF SOME VARIABLES THAT IMPACT THE MODEL
+
+![pairplot](WebInterface/static/img/Presentation/pairplot.png)
 
 <br><br>
 
